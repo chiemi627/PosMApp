@@ -23,7 +23,7 @@ function ajaxdownload(pageName){
 	var flag = localStorage.getItem("downloadSuccess");
 	if(flag === "false" || flag === null){
 		$.ajax({
-		   		url: "http://posmapp.tk/api/data.php",
+		   		url: posMAppDataURL,
 				type: "POST",
 				dataType: "json",
 				async: false,
@@ -39,23 +39,37 @@ function ajaxdownload(pageName){
 					presen 			= data.presen;
 					presents 		= data.presents;
 					session 		= data.session;
+					timetable		= data.timetable;
 					commentator 	= data.commentator;
 					position_map 	= data.position_map;
 					position 		= data.position;
 					taparea 		= data.taparea;
+					venuemap		= data.venuemap;
 					STATIC_WIDTH 	= data.STATIC_WIDTH;
 					STATIC_HEIGHT 	= data.STATIC_HEIGHT;
 
 					localStorage.setItem("poster",JSON.stringify(data.poster));
 					localStorage.setItem("author",JSON.stringify(data.author));
-					localStorage.setItem("keyword",JSON.stringify(data.keyword));
+					if(keyword != null){
+						localStorage.setItem("keyword",JSON.stringify(data.keyword));
+					}
 					localStorage.setItem("presen",JSON.stringify(data.presen));
-					localStorage.setItem("presents",JSON.stringify(data.presents));
-					localStorage.setItem("session",JSON.stringify(data.session));
-					localStorage.setItem("commentator",JSON.stringify(data.commentator));
+					if(presents != null){
+						localStorage.setItem("presents",JSON.stringify(data.presents));
+					}
+					if(session != null){
+						localStorage.setItem("session",JSON.stringify(data.session));
+					}
+					localStorage.setItem("timetable",JSON.stringify(data.timetable));
+					if(commentator != null){
+						localStorage.setItem("commentator",JSON.stringify(data.commentator));
+					}
 					localStorage.setItem("position_map",JSON.stringify(data.position_map));
 					localStorage.setItem("position",JSON.stringify(data.position));
-					localStorage.setItem("taparea",JSON.stringify(data.taparea));
+					if(taparea != null){
+						localStorage.setItem("taparea",JSON.stringify(data.taparea));
+					}
+					localStorage.setItem("venuemap",JSON.stringify(data.venuemap));
 					localStorage.setItem("STATIC_WIDTH",JSON.stringify(data.STATIC_WIDTH));
 					localStorage.setItem("STATIC_HEIGHT",JSON.stringify(data.STATIC_HEIGHT));
 
@@ -99,14 +113,14 @@ function ajaxdownload(pageName){
 function isValidLocalStorage() {
 	if (localStorage.getItem("poster") === null) return false;
 	if (localStorage.getItem("author") === null) return false;
-	if (localStorage.getItem("keyword") === null) return false;
+//	if (localStorage.getItem("keyword") === null) return false;
 	if (localStorage.getItem("presen") === null) return false;
-	if (localStorage.getItem("presents") === null) return false;
-	if (localStorage.getItem("session") === null) return false;
-	if (localStorage.getItem("commentator") === null) return false;
+//	if (localStorage.getItem("presents") === null) return false;
+//	if (localStorage.getItem("session") === null) return false;
+//	if (localStorage.getItem("commentator") === null) return false;
 	if (localStorage.getItem("position_map") === null) return false;
 	if (localStorage.getItem("position") === null) return false;
-	if (localStorage.getItem("taparea") === null) return false;
+//	if (localStorage.getItem("taparea") === null) return false;
 	if (localStorage.getItem("STATIC_WIDTH") === null) return false;
 	if (localStorage.getItem("STATIC_HEIGHT") === null) return false;
 	return true;

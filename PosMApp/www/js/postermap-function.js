@@ -115,41 +115,24 @@ function setPosterIcons() {
 		var iconHeight;
 		ptotal = poster.length;
 
-		// 2日目のポスター開始位置
-		// 完全にDEIM2015仕様決め打ち
+		// 1日分のポスター掲示枚数（n 日開催してもポスター掲示位置は同じとする）
 		var offset = position_map.length;
 
-		// 1日目のポスター
-		for (var i = 1; i <= offset; i++) {
-			
-			iconWidth = position[position_map[i-1]].width * INIT_SCALE;
-			iconHeight = position[position_map[i-1]].height * INIT_SCALE;
+		for (var i = 1; i <= ptotal; i++) {
+
+			var day = Math.floor(i / offset)+1;
+			var dailypid = i % offset;
+			if(dailypid==0){dailypid = offset;}
+			var day_divclass = "day"+day;
+
+			iconWidth = position[position_map[dailypid-1]].width * INIT_SCALE;
+			iconHeight = position[position_map[dailypid-1]].height * INIT_SCALE;
 
 			angle = starAngle[poster[i-1].star];
 			pos = starpos[poster[i-1].star];
 
 			str +=
-				"<div class='postericonframe day1' id='iconNo" + i + "' style='left:"+(position[position_map[i-1]].x*INIT_SCALE)+"px;top:"+(position[position_map[i-1]].y*INIT_SCALE)+"px;width:" + iconWidth + "px;height:" + iconHeight + "px;'>\
-					<div class='postericon' style='width:" + iconWidth + "px;height:" + iconHeight + "px;'>\
-						<div class='dpic' id='icon" + i +"' style='width:" + iconWidth + "px;height:" + iconHeight + "px; display: table-cell; vertical-align: middle; text-align: center;'>\
-							<div class='posterfont' id='font" + i + "'>" + poster[i-1].presenid + "</div>\
-						</div>\
-					</div>\
-					<img id='star" + pos + "No" + i +"' class='star bookmarkstar' style='"+angle+" display:none;' src='img/bookmark.png'></img>\
-				</div>\n";
-		}
-		// 2日目のポスター
-		
-		for (var i = offset + 1; i <= ptotal; i++) {
-			
-			iconWidth = position[position_map[i-offset-1]].width * INIT_SCALE;
-			iconHeight = position[position_map[i-offset-1]].height * INIT_SCALE;
-
-			angle = starAngle[poster[i-1].star];
-			pos = starpos[poster[i-1].star];
-
-			str += 
-				"<div class='postericonframe day2' id='iconNo" + i + "' style='left:"+(position[position_map[i-offset-1]].x*INIT_SCALE)+"px;top:"+(position[position_map[i-offset-1]].y*INIT_SCALE)+"px;width:" + iconWidth + "px;height:" + iconHeight + "px;'>\
+				"<div class='postericonframe "+ day_divclass + "' id='iconNo" + i + "' style='left:"+(position[position_map[dailypid-1]].x*INIT_SCALE)+"px;top:"+(position[position_map[dailypid-1]].y*INIT_SCALE)+"px;width:" + iconWidth + "px;height:" + iconHeight + "px;'>\
 					<div class='postericon' style='width:" + iconWidth + "px;height:" + iconHeight + "px;'>\
 						<div class='dpic' id='icon" + i +"' style='width:" + iconWidth + "px;height:" + iconHeight + "px; display: table-cell; vertical-align: middle; text-align: center;'>\
 							<div class='posterfont' id='font" + i + "'>" + poster[i-1].presenid + "</div>\
@@ -160,13 +143,17 @@ function setPosterIcons() {
 		}
 	}
 	document.getElementById("posters").innerHTML = str;
-	if (sessionStorage.getItem("currentPosterMapDate") === "1") {
-		$(".day1").show();
-		$(".day2").hide();
-	} else {
-		$(".day1").hide();
-		$(".day2").show();
+
+	var dt = sessionStorage.getItem("currentPosterMapDate");
+	for(var i=1;i<=poster_days;i++){
+		if(i == Number(dt)){
+			$(".day"+dt).show();
+		}
+		else{
+			$(".day"+i).hide();
+		}
 	}
+
 	showBookmarkStars();
 }
 
@@ -242,34 +229,16 @@ function setLabelSize() {
 	if (poster != null && position_map != null && position != null) {
 		ptotal = poster.length;
 
-		// 2日目のポスター開始位置
-		// 完全にDEIM2015仕様決め打ち
 		var offset = position_map.length;
 
-		for (var i = 1; i <= offset; i++) {
-			iconWidth = position[position_map[i-1]].width*INIT_SCALE;
-			iconHeight = position[position_map[i-1]].height*INIT_SCALE;
-			iconDirection = position[position_map[i-1]].direction;
-			if (iconDirection === "longways") {
-				var scale = iconHeight / (4 * empx);
-				var rotate = "90deg";
-				$("#font" + i)
-					.css("transform", "rotateZ(" + rotate + ") scale(" + scale + ")")
-					.css("top", "calc(-50% + " + (empx*scale) + "px)")
-					.css("left", "calc(-50% + " + (empx*scale) + "px)");
-			} else {
-				var scale = iconWidth / (4 * empx);
-				$("#font" + i)
-					.css("transform", "scale(" + scale + ")")
-					.css("top", "calc(-50% + " + (empx*scale) + "px)")
-					.css("left", "calc(-50% + " + (empx*scale) + "px)");
-			}
-		}
+		for (var i = 1; i <= ptotal; i++) {
 
-		for (var i = offset + 1; i <= ptotal; i++) {
-			iconWidth = position[position_map[i-offset-1]].width*INIT_SCALE;
-			iconHeight = position[position_map[i-offset-1]].height*INIT_SCALE;
-			iconDirection = position[position_map[i-offset-1]].direction;
+			var dailypid = i % offset;
+			if(dailypid==0){dailypid = offset;}
+
+			iconWidth = position[position_map[dailypid-1]].width*INIT_SCALE;
+			iconHeight = position[position_map[dailypid-1]].height*INIT_SCALE;
+			iconDirection = position[position_map[dailypid-1]].direction;
 			if (iconDirection === "longways") {
 				var scale = iconHeight / (4 * empx);
 				var rotate = "90deg";
@@ -645,11 +614,14 @@ function searchAll(word) {
 			posterids.push(getPosterid(a.presenid));
 		}
 	});
-	keyword.forEach(function(k) {
-		if(k.keyword.toLowerCase().indexOf(lword) !== -1) {
-			posterids.push(getPosterid(k.presenid));
-		}
-	});
+
+	if( keyword != null){
+		keyword.forEach(function(k) {
+			if(k.keyword.toLowerCase().indexOf(lword) !== -1) {
+				posterids.push(getPosterid(k.presenid));
+			}
+		});
+	}
 	// ポスターがあるやつ以外を削除、重複を削除
 	posterids = posterids.filter(function(posterid, i, self) {
 		return posterid != -1;
@@ -682,37 +654,56 @@ function setDetails() {
 	$("#detail-authors").html(authors);
 	$("#detail-authorbelongs").html(sessionStorage.getItem("authorbelongs"));
 	$("#detail-authorname").html(sessionStorage.getItem("authorname"));
-	var keywords = sessionStorage.getItem("keywords");
-	keywords = keywords !== null && keywords !== "" 
-		? keywords
-		: "NO DATA";
-	$("#detail-keywords").html(keywords);
+	if(keyword != null){
+		var keywords = sessionStorage.getItem("keywords");
+		keywords = keywords !== null && keywords !== ""
+			? keywords
+			: "NO DATA";
+		$("#detail-keywords").html(keywords);
+	}
 	$("#detail-abstract").html(sessionStorage.getItem("abstract"));
 }
 
 // マップの日付を切り替えるボタンをセット
 function setChangePosterMapDate() {
 	$("#prevDayButton").on("click", function(e) {
-		changePosterMapDate(1);
+		var curdate_str = sessionStorage.getItem("currentPosterMapDate");
+		if(curdate_str!=null){
+			var curdate = Number(curdate_str);
+			if(curdate>1){
+				changePosterMapDate(curdate-1);
+			}
+		}
 	});
 	$("#nextDayButton").on("click", function(e) {
-		changePosterMapDate(2);
+		var curdate_str = sessionStorage.getItem("currentPosterMapDate");
+		if(curdate_str!=null){
+			var curdate = Number(curdate_str);
+			if(curdate<poster_days){
+				changePosterMapDate(curdate+1);
+			}
+		}
 	});
 }
 
 // マップの日付を切り替える
 function changePosterMapDate(date) {
 	$("#mapImg").attr("src", "img/postermap_" + date + ".png");
-	if (date === 1) {
-		sessionStorage.setItem("currentPosterMapDate", "1");
-		$("#prevDayButton").hide();
+	sessionStorage.setItem("currentPosterMapDate",date);
+	if(date < poster_days){
 		$("#nextDayButton").show();
-
-	} else {
-		sessionStorage.setItem("currentPosterMapDate", "2");
-		$("#prevDayButton").show();
+	}
+	else{
 		$("#nextDayButton").hide();
 	}
+
+	if(date > 1){
+		$("#prevDayButton").show();
+	}
+	else{
+		$("#prevDayButton").hide();
+	}
+
 	setPosterIcons();
 	showPosterIcons();
 	setLabelSize();
@@ -720,10 +711,12 @@ function changePosterMapDate(date) {
         changeLabel(sessionStorage.getItem("label"));
     }
 	$(".postericon").touchPoster();
-	$(".mapArea").show();
-    $("#resetScaleButtonFrame").hide();
-    $(".posterfont").hide();
-    $(".bookmarkstar").sizeUpBookmarkStar();
+	$("#resetScaleButtonFrame").hide();
+	if(taparea != null){
+		$(".mapArea").show();
+	    $(".posterfont").hide();
+	}
+	$(".bookmarkstar").sizeUpBookmarkStar();
 }
 
 // 代表者名を取得
@@ -758,6 +751,9 @@ function getAuthors(presenid) {
 
 // キーワードを取得
 function getKeywords(presenid) {
+	if(keyword == null){
+		return "";
+	}
 	return keyword.filter(function(k) {
 		return k.presenid === presenid;
 	}).map(function(k) {

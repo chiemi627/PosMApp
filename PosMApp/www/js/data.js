@@ -5,16 +5,23 @@ var poster 			= [],
 	presen 			= null,
 	presents 		= null,
 	session 		= null,
+	timetable		= null,
 	commentator 	= [],
 	position_map 	= null,
 	position 		= null,
-	taparea 		= [],
+	taparea 		= null,
+	venuemap		= null,
+	poster_days		= null,
 	STATIC_WIDTH 	= null,
 	STATIC_HEIGHT 	= null,
 	MAP_AREA_WIDTH 	= null,
 	MAP_AREA_HEIGHT = null,
 	INIT_SCALE 		= null,
 	SCALE_BY 		= null;
+
+// json ファイルの置き場所（URL, 仮）
+//var posMAppDataURL = "http://posmapp.tk/api/data.php";
+var posMAppDataURL = "http://localhost:63342/PosMApp/PosMApp/www/api/data_nosession.json";
 
 function initData() {
 	// ポスターデータのJSONを置いておく（仮）
@@ -36,6 +43,7 @@ function initData() {
 		taparea 		= JSON.parse(localStorage.getItem("taparea"));
 		STATIC_WIDTH 	= parseInt(localStorage.getItem("STATIC_WIDTH"));
 		STATIC_HEIGHT 	= parseInt(localStorage.getItem("STATIC_HEIGHT"));
+		poster_days 	= Math.ceil(poster.length/position_map.length);
 	}
 
 	// BlockFinderにかけた画像の幅
