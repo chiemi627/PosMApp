@@ -45,6 +45,8 @@ function ajaxdownload(pageName){
 					position 		= data.position;
 					taparea 		= data.taparea;
 					venuemap		= data.venuemap;
+					toppage_img		= data.toppage_img;
+					posmapp_bg		= data.posmapp_bg;
 					STATIC_WIDTH 	= data.STATIC_WIDTH;
 					STATIC_HEIGHT 	= data.STATIC_HEIGHT;
 
@@ -68,6 +70,12 @@ function ajaxdownload(pageName){
 					localStorage.setItem("position",JSON.stringify(data.position));
 					if(taparea != null){
 						localStorage.setItem("taparea",JSON.stringify(data.taparea));
+					}
+					if(toppage_img != null){
+						localStorage.setItem("toppage_img", JSON.stringify(data.toppage_img));
+					}
+					if(posmapp_bg != null){
+						localStorage.setItem("posmapp_bg", JSON.stringify(data.posmapp_bg));
 					}
 					localStorage.setItem("venuemap",JSON.stringify(data.venuemap));
 					localStorage.setItem("STATIC_WIDTH",JSON.stringify(data.STATIC_WIDTH));
@@ -102,7 +110,7 @@ function ajaxdownload(pageName){
 				complete: function(data) {
 					// alert("complete");
 					console.log("Download Complete");
-					initUserData();
+					//initUserData();　//一時的にログ機能を止める
 					sessionStorage.removeItem("clickDiv");
 				}
 		});
@@ -134,7 +142,7 @@ $.fn.cancelDownload = function() {
 		// $("#downloading").css("display", "none");
 		setTimeout("$('.reDownloadDIVCLS').html('データを再ダウンロード')",3000);
 		setTimeout("$('.ReDownloadBtn').html('データを再ダウンロード')",3000);
-		initUserData();
+		//initUserData(); //一時的にログ機能を止める
 		$("#posters").html("");
 	});
 };

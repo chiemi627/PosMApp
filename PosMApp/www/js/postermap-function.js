@@ -244,14 +244,16 @@ function setLabelSize() {
 				var rotate = "90deg";
 				$("#font" + i)
 					.css("transform", "rotateZ(" + rotate + ") scale(" + scale + ")")
-					.css("top", "calc(-50% + " + (empx*scale) + "px)")
-					.css("left", "calc(-50% + " + (empx*scale) + "px)");
+					.css("top", "calc(25%)");
+//					.css("top", "calc(-50% + " + (empx*scale) + "px)")
+//					.css("left", "calc(-50% + " + (empx*scale) + "px)");
 			} else {
 				var scale = iconWidth / (4 * empx);
 				$("#font" + i)
 					.css("transform", "scale(" + scale + ")")
-					.css("top", "calc(-50% + " + (empx*scale) + "px)")
-					.css("left", "calc(-50% + " + (empx*scale) + "px)");
+					.css("top", "calc(25%)");
+//					.css("top", "calc(-50% + " + (empx*scale) + "px)")
+//					.css("left", "calc(-50% + " + (empx*scale) + "px)");
 			}
 		}
 	};
@@ -688,7 +690,9 @@ function setChangePosterMapDate() {
 
 // マップの日付を切り替える
 function changePosterMapDate(date) {
-	$("#mapImg").attr("src", "img/postermap_" + date + ".png");
+	if(posmapp_bg != null){
+		$("#mapImg").attr("src", posmapp_bg[date-1]);
+	}
 	sessionStorage.setItem("currentPosterMapDate",date);
 	if(date < poster_days){
 		$("#nextDayButton").show();

@@ -1,76 +1,78 @@
 {
+  "toppage_img" : "img/toppage_pbla.png",
+  "posmapp_bg" : [ "img/postermap_pbla.png" ],
   "position_map" : [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9],
   "STATIC_WIDTH" : 720,
   "STATIC_HEIGHT" : 960,
   "position" : [ {
     "id" : 1,
-    "x" : 85,
-    "y" : 67,
-    "width" : 30,
-    "height" : 18,
+    "x" : 100,
+    "y" : 100,
+    "width" : 90,
+    "height" : 54,
     "direction" : "sideways"
   }, {
     "id" : 2,
-    "x" : 116,
-    "y" : 67,
-    "width" : 30,
-    "height" : 18,
+    "x" : 200,
+    "y" : 100,
+    "width" : 90,
+    "height" : 54,
     "direction" : "sideways"
   }, {
     "id" : 3,
-    "x" : 147,
-    "y" : 67,
-    "width" : 30,
-    "height" : 18,
+    "x" : 300,
+    "y" : 100,
+    "width" : 90,
+    "height" : 54,
     "direction" : "sideways"
   }, {
     "id" : 4,
-    "x" : 85,
-    "y" : 98,
-    "width" : 30,
-    "height" : 18,
+    "x" : 100,
+    "y" : 200,
+    "width" : 90,
+    "height" : 54,
     "direction" : "sideways"
   }, {
     "id" : 5,
-    "x" : 116,
-    "y" : 98,
-    "width" : 30,
-    "height" : 18,
+    "x" : 200,
+    "y" : 200,
+    "width" : 90,
+    "height" : 54,
     "direction" : "sideways"
   }, {
     "id" : 6,
-    "x" : 147,
-    "y" : 98,
-    "width" : 30,
-    "height" : 18,
+    "x" : 300,
+    "y" : 200,
+    "width" : 90,
+    "height" : 54,
     "direction" : "sideways"
   }, {
     "id" : 7,
-    "x" : 85,
-    "y" : 118,
-    "width" : 30,
-    "height" : 18,
+    "x" : 100,
+    "y" : 300,
+    "width" : 90,
+    "height" : 54,
     "direction" : "sideways"
   }, {
     "id" : 8,
-    "x" : 116,
-    "y" : 118,
-    "width" : 30,
-    "height" : 18,
+    "x" : 200,
+    "y" : 300,
+    "width" : 90,
+    "height" : 54,
     "direction" : "sideways"
   }, {
     "id" : 9,
-    "x" : 147,
-    "y" : 118,
-    "width" : 30,
-    "height" : 18,
+    "x" : 300,
+    "y" : 300,
+    "width" : 90,
+    "height" : 54,
     "direction" : "sideways"
   }, {
     "id" : 10,
-    "x" : 85,
-    "y" : 152,
-    "width" : 30,
-    "height" : 18,
+    "x" : 100,
+    "y" : 400,
+    "width" : 90,
+    "height" : 54,
     "direction" : "sideways"
   }],
   "author" : [ {

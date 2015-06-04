@@ -5,11 +5,11 @@ $(window).load(function() {
 	setTimeout(function(){
 		init();
 
-		// 固有識別IDが設定されていなければ、初期設定する
+//		// 固有識別IDが設定されていなければ、初期設定する
 		$("#acceptCollectLog").acceptCollectLog();
 		$("#denyCollectLog").denyCollectLog();
 		$(".selectUserCategoryButton").selectUserCategory();
-		initUserData();
+		//initUserData(); //一時的にログ機能を止める
 		//initの中に入れると、初めてダウンロードしてから、二回事件を与えて、一回クリックすると、ブックマーク機能がおかしいくなる
 		$("#bookmarkbutton").touchBookmark();
 	},0);
@@ -149,6 +149,16 @@ function init() {
 	else{
 		$("#goToVenue").attr("src","img/topmenu/venue_gray.png");
 	}
+
+	//トップページの背景を設定する
+    if(toppage_img != null){
+    	$("#topPageBackground").attr("src",toppage_img);
+    }
+
+    if(posmapp_bg != null && posmapp_bg.length>0){
+    	$("#mapImg").attr("src",posmapp_bg[0]);
+    }
+
 
 	// HTML5 history API
 	// popstate : history記録を取得する時呼び出される事件
