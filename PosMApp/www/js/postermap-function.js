@@ -243,15 +243,19 @@ function setLabelSize() {
 				var scale = iconHeight / (4 * empx);
 				var rotate = "90deg";
 				$("#font" + i)
+					.css("transform-origin","top left")
 					.css("transform", "rotateZ(" + rotate + ") scale(" + scale + ")")
+					.css("left","calc(25%)")
 					.css("top", "calc(25%)");
 //					.css("top", "calc(-50% + " + (empx*scale) + "px)")
 //					.css("left", "calc(-50% + " + (empx*scale) + "px)");
 			} else {
 				var scale = iconWidth / (4 * empx);
 				$("#font" + i)
+					.css("transform-origin","top left")
 					.css("transform", "scale(" + scale + ")")
-					.css("top", "calc(25%)");
+					.css("top", "calc(25%)")
+					.css("left","calc(25%)");
 //					.css("top", "calc(-50% + " + (empx*scale) + "px)")
 //					.css("left", "calc(-50% + " + (empx*scale) + "px)");
 			}
