@@ -1,7 +1,6 @@
 {
   "toppage_img" : "img/toppage_pbla.png",
   "posmapp_bg" : [ "img/postermap_pbla.png" ],
-  "position_map" : [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9],
   "STATIC_WIDTH" : 720,
   "STATIC_HEIGHT" : 960,
   "position" : [ {

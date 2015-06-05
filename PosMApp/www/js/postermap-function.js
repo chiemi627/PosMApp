@@ -104,7 +104,7 @@ $.fn.sizeDownBookmarkStar = function() {
 
 // ポスターアイコンをセットする
 function setPosterIcons() {
-	if(poster !== null && position_map != null && position != null){
+	if(poster !== null && position != null){
 		var starAngle = [null, "top:-5px;", "right:-5px;", "bottom:-5px;", "left:-5px;"];
 		var starpos = [null, "Top", "Right", "Bottom", "Left"];
 
@@ -115,27 +115,27 @@ function setPosterIcons() {
 		var iconHeight;
 		ptotal = poster.length;
 
-		// 1日分のポスター掲示枚数（n 日開催してもポスター掲示位置は同じとする）
-		var offset = position_map.length;
 
 		for (var i = 1; i <= ptotal; i++) {
-
-			var day = Math.floor(i / offset)+1;
-			var dailypid = i % offset;
-			if(dailypid==0){dailypid = offset;}
-			var day_divclass = "day"+day;
-
-			iconWidth = position[position_map[dailypid-1]].width * INIT_SCALE;
-			iconHeight = position[position_map[dailypid-1]].height * INIT_SCALE;
 
 			angle = starAngle[poster[i-1].star];
 			pos = starpos[poster[i-1].star];
 
+			var presenid = poster[i-1].presenid;
+			var day = poster[i-1].date;
+			var day_divclass = "day"+day;
+			var icondata = position.filter(function(item,index){
+				if(item.id == poster[i-1].posterid) return true;
+			})[0];
+
+			iconWidth = icondata.width * INIT_SCALE;
+			iconHeight = icondata.height * INIT_SCALE;
+
 			str +=
-				"<div class='postericonframe "+ day_divclass + "' id='iconNo" + i + "' style='left:"+(position[position_map[dailypid-1]].x*INIT_SCALE)+"px;top:"+(position[position_map[dailypid-1]].y*INIT_SCALE)+"px;width:" + iconWidth + "px;height:" + iconHeight + "px;'>\
+				"<div class='postericonframe "+ day_divclass + "' id='iconNo" + i + "' style='left:"+(icondata.x*INIT_SCALE)+"px;top:"+(icondata.y*INIT_SCALE)+"px;width:" + iconWidth + "px;height:" + iconHeight + "px;'>\
 					<div class='postericon' style='width:" + iconWidth + "px;height:" + iconHeight + "px;'>\
 						<div class='dpic' id='icon" + i +"' style='width:" + iconWidth + "px;height:" + iconHeight + "px; display: table-cell; vertical-align: middle; text-align: center;'>\
-							<div class='posterfont' id='font" + i + "'>" + poster[i-1].presenid + "</div>\
+							<div class='posterfont' id='font" + i + "'>" + presenid + "</div>\
 						</div>\
 					</div>\
 					<img id='star" + pos + "No" + i +"' class='star bookmarkstar' style='"+angle+" display:none;' src='img/bookmark.png'></img>\
@@ -226,19 +226,23 @@ function setLabelSize() {
 	var count = 4;
 
 	//error handling
-	if (poster != null && position_map != null && position != null) {
+	if (poster != null &&  position != null) {
 		ptotal = poster.length;
 
-		var offset = position_map.length;
 
 		for (var i = 1; i <= ptotal; i++) {
 
-			var dailypid = i % offset;
-			if(dailypid==0){dailypid = offset;}
+			var presenid = poster[i-1].presenid;
+			var day = poster[i-1].date;
+			var day_divclass = "day"+day;
+			var icondata = position.filter(function(item,index){
+				if(item.id == poster[i-1].posterid) return true;
+			})[0];
 
-			iconWidth = position[position_map[dailypid-1]].width*INIT_SCALE;
-			iconHeight = position[position_map[dailypid-1]].height*INIT_SCALE;
-			iconDirection = position[position_map[dailypid-1]].direction;
+
+			iconWidth = icondata.width*INIT_SCALE;
+			iconHeight = icondata.height*INIT_SCALE;
+			iconDirection = icondata.direction;
 			if (iconDirection === "longways") {
 				var scale = iconHeight / (4 * empx);
 				var rotate = "90deg";
@@ -247,8 +251,6 @@ function setLabelSize() {
 					.css("transform", "rotateZ(" + rotate + ") scale(" + scale + ")")
 					.css("left","calc(25%)")
 					.css("top", "calc(25%)");
-//					.css("top", "calc(-50% + " + (empx*scale) + "px)")
-//					.css("left", "calc(-50% + " + (empx*scale) + "px)");
 			} else {
 				var scale = iconWidth / (4 * empx);
 				$("#font" + i)
@@ -256,8 +258,6 @@ function setLabelSize() {
 					.css("transform", "scale(" + scale + ")")
 					.css("top", "calc(25%)")
 					.css("left","calc(25%)");
-//					.css("top", "calc(-50% + " + (empx*scale) + "px)")
-//					.css("left", "calc(-50% + " + (empx*scale) + "px)");
 			}
 		}
 	};

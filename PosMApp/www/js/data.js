@@ -7,7 +7,7 @@ var poster 			= [],
 	session 		= null,
 	timetable		= null,
 	commentator 	= [],
-	position_map 	= null,
+//	position_map 	= null,
 	position 		= null,
 	taparea 		= null,
 	venuemap		= null,
@@ -35,14 +35,14 @@ function initData() {
 		presents 		= JSON.parse(localStorage.getItem("presents"));
 		session 		= JSON.parse(localStorage.getItem("session"));
         commentator     = JSON.parse(localStorage.getItem("commentator"));
-		position_map 	= JSON.parse(localStorage.getItem("position_map"));
+//		position_map 	= JSON.parse(localStorage.getItem("position_map"));
 		position 		= JSON.parse(localStorage.getItem("position"));
 		taparea 		= JSON.parse(localStorage.getItem("taparea"));
 		toppage_img		= JSON.parse(localStorage.getItem("toppage_img"));
 		posmapp_bg		= JSON.parse(localStorage.getItem("posmapp_bg"));
 		STATIC_WIDTH 	= parseInt(localStorage.getItem("STATIC_WIDTH"));
 		STATIC_HEIGHT 	= parseInt(localStorage.getItem("STATIC_HEIGHT"));
-		poster_days 	= Math.ceil(poster.length/position_map.length);
+		poster_days 	= Math.ceil(poster.length/position.length);
 	}
 
 	// BlockFinderにかけた画像の幅

@@ -41,7 +41,6 @@ function ajaxdownload(pageName){
 					session 		= data.session;
 					timetable		= data.timetable;
 					commentator 	= data.commentator;
-					position_map 	= data.position_map;
 					position 		= data.position;
 					taparea 		= data.taparea;
 					venuemap		= data.venuemap;
@@ -66,7 +65,6 @@ function ajaxdownload(pageName){
 					if(commentator != null){
 						localStorage.setItem("commentator",JSON.stringify(data.commentator));
 					}
-					localStorage.setItem("position_map",JSON.stringify(data.position_map));
 					localStorage.setItem("position",JSON.stringify(data.position));
 					if(taparea != null){
 						localStorage.setItem("taparea",JSON.stringify(data.taparea));
@@ -121,14 +119,8 @@ function ajaxdownload(pageName){
 function isValidLocalStorage() {
 	if (localStorage.getItem("poster") === null) return false;
 	if (localStorage.getItem("author") === null) return false;
-//	if (localStorage.getItem("keyword") === null) return false;
 	if (localStorage.getItem("presen") === null) return false;
-//	if (localStorage.getItem("presents") === null) return false;
-//	if (localStorage.getItem("session") === null) return false;
-//	if (localStorage.getItem("commentator") === null) return false;
-	if (localStorage.getItem("position_map") === null) return false;
 	if (localStorage.getItem("position") === null) return false;
-//	if (localStorage.getItem("taparea") === null) return false;
 	if (localStorage.getItem("STATIC_WIDTH") === null) return false;
 	if (localStorage.getItem("STATIC_HEIGHT") === null) return false;
 	return true;
