@@ -223,7 +223,7 @@ function setLabelSize() {
 	// 1em分のpxを取得
 	var empx = $('#emScale').height();
 	// 文字数
-	var count = 4;
+	var count = 5;
 
 	//error handling
 	if (poster != null &&  position != null) {
@@ -244,20 +244,20 @@ function setLabelSize() {
 			iconHeight = icondata.height*INIT_SCALE;
 			iconDirection = icondata.direction;
 			if (iconDirection === "longways") {
-				var scale = iconHeight / (4 * empx);
+				var scale = iconHeight / (count * empx);
 				var rotate = "90deg";
 				$("#font" + i)
 					.css("transform-origin","top left")
 					.css("transform", "rotateZ(" + rotate + ") scale(" + scale + ")")
-					.css("left","calc(25%)")
-					.css("top", "calc(25%)");
+					.css("left","calc("+(70)+"%)")
+					.css("top", "calc("+(100/count-10)+"%)");
 			} else {
-				var scale = iconWidth / (4 * empx);
+				var scale = iconWidth / (count * empx);
 				$("#font" + i)
 					.css("transform-origin","top left")
 					.css("transform", "scale(" + scale + ")")
-					.css("top", "calc(25%)")
-					.css("left","calc(25%)");
+					.css("top", "calc("+(100/count)+"%)")
+					.css("left","calc("+(100/count-10)+"%)");
 			}
 		}
 	};
@@ -350,8 +350,11 @@ function changeBasicInfoPanel(flag) {
 		+ "]<br />"
 		+ "<div id='basicInfoTitleContainer'><span id='basicInfoTitle'>"
 		+ sessionStorage.getItem("title")
-		+ "</span></div>"
-		+ sessionStorage.getItem("authorname")
+		+ "</span></div>";
+	var authorname =  sessionStorage.getItem("authorname");
+	if(authorname != undefined){
+	    basicinfo.innerHTML += authorname;
+	}
 
 	var bookmarkIcon = document.getElementById("bookmarkbutton");
 	var bookmarks = localStorage.getItem("bookmarks");
@@ -419,7 +422,11 @@ function selectPoster(posterid) {
 			sessionStorage.setItem("posterid", posterid);
 			sessionStorage.setItem("presenid", p.presenid);
 			sessionStorage.setItem("title", p.title);
-			sessionStorage.setItem("abstract", p.abstract);
+			if(p.abstract != undefined){
+				sessionStorage.setItem("abstract", p.abstract);
+			}else{
+				sessionStorage.setItem("abstract", "(No Abstract)");
+			}
 
 			sessionStorage.setItem("authorname", getAuthorname(p.presenid));
 
@@ -733,7 +740,11 @@ function getAuthorname(presenid) {
 	return author.filter(function(a) {
 		return a.presenid === presenid && a.first === 1;
 	}).map(function(a) {
-		return a.name+" ("+a.belongs+")";
+	    var author = a.name;
+	    if(a.belongs!=undefined){
+	      author += " ("+a.belongs+")";
+	    }
+		return author;
 	})[0];
 }
 
@@ -753,7 +764,11 @@ function getAuthors(presenid) {
 	return author.filter(function(a) {
 		return a.presenid === presenid;
 	}).map(function(a) {
-		return a.name+" ("+a.belongs+")";
+	    var author = a.name;
+	    if(a.belongs != undefined){
+	      author += " ("+a.belongs+")";
+	    }
+		return author;
 	}).join(", ");
 }
 

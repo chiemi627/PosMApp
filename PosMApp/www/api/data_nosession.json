@@ -1,6 +1,6 @@
 {
-  "toppage_img" : "img/toppage_pbla.png",
-  "posmapp_bg" : [ "img/postermap_pbla.png" ],
+  "toppage_img" : "img/toppage.gif",
+  "posmapp_bg" : [ "img/toppage.gif" ],
   "STATIC_WIDTH" : 720,
   "STATIC_HEIGHT" : 960,
   "position" : [ {
@@ -77,57 +77,46 @@
   "author" : [ {
     "presenid" : "A1-1",
     "name" : "小松田 卓也",
-    "belongs" : "東工大",
     "first" : 1
   }, {
     "presenid" : "A1-2",
     "name" : "加藤 誠",
-    "belongs" : "京大",
     "first" : 1
   }, {
     "presenid" : "A1-6",
     "name" : "齋藤 祐樹",
-    "belongs" : "ヤフー",
     "first" : 1
   }, {
     "presenid" : "A2-2",
     "name" : "久保田 豊久",
-    "belongs" : "筑波大学",
     "first" : 1
   }, {
     "presenid" : "A3-3",
     "name" : "趙 夢",
-    "belongs" : "京都大学",
     "first" : 1
   }, {
     "presenid" : "A3-4",
     "name" : "Zhang Yating",
-    "belongs" : "京大",
     "first" : 1
   }, {
     "presenid" : "A4-3",
     "name" : "曹 洋",
-    "belongs" : "京大",
     "first" : 1
   }, {
     "presenid" : "A6-2",
     "name" : "秋葉 拓哉",
-    "belongs" : "東大",
     "first" : 1
   }, {
     "presenid" : "B1-3",
     "name" : "福角 駿",
-    "belongs" : "筑波大学",
     "first" : 1
   }, {
     "presenid" : "B2-3",
     "name" : "山崎 隼也",
-    "belongs" : "京産大",
     "first" : 1
   }, {
     "presenid" : "B2-6",
     "name" : "安部 高城",
-    "belongs" : "筑波大",
     "first" : 1
   }],
   "presen" : [
