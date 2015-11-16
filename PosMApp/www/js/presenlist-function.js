@@ -18,65 +18,98 @@ $.fn.showPresenList = function() {
 		var bookmarkArr = getBookmarks();
 		var str = "";
 		str += '<table border="1" rules="rows" width="100%">';
-		//セッション番号はF8まで、8回ループする
-		for(var sessionNum = 1; sessionNum < 9; sessionNum++){
-			//ABCDのループ
-			for(var presenNum = 0; presenNum < sessionKind.length; presenNum++){
-				var sessionId = sessionKind[presenNum] + sessionNum;
-				//セッションの生成
-				//セッションが存在しているかどうかを確認する
 
-				existflag = $.inArray(sessionId, notExistSessionNum) >= 0 ? true : false;
+		// セッション情報がある場合は以下のようにする
+		if(session != null && session.size > 0){
+			//セッション番号はF8まで、8回ループする
+			for(var sessionNum = 1; sessionNum < 9; sessionNum++){
+				//ABCDのループ
+				for(var presenNum = 0; presenNum < sessionKind.length; presenNum++){
+					var sessionId = sessionKind[presenNum] + sessionNum;
+					//セッションの生成
+					//セッションが存在しているかどうかを確認する
 
-				if(!existflag){
-					str += "<tr id='session"+sessionId+"'><th class='sessionTH' colspan='3'><font class='sessionTitle'>" + sessionId + ":<strong>"; 
-					//sessionのタイトルとchairpersonを探す
-					for(var sessionArrNum = 0 ; sessionArrNum < session.length ; sessionArrNum++){
-						if(sessionId == session[sessionArrNum].sessionid){
-							str += session[sessionArrNum].title + "</strong></font><br>";
-							str += "<font class='sessionPerson'>座長:" + session[sessionArrNum].chairpersonname + "("+ session[sessionArrNum].chairpersonbelongs +")</font><br>";
+					existflag = $.inArray(sessionId, notExistSessionNum) >= 0 ? true : false;
+
+					if(!existflag){
+						str += "<tr id='session"+sessionId+"'><th class='sessionTH' colspan='3'><font class='sessionTitle'>" + sessionId + ":<strong>";
+						//sessionのタイトルとchairpersonを探す
+						for(var sessionArrNum = 0 ; sessionArrNum < session.length ; sessionArrNum++){
+							if(sessionId == session[sessionArrNum].sessionid){
+								str += session[sessionArrNum].title + "</strong></font><br>";
+								str += "<font class='sessionPerson'>座長:" + session[sessionArrNum].chairpersonname + "("+ session[sessionArrNum].chairpersonbelongs +")</font><br>";
+							}
 						}
-					}
-					str += "<font class='sessionPerson'>コメンテータ:";
-					//コメンテーターを探す
-					for(var commentatorNum = 0; commentatorNum < commentator.length ; commentatorNum++){
-						if(commentator[commentatorNum].sessionid === sessionId){
-							str += commentator[commentatorNum].name + "(" + commentator[commentatorNum].belongs + ") ";
+						if(commentator != null){
+							str += "<font class='sessionPerson'>コメンテータ:";
+							//コメンテーターを探す
+							for(var commentatorNum = 0; commentatorNum < commentator.length ; commentatorNum++){
+								if(commentator[commentatorNum].sessionid === sessionId){
+									str += commentator[commentatorNum].name + "(" + commentator[commentatorNum].belongs + ") ";
+								}
+							}
+							str += "</font></th></tr>";
 						}
+						testSessionNum.push(sessionId);
 					}
-					str += "</font></th></tr>";
-					testSessionNum.push(sessionId);
+
+					//該当セッション下のプレゼンを表示する
+					presen.forEach(function(p){
+						//存在すれば、表示する
+						if(p.presenid.indexOf(sessionId) >= 0){
+							var posterid = getPosterid(p.presenid);
+							authors = getAuthors(p.presenid).split(",").join(", ");
+							presens["posterid"].push(posterid !== -1 ? posterid : null);
+							presens["presenid"].push(p.presenid);
+							presens["title"].push(p.title);
+							presens["author"].push(getAuthors(p.presenid));
+							str += "<tr id='presen" + p.presenid + "'><td><div> 	" + p.presenid;
+							// ポスター発表があるときのみマップへ遷移するボタンを表示
+							if (posterid !== -1) {
+								str += "<img class='listToMapBtn' id='listToMap" +posterid+ "' src='img/logo_posmapp.png' style='zoom: 8%;'></img>";
+							}
+							//ブックマークされたかどうか判断する
+							var foundBookmarkIndex = $.inArray(p.presenid, bookmarkArr);
+
+							if (foundBookmarkIndex >= 0) {
+								str += "<img class='listbookmarkbutton' id='listbookmark"+p.presenid+"' src='img/bookmark.png' style='zoom: 22%;'></img><br>";
+							} else {
+								str += "<img class='listbookmarkbutton' id='listbookmark"+p.presenid+"' src='img/unbookmark.png' style='zoom: 22%;'></img><br>";
+							}
+							str += "<span class='listTitle'><strong>" + p.title + "</strong></span><br>";
+							str += "<div class='authors-on-list'><span class='listAuthors'>" + authors + "</span></div></td>";
+							str += "<td><div><td><img class='listToDetailBtn' id='listToDetail"+p.presenid+"' src='img/detailinfo.png' style='zoom: 3%;'> </img></div>";
+						}
+					});
 				}
-
-				//該当セッション下のプレゼンを表示する
-				presen.forEach(function(p){
-					//存在すれば、表示する
-					if(p.presenid.indexOf(sessionId) >= 0){
-						var posterid = getPosterid(p.presenid);
-						authors = getAuthors(p.presenid).split(",").join(", ");
-						presens["posterid"].push(posterid !== -1 ? posterid : null);
-						presens["presenid"].push(p.presenid);
-						presens["title"].push(p.title);
-						presens["author"].push(getAuthors(p.presenid));
-						str += "<tr id='presen" + p.presenid + "'><td><div> 	" + p.presenid;
-						// ポスター発表があるときのみマップへ遷移するボタンを表示
-						if (posterid !== -1) {
-							str += "<img class='listToMapBtn' id='listToMap" +posterid+ "' src='img/logo_posmapp.png' style='zoom: 8%;'></img>";
-						}
-						//ブックマークされたかどうか判断する
-						var foundBookmarkIndex = $.inArray(p.presenid, bookmarkArr);
-
-						if (foundBookmarkIndex >= 0) {
-							str += "<img class='listbookmarkbutton' id='listbookmark"+p.presenid+"' src='img/bookmark.png' style='zoom: 22%;'></img><br>";
-						} else {
-							str += "<img class='listbookmarkbutton' id='listbookmark"+p.presenid+"' src='img/unbookmark.png' style='zoom: 22%;'></img><br>";
-						}
-						str += "<span class='listTitle'><strong>" + p.title + "</strong></span><br>";
-						str += "<div class='authors-on-list'><span class='listAuthors'>" + authors + "</span></div></td>";
-						str += "<td><div><td><img class='listToDetailBtn' id='listToDetail"+p.presenid+"' src='img/detailinfo.png' style='zoom: 3%;'> </img></div>";
-					}
-				});
 			}
+		}
+		else{
+			presen.forEach(function(p){
+				var posterid = getPosterid(p.presenid);
+				authors = getAuthors(p.presenid).split(",").join(", ");
+				presens["posterid"].push(posterid !== -1 ? posterid : null);
+				presens["presenid"].push(p.presenid);
+				presens["title"].push(p.title);
+				presens["author"].push(getAuthors(p.presenid));
+				str += "<tr id='presen" + p.presenid + "'><td><div> 	" + p.presenid;
+				// ポスター発表があるときのみマップへ遷移するボタンを表示
+				if (posterid !== -1) {
+					str += "<img class='listToMapBtn' id='listToMap" +posterid+ "' src='img/logo_posmapp.png' style='zoom: 8%;'></img>";
+				}
+				//ブックマークされたかどうか判断する
+				var foundBookmarkIndex = $.inArray(p.presenid, bookmarkArr);
+
+				if (foundBookmarkIndex >= 0) {
+					str += "<img class='listbookmarkbutton' id='listbookmark"+p.presenid+"' src='img/bookmark.png' style='zoom: 22%;'></img><br>";
+				} else {
+					str += "<img class='listbookmarkbutton' id='listbookmark"+p.presenid+"' src='img/unbookmark.png' style='zoom: 22%;'></img><br>";
+				}
+				str += "<span class='listTitle'><strong>" + p.title + "</strong></span><br>";
+				str += "<div class='authors-on-list'><span class='listAuthors'>" + authors + "</span></div></td>";
+				str += "<td><div><td><img class='listToDetailBtn' id='listToDetail"+p.presenid+"' src='img/detailinfo.png' style='zoom: 3%;'> </img></div>";
+			});
+
 		}
 
 		str += '</table>'
@@ -89,8 +122,6 @@ $.fn.showPresenList = function() {
 		$(".listAuthors").jumpToDetailPage();
 
 		sessionStorage.setItem("testSessionNum",testSessionNum);
-
-		return presens;
 	}
 	return presens;
 };
