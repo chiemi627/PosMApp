@@ -45,6 +45,7 @@ function initData() {
 		poster_days 	= Math.ceil(poster.length/position.length);
 		timetable 		= JSON.parse(localStorage.getItem("timetable"));
 		venuemap		= JSON.parse(localStorage.getItem("venuemap"));
+
 	}
 
 	// BlockFinderにかけた画像の幅
