@@ -13,28 +13,33 @@ function initHammer() {
     mc = new Hammer.Manager($("#mapFrame")[0]);
 
     $("#resetScaleButtonFrame").hide();
-    $("#resetScaleButton").on("click", resetZoom);
-    $(".posterfont").hide();
+    if(taparea != null){
+        $("#resetScaleButton").on("click", resetZoom);
+        $(".posterfont").hide();
 
-    var $posterArea = $("#posterArea");
-    $posterArea.empty();
-    taparea.forEach(function(area) {
-        var $divarea = $("<div>")
-            .attr("id", "area" + area.id)
-            .addClass("mapArea")
-            .css("position", "absolute")
-            .css("z-index", 70)
-            .css("opacity", 0.4)
-            .css("background-color", area.color)
-            .css("left", area.x * INIT_SCALE)
-            .css("top", area.y * INIT_SCALE)
-            .css("width", area.width * INIT_SCALE)
-            .css("height", area.height * INIT_SCALE)
-            .on("click", function() {
-                zoomMap(area);
-            });
-        $posterArea.append($divarea);
-    });
+        var $posterArea = $("#posterArea");
+        $posterArea.empty();
+        taparea.forEach(function(area) {
+            var $divarea = $("<div>")
+                .attr("id", "area" + area.id)
+                .addClass("mapArea")
+                .css("position", "absolute")
+                .css("z-index", 70)
+                .css("opacity", 0.4)
+                .css("background-color", area.color)
+                .css("left", area.x * INIT_SCALE)
+                .css("top", area.y * INIT_SCALE)
+                .css("width", area.width * INIT_SCALE)
+                .css("height", area.height * INIT_SCALE)
+                .on("click", function() {
+                   zoomMap(area);
+                });
+            $posterArea.append($divarea);
+        });
+    }
+    else{
+        $(".posterfont").show();
+    }
 
     hammerOnMap();
 }
@@ -114,7 +119,9 @@ function resetZoom() {
     }
     $(".mapArea").show();
     $("#resetScaleButtonFrame").hide();
-    $(".posterfont").hide();
+    if(taparea != null){
+        $(".posterfont").hide();
+    }
     $(".bookmarkstar").sizeUpBookmarkStar();
 }
 

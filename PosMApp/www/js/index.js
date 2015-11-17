@@ -5,11 +5,11 @@ $(window).load(function() {
 	setTimeout(function(){
 		init();
 
-		// 固有識別IDが設定されていなければ、初期設定する
+//		// 固有識別IDが設定されていなければ、初期設定する
 		$("#acceptCollectLog").acceptCollectLog();
 		$("#denyCollectLog").denyCollectLog();
 		$(".selectUserCategoryButton").selectUserCategory();
-		initUserData();
+		//initUserData(); //一時的にログ機能を止める
 		//initの中に入れると、初めてダウンロードしてから、二回事件を与えて、一回クリックすると、ブックマーク機能がおかしいくなる
 		$("#bookmarkbutton").touchBookmark();
 	},0);
@@ -65,7 +65,7 @@ function init() {
 	setPosterIcons();
 
 	// Hammer on stage
-	initHammer();
+		initHammer();
 
 	$("#resetScaleButtonFrame").css("zoom", window.innerWidth/1200);
 
@@ -137,8 +137,28 @@ function init() {
 	// トップページ
 	$("#goToMap").goToMapPage("click");
 	$("#goToList").goToListPage("click");
-	$("#goToInformation").goToInformationPage("click");
-	$("#goToVenue").goToVenuePage("click");
+	if(timetable != null){
+		$("#goToInformation").goToInformationPage("click");
+	}
+	else{
+		$("#goToInformation").attr("src","img/topmenu/schedule_gray.png");
+	}
+	if(venuemap != null){
+		$("#goToVenue").goToVenuePage("click");
+	}
+	else{
+		$("#goToVenue").attr("src","img/topmenu/venue_gray.png");
+	}
+
+	//トップページの背景を設定する
+    if(toppage_img != null){
+    	$("#topPageBackground").attr("src",toppage_img);
+    }
+
+    if(posmapp_bg != null && posmapp_bg.length>0){
+    	$("#mapImg").attr("src",posmapp_bg[0]);
+    }
+
 
 	// HTML5 history API
 	// popstate : history記録を取得する時呼び出される事件
@@ -181,8 +201,27 @@ function init() {
 	$(".topPageButton").goToTopPage("click");
 	$(".posterMapPageButton").goToMapPage("click");
 	$(".presenListPageButton").goToListPage("click");
-	$(".venuePageButton").goToVenuePage("click");	
-	$(".informationPageButton").goToInformationPage("click");
+
+	if(venuemap != null){
+		$(".venuePageButton").goToVenuePage("click");
+	}
+	else{
+		$(".venuePageButton").text("(No Map)");
+		$(".venuePageButton").css("color","#999999");
+		$(".venuePageButton").addClass("ui-disabled");
+
+	}
+
+	if(timetable != null){
+		$(".informationPageButton").goToInformationPage("click");
+	}
+	else{
+		$(".informationPageButton").text("(No Data)");
+		$(".informationPageButton").css("color","#999999");
+		$(".informationPageButton").addClass("ui-disabled");
+
+	}
+
 
 	// セッションリストから発表リストに飛ぶ
 	$(".jumpToPresen").jumpToPresen();

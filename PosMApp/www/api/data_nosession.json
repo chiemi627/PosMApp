@@ -1,0 +1,230 @@
+{
+  "toppage_img" : "img/toppage.gif",
+  "posmapp_bg" : [ "img/toppage.gif" ],
+  "STATIC_WIDTH" : 720,
+  "STATIC_HEIGHT" : 960,
+  "position" : [ {
+    "id" : 1,
+    "x" : 100,
+    "y" : 100,
+    "width" : 90,
+    "height" : 54,
+    "direction" : "sideways"
+  }, {
+    "id" : 2,
+    "x" : 200,
+    "y" : 100,
+    "width" : 90,
+    "height" : 54,
+    "direction" : "sideways"
+  }, {
+    "id" : 3,
+    "x" : 300,
+    "y" : 100,
+    "width" : 90,
+    "height" : 54,
+    "direction" : "sideways"
+  }, {
+    "id" : 4,
+    "x" : 100,
+    "y" : 200,
+    "width" : 90,
+    "height" : 54,
+    "direction" : "sideways"
+  }, {
+    "id" : 5,
+    "x" : 200,
+    "y" : 200,
+    "width" : 90,
+    "height" : 54,
+    "direction" : "sideways"
+  }, {
+    "id" : 6,
+    "x" : 300,
+    "y" : 200,
+    "width" : 90,
+    "height" : 54,
+    "direction" : "sideways"
+  }, {
+    "id" : 7,
+    "x" : 100,
+    "y" : 300,
+    "width" : 90,
+    "height" : 54,
+    "direction" : "sideways"
+  }, {
+    "id" : 8,
+    "x" : 200,
+    "y" : 300,
+    "width" : 90,
+    "height" : 54,
+    "direction" : "sideways"
+  }, {
+    "id" : 9,
+    "x" : 300,
+    "y" : 300,
+    "width" : 90,
+    "height" : 54,
+    "direction" : "sideways"
+  }, {
+    "id" : 10,
+    "x" : 100,
+    "y" : 400,
+    "width" : 90,
+    "height" : 54,
+    "direction" : "sideways"
+  }],
+  "author" : [ {
+    "presenid" : "A1-1",
+    "name" : "小松田 卓也",
+    "first" : 1
+  }, {
+    "presenid" : "A1-2",
+    "name" : "加藤 誠",
+    "first" : 1
+  }, {
+    "presenid" : "A1-6",
+    "name" : "齋藤 祐樹",
+    "first" : 1
+  }, {
+    "presenid" : "A2-2",
+    "name" : "久保田 豊久",
+    "first" : 1
+  }, {
+    "presenid" : "A3-3",
+    "name" : "趙 夢",
+    "first" : 1
+  }, {
+    "presenid" : "A3-4",
+    "name" : "Zhang Yating",
+    "first" : 1
+  }, {
+    "presenid" : "A4-3",
+    "name" : "曹 洋",
+    "first" : 1
+  }, {
+    "presenid" : "A6-2",
+    "name" : "秋葉 拓哉",
+    "first" : 1
+  }, {
+    "presenid" : "B1-3",
+    "name" : "福角 駿",
+    "first" : 1
+  }, {
+    "presenid" : "B2-3",
+    "name" : "山崎 隼也",
+    "first" : 1
+  }, {
+    "presenid" : "B2-6",
+    "name" : "安部 高城",
+    "first" : 1
+  }],
+  "presen" : [
+    {
+    "presenid" : "A1-1",
+    "title" : "Copulaを用いたスコア統合手法とその有効性の検証",
+    "abstract" : "本研究では、複数の評価尺度(クエリとの適合度、文書の新鮮さなど)統合において、確率モデルであるCopulaを用いることで検索精度の向上を目指した。複数の評価尺度を用いた情報検索は、線形結合やランキング学習によって実現されているが、線形結合には評価尺度間の依存関係を考慮していないという問題があり、ランキング学習には結果に対する理由付けが難しいという問題がある。その点Copulaは評価尺度間の依存関係を考慮するために線形結合やランキング学習の問題点を解決できる。QAサイトを用いた評価実験の結果、Copulaを利用することで従来の線形結合やランキング学習と比較してより正確に検索を行うことが可能であることを示した。",
+    "bookmark" : 0
+  }, {
+    "presenid" : "A1-2",
+    "title" : "質問応答による会話的適合フィードバック",
+    "abstract" : "本論文では，システムにより生成された質問に答えることでクエリ修正を可能に\r\nする，会話的適合フィードバックシステムを提案する．\r\n本提案システムでは，検索結果や推薦されたクエリをユーザが見ることなく適合\r\nフィードバックを行うことができるため，特に音声による検索において有効であ\r\nると考えられる．会話的適合フィードバックシステム実現のために，\r\n本論文では主に効果的な検索を可能にする質問生成技術について述べる．\r\n我々は質問応答プロセスを確率モデルによって記述し，\r\nユーザの期待利得を最大化する質問を生成する方法を提案する．\r\nシミュレーションによる実験では，有名人および飲食店検索タスクにおいて\r\n提案モデルが高い精度を達成することを明らかにした．",
+    "bookmark" : 0
+  }, {
+    "presenid" : "A1-6",
+    "title" : "意図推定に基づく検索結果の多様性の向上",
+    "abstract" : "E コマースにおいてどのような順序で商品を表示するかはユーザー満足度, 収益の面で非常に重要である. 本稿では E コマースにおける複数の意図が存在する検索クエリの検索結果について,多様性を考慮したランキングを 行う. Yahoo!ショッピングの検索ログを用いてクエリ意図の推定と多様性の評価を行い, その有効性を検証する.",
+    "bookmark" : 0
+  }, {
+    "presenid" : "A2-2",
+    "title" : "統計的意味論に基づく概念的類似度獲得手法の評価",
+    "abstract" : "近年、分布仮説に基づいた単語の概念的類似度の自動抽出手法が盛んに研究されているが，概念的な類似性は様々な観点から評価することができるものであり、抽出される単語類似度がどのような特性をもつのかは自明ではない．本研究では，word2vecと係り受け構造を考慮した類似度計算手法について、抽出される単語類似度と、人手で作成された既存の意味辞書との一致度を定量的に評価することにより、その特徴について新たな知見を得ることを目指す。",
+    "bookmark" : 0
+  }, {
+    "presenid" : "A3-3",
+    "title" : "Query Paraphrasing Towards Better Search by Incorporating Coordinate Relationship",
+    "abstract" : "We propose a method to acquire paraphrases from the Web in accordance with a given sentence query. For example, consider the query \"Guavas are rich in vitamin c\". Its paraphrases are expressions or sentences that convey the same\r\nmeaning but are different syntactically, such as \"Guavas are well known for their high concentration of vitamin c\", or \"Guavas are very high in vitamin c\". We aim at improving the poor performance of querying the Web by long queries, especially sentence queries, since they often result in failure. By issuing paraphrase queries to the Web, users are able to gather more search results about the given sentence query.",
+    "bookmark" : 0
+  }, {
+    "presenid" : "A3-4",
+    "title" : "Bridging the Gap between the Past and the Present: Finding Corresponding Objects Across Time",
+    "abstract" : "In the current fast-paced world, people tend to possess limited knowledge about things that existed in distant time. For example, for some young users it may not be obvious that Walkman played similar role as iPod does nowadays. In this paper, we approach the temporal correspondence problem in which, given the input object name (e.g., iPod) and the target time period (e.g. 1980s) the task is to find the counterpart object that existed in the target time. We consider the pair of entities which share similar functions or characteristics, yet which existed in different time periods, as temporal counterparts. The knowledge of temporal counterparts can help alleviate terminology gap problem for users searching within temporal document collections such as archives, can help automatic timeline construction or temporal summarization as well as can have usage in education. \r\nThe main challenge of the temporal correspondence task comes from the change of the context (in Latin: \"omnia mutantur\", i.e., \"everything changes\") that results in low overlap of context terms. Thus it is difficult to find corresponding objects by directly employing distributional semantics to capture their meaning and by comparing their context vectors. We present an unsupervised approach in which we first apply deep learning using neural network to represent the meaning of terms within different time periods. We then transform the representation of terms in different temporal spaces in order to match terms semantically similar yet having different syntactical forms over time. In other words, our method matches the terms by comparing their relative positions in vector spaces of different time periods. In addition, our solution considers user intent by suggesting different facets of queried objects and letting users choose any of them for biasing the temporal counterpart search. The experiments on New York Times annotated corpus demonstrate the effectiveness and efficiency of our approach compared to bag-of-words term representation.",
+    "bookmark" : 0
+  }, {
+    "presenid" : "A4-3",
+    "title" : "差分プライバシに基づく移動経路データの要約情報開示",
+    "abstract" : "近年モバイル、ウェアラブルデバイスの小型化、軽量化、高性能化に伴い、個々人の活動履歴などの時空間データを収集することが容易になっている。実時間で人の移動経路の集計データを開示することは非常に有意義で学術，商用の両面から価値があると期待されている。しかし、これらは個人データを分析するため、プライバシの侵害につながる危険性がある。ε-差分プライバシーは厳格な数学的な証明に基づく高い安全性が保証されている点で注目されているプライバシモデルである。一方、ユーザの移動軌跡は予測が難しく、しかも無限に生成されるため，ε-差分プライバシを用いてあらゆる移動経路を保護することは困難であると考えられる。我々はε-差分プライバシのもとで、すべでの利用者の長さlの移動経路を保護するために、 l-軌跡プライバシというモデルを提案し、実時間でデータ開示できるアルゴリズムを設計する。実データを用いる実験により、提案手法の有効性を検証している。",
+    "bookmark" : 0
+  }, {
+    "presenid" : "A6-2",
+    "title" : "ネットワーク上の頂点間特徴量としての Top-k 距離とその高速なクエリ応答",
+    "abstract" : "2 頂点間の関連度や類似度を推定することは，ソーシャルネットワークをはじめとする大規模グラフデータにおける最も重要な処理の 1 つであり，ネットワーク構造予測やネットワークを考慮した情報検索などの重要な応用を持つ．本論文では (1) 関連度や類似度の新たな指標として Top-k 距離を用いることを提案し (2) Top-k 距離を高速に求めるための索引付け手法を提案する．提案する索引付け手法は，通常の距離に対する索引付け手法である枝刈りラベリング法に基づいているが，Top-k 距離への拡張を行う為に経路の数を新たに考慮する必要が生じる．特に，同じ経路を 2 度数えない為の工夫やその正しさの証明は非自明なものとなる．また応答性能やスケーラビリティの低下を防ぐための高速化手法も複数提案する．実データを用いて比較実験を行い，提案手法が索引を用いない既存の手法より最大で百万倍程度高速に Top-k 距離の計算が行えることを確認した．さらに，応用先の 1 つとしてリンク予測問題を取り上げ，提案手法によって計算した Top-k 距離が精度の向上に寄与することから，Top-k 距離が関連度指標として有用であることを確認した．",
+    "bookmark" : 0
+  }, {
+    "presenid" : "B1-3",
+    "title" : "クラウドソーシングシステム記述での関心の分離によるシステム把握支援",
+    "abstract" : "クラウドソーシングでは，ワーカの振る舞いが，出力される結果に大きく影響を与えることが知られている．\r\nワーカが合理的であると仮定すると，彼らの振る舞いは，インセンティブ構造の設計によって決まる．\r\nしかし，これまでのデータ指向クラウドソーシング言語では，記述可能なインセンティブ構造が\r\n限定されており，より一般的なインセンティブ構造の記述が困難であった．\r\n一方，より一般的なインセンティブ構造の記述はアプリケーションロジックと密接に\r\n関連するため，記述されたコードを見てシステムの挙動を把握することは容易ではない．\r\n本論文では，クラウドソーシングのための宣言型言語CyLogに，インセンティブ構造を局所化して\r\n記述するゲームアスペクトの概念を導入することを提案する．\r\nゲームアスペクトは，ゲーム理論の用語を用いてインセンティブ構造を記述するため，\r\nゲーム理論を用いたシステムの挙動の分析が容易になる．\r\nまた，記述が局所化されているため，インセンティブ構造の管理，変更が容易になる．\r\n本論文では，実際のクラウドソーシングアプリケーションを例に，ゲームアスペクトが\r\nインセンティブ構造の理論的検証を容易にすることを示す．また，実データを用いて実験を行い，\r\n実験結果が，理論的検証結果とと一致することを示す．",
+    "bookmark" : 0
+  }, {
+    "presenid" : "B2-3",
+    "title" : "アイテムに対するCommunity内認知度とユーザ嗜好度を考慮したSerendipity 指向情報推薦方式",
+    "abstract" : "近年,単に精度の高い推薦を行うだけでなく,Serendipity の高い情報推薦技術の開発が注目されている. \r\n高いSerendipityを実現するためには,意外性を高めつつ,ユーザにとって有用性の高いアイテムを推薦する必要がある.\r\nそこで我々は，対象ユーザの興味領域における認知度は高くないものの，この対象ユーザよりも熱狂度が高いユーザグループ内では認知度が高いようなアイテムを検出し，これを対象ユーザに推薦することを特徴とする，Serendipity指向情報推薦方式を提案する．",
+    "bookmark" : 0
+  }, {
+    "presenid" : "B2-6",
+    "title" : "ソーシャルメディアにおけるセレンディピティを考慮したユーザ推薦手法の提案",
+    "abstract" : "ソーシャルメディアでは、followerやfolloweeなどユーザ間のネットワーク形成が重要な課題となっている。このため、ユーザにとって発見が難しく、かつ満足度の高いセレンディピティのあるユーザの推薦が望まれている。\r\n本研究では、Twitterを題材に、ユーザが投稿したツイートとフォロー関係に基づいてセレンディピティのあるユーザを発見し、フォロー先ユーザとして推薦する手法を提案する。ツイートの内容からユーザ間の類似度を算出し、フォロワーとの類似度とセレンディピティとの相関を調査し、ユーザの満足度向上を目指している。",
+    "bookmark" : 0
+  }],
+  "poster" : [ {
+    "presenid" : "A1-1",
+    "posterid" : 1,
+    "star" : 3,
+    "date" : 1
+  }, {
+    "presenid" : "A1-6",
+    "posterid" : 2,
+    "star" : 3,
+    "date" : 1
+  }, {
+    "presenid" : "A2-2",
+    "posterid" : 3,
+    "star" : 3,
+    "date" : 1
+  }, {
+    "presenid" : "A3-3",
+    "posterid" : 4,
+    "star" : 1,
+    "date" : 1
+  }, {
+    "presenid" : "A3-4",
+    "posterid" : 5,
+    "star" : 1,
+    "date" : 1
+  }, {
+    "presenid" : "A4-3",
+    "posterid" : 6,
+    "star" : 1,
+    "date" : 1
+  }, {
+    "presenid" : "A6-2",
+    "posterid" : 7,
+    "star" : 3,
+    "date" : 1
+  }, {
+    "presenid" : "B1-3",
+    "posterid" : 8,
+    "star" : 3,
+    "date" : 1
+  }, {
+    "presenid" : "B2-3",
+    "posterid" : 9,
+    "star" : 3,
+    "date" : 1
+  }, {
+    "presenid" : "B2-6",
+    "posterid" : 10,
+    "star" : 1,
+    "date" : 1
+  }]
+}
