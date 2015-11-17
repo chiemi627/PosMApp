@@ -1237,7 +1237,7 @@
     {
     "presenid" : "B5-03",
     "posterid" : 23,
-    "star" : 3,
+    "star" : 1,
     "date" : 1
   }, {
       "presenid" : "DBS-12",
@@ -1252,12 +1252,12 @@
     }, {
     "presenid" : "A4-01",
     "posterid" : 26,
-    "star" : 3,
+    "star" : 1,
     "date" : 1
   }, {
     "presenid" : "A2-01",
     "posterid" : 27,
-    "star" : 3,
+    "star" : 1,
     "date" : 1
   }, {
     "presenid" : "A5-02",
@@ -1272,17 +1272,17 @@
   }, {
     "presenid" : "A2-03",
     "posterid" : 30,
-    "star" : 3,
+    "star" : 1,
     "date" : 1
   }, {
     "presenid" : "A7-03",
     "posterid" : 31,
-    "star" : 3,
+    "star" : 1,
     "date" : 1
   }, {
     "presenid" : "A2-02",
     "posterid" : 32,
-    "star" : 3,
+    "star" : 1,
     "date" : 1
   }, {
     "presenid" : "A7-03",
