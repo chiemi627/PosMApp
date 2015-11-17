@@ -23,7 +23,7 @@ var poster 			= [],
 
 // json ファイルの置き場所（URL, 仮）
 //var posMAppDataURL = "http://posmapp.tk/api/data.php";
-var posMAppDataURL = "http://localhost:63342/PosMApp_forked/PosMApp/www/api/webdb2015.json";
+var posMAppDataURL = "http://api.webdbf.net/api/webdb2015.json";
 
 function initData() {
 
@@ -44,6 +44,7 @@ function initData() {
 		STATIC_HEIGHT 	= parseInt(localStorage.getItem("STATIC_HEIGHT"));
 		poster_days 	= Math.ceil(poster.length/position.length);
 		timetable 		= JSON.parse(localStorage.getItem("timetable"));
+		venuemap		= JSON.parse(localStorage.getItem("venuemap"));
 	}
 
 	// BlockFinderにかけた画像の幅
