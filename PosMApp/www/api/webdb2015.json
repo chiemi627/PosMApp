@@ -1,6 +1,6 @@
 {
   "toppage_img" : "img/toppage.gif",
-  "posmapp_bg" : [ "img/poster_floor.gif", "img/exhibit.svgz" ],
+  "posmapp_bg" : [ "img/poster_floor.gif", "img/exhibit.gif" ],
   "STATIC_WIDTH" : 720,
   "STATIC_HEIGHT" : 960,
   "position" : [
@@ -286,6 +286,27 @@
       "y" : 850,
       "width" : 70,
       "height" : 42,
+      "direction" : "sideways"
+    },{
+      "id" : 41,
+      "x" : 300,
+      "y" : 220,
+      "width" : 80,
+      "height" : 48,
+      "direction" : "sideways"
+    }, {
+      "id" : 42,
+      "x" : 390,
+      "y" : 220,
+      "width" : 80,
+      "height" : 48,
+      "direction" : "sideways"
+    }, {
+      "id" : 43,
+      "x" : 480,
+      "y" : 220,
+      "width" : 80,
+      "height" : 48,
       "direction" : "sideways"
     }
   ],
@@ -970,8 +991,10 @@
     {"presenid":"COG-01","name":"（協賛団体ポスター）","first":1},
     {"presenid":"COG-02","name":"（協賛団体ポスター）","first":1},
     {"presenid":"COG-03","name":"（協賛団体ポスター）","first":1},
-    {"presenid":"COG-04","name":"（協賛団体ポスター）","first":1}
-
+    {"presenid":"COG-04","name":"（協賛団体ポスター）","first":1},
+    {"presenid":"EXH-01","name":"（常設展示）","first":1},
+    {"presenid":"EXH-02","name":"（常設展示）","first":1},
+    {"presenid":"EXH-03","name":"（常設展示）","first":1}
   ],
   "presen" : [
     {
@@ -1297,6 +1320,19 @@
       "presenid":"COG-04",
       "title":" ACM SIGMOD日本支部",
       "bookmark":0
+    },
+    {
+      "presenid":"EXH-01",
+      "title":"株式会社リクルートテクノロジーズ",
+      "bookmark":0
+    },{
+      "presenid":"EXH-02",
+      "title":"株式会社UBIC",
+      "bookmark":0
+    },{
+      "presenid":"EXH-03",
+      "title":"ヤフー株式会社",
+      "bookmark":0
     }
   ],
   "poster" : [
@@ -1501,7 +1537,22 @@
     "posterid" : 40,
     "star" : 1,
     "date" : 1
-  }
+  }, {
+      "presenid" : "EXH-01",
+      "posterid" : 41,
+      "star" : 1,
+      "date" : 2
+    }, {
+      "presenid" : "EXH-02",
+      "posterid" : 42,
+      "star" : 1,
+      "date" : 2
+    }, {
+      "presenid" : "EXH-03",
+      "posterid" : 43,
+      "star" : 1,
+      "date" : 2
+    }
   ],
   "session" : [
 
@@ -1587,6 +1638,10 @@
       "title" : "技術報告：Web情報サービスの新展開",
       "chairpersonname" : "河合 由起子",
       "chairpersonbelongs" : "京産大"
+    },
+    {
+      "sessionid" : "EXH",
+      "title" : "常設展示"
     }
   ],
   "timetable": 1,
