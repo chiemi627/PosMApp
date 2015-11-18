@@ -22,10 +22,10 @@ var poster 			= [],
 	SCALE_BY 		= null;
 
 // json ファイルの置き場所（URL, 仮）
-//var posMAppDataURL = "http://localhost:63342/PosMApp2/PosMApp/www/api/webdb2015.json";
-//var posMAppDataVersionURL = "http://localhost:63342/PosMApp2/PosMApp/www/api/webdb2015_version.json";
-var posMAppDataURL = "http://app.webdbf.net/api/webdb2015.json";
-var posMAppDataVersionURL = "http://app.webdbf.net/api/webdb2015_version.json";
+var posMAppDataURL = "http://localhost:63342/PosMApp2/PosMApp/www/api/webdb2015.json";
+var posMAppDataVersionURL = "http://localhost:63342/PosMApp2/PosMApp/www/api/webdb2015_version.json";
+//var posMAppDataURL = "http://app.webdbf.net/api/webdb2015.json";
+//var posMAppDataVersionURL = "http://app.webdbf.net/api/webdb2015_version.json";
 
 function initData() {
 
@@ -44,7 +44,8 @@ function initData() {
 		posmapp_bg		= JSON.parse(localStorage.getItem("posmapp_bg"));
 		STATIC_WIDTH 	= parseInt(localStorage.getItem("STATIC_WIDTH"));
 		STATIC_HEIGHT 	= parseInt(localStorage.getItem("STATIC_HEIGHT"));
-		poster_days 	= Math.ceil(poster.length/position.length);
+//		poster_days 	= Math.ceil(poster.length/position.length);
+		poster_days		= posmapp_bg.length;
 		timetable 		= JSON.parse(localStorage.getItem("timetable"));
 		venuemap		= JSON.parse(localStorage.getItem("venuemap"));
 

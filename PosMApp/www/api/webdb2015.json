@@ -1,6 +1,6 @@
 {
   "toppage_img" : "img/toppage.gif",
-  "posmapp_bg" : [ "img/poster_floor.gif" ],
+  "posmapp_bg" : [ "img/poster_floor.gif", "img/exhibit.svgz" ],
   "STATIC_WIDTH" : 720,
   "STATIC_HEIGHT" : 960,
   "position" : [
