@@ -23,8 +23,8 @@ var poster 			= [],
 
 // json ファイルの置き場所（URL, 仮）
 //var posMAppDataURL = "http://posmapp.tk/api/data.php";
-var posMAppDataURL = "http://app.webdbf.net/api/webdb2015.json";
-//var posMAppDataURL = "http://localhost:63342/PosMApp2/PosMApp/www/api/webdb2015.json";
+//var posMAppDataURL = "http://app.webdbf.net/api/webdb2015.json";
+var posMAppDataURL = "http://localhost:63342/PosMApp2/PosMApp/www/api/webdb2015.json";
 
 function initData() {
 

@@ -338,6 +338,58 @@
       "first" : 0
     },
     {
+      "presenid" : "A2-01",
+      "name" : "西村 章宏",
+      "belongs" : "大阪大",
+      "first" : 1
+    },
+    {
+      "presenid" : "A2-01",
+      "name" : "土方 嘉徳",
+      "belongs" : "大阪大",
+      "first" : 0
+    },
+    {
+      "presenid" : "A2-02",
+      "name" : "山本 湧輝",
+      "belongs" : "甲南大",
+      "first" : 1
+    },
+    {
+      "presenid" : "A2-02",
+      "name" : "熊本 忠彦",
+      "belongs" : "千葉工大",
+      "first" : 0
+    },{
+      "presenid" : "A2-02",
+      "name" : "灘本 明代",
+      "belongs" : "甲南大",
+      "first" : 0
+    },
+    {
+      "presenid" : "A2-03",
+      "name" : "山中 隆広",
+      "belongs" : "兵庫県大",
+      "first" : 1
+    },
+    {
+      "presenid" : "A2-03",
+      "name" : "湯本 高行",
+      "belongs" : "兵庫県大",
+      "first" : 0
+    },
+    {
+      "presenid" : "A2-03",
+      "name" : "新居 学",
+      "belongs" : "兵庫県大",
+      "first" : 0
+    },{
+      "presenid" : "A2-03",
+      "name" : "上浦 尚武",
+      "belongs" : "兵庫県大",
+      "first" : 0
+    },
+    {
       "presenid" : "B2-01",
       "name" : "Minh Thinh Do",
       "belongs": "Kumamoto University",
@@ -869,6 +921,21 @@
     "bookmark" : 0
   }  ,
     {
+      "presenid" : "A2-01",
+      "title" : "潜在トピックを利用した協調フィルタリングにおけるトピック情報源の違いに関する分析",
+      "bookmark" : 0
+    },
+    {
+      "presenid" : "A2-02",
+      "title" : "話題と感情の可視化に基づくフォロイー推薦",
+      "bookmark" : 0
+    },
+    {
+      "presenid" : "A2-03",
+      "title" : "ページとクエリの連想確率に基づく希少なWebページの検索",
+      "bookmark" : 0
+    },
+    {
       "presenid" : "B2-01",
       "title" : "Non-linear Time-series Analysis of Social Influence",
       "bookmark" : 0
@@ -1325,6 +1392,81 @@
     "star" : 1,
     "date" : 1
   }
+  ],
+  "session" : [
+
+    {
+    "sessionid" : "A1",
+    "title" : "特別セッション1：産学官のデータセット",
+    "chairpersonname" : "松下 光範",
+    "chairpersonbelongs" : "関西大学"
+  },{
+      "sessionid" : "A2",
+      "title" : "情報推薦I",
+      "chairpersonname" : "江口 浩二",
+      "chairpersonbelongs" : "神戸大学"
+    },{
+      "sessionid" : "B2",
+      "title" : "時系列データマイニング",
+      "chairpersonname" : "川島 英之",
+      "chairpersonbelongs" : "筑波大学"
+    },{
+      "sessionid" : "A3",
+      "title" : "特別セッション2: 情報検索とビックデータ分析",
+      "chairpersonname" : "寺田努",
+      "chairpersonbelongs" : "神戸大学"
+    },{
+      "sessionid" : "A4",
+      "title" : "Webインタラクション",
+      "chairpersonname" : "豊田 正史",
+      "chairpersonbelongs" : "東京大学"
+    },{
+      "sessionid" : "B4",
+      "title" : "データベース技術",
+      "chairpersonname" : "宮崎 純",
+      "chairpersonbelongs" : "東京工業大学"
+    },{
+      "sessionid" : "A5",
+      "title" : "情報推薦II",
+      "chairpersonname" : "奥 健太",
+      "chairpersonbelongs" : "立命館大学"
+    },{
+      "sessionid" : "B5",
+      "title" : "時空間・バイオデータ",
+      "chairpersonname" : "櫻井 保志",
+      "chairpersonbelongs" : "熊本大学"
+    },{
+      "sessionid" : "A6",
+      "title" : "マルチメディア",
+      "chairpersonname" : "灘本 明代",
+      "chairpersonbelongs" : "甲南大学"
+    },{
+      "sessionid" : "B6",
+      "title" : "セマンティクス",
+      "chairpersonname" : "大向 一輝",
+      "chairpersonbelongs" : "NII"
+    },{
+      "sessionid" : "A7",
+      "title" : "論文賞セッション",
+      "chairpersonname" : "原 隆浩",
+      "chairpersonbelongs" : "大阪大学"
+    },
+    {
+      "sessionid": "C2",
+      "title": "技術報告：情報サービスのサイエンス",
+      "chairpersonname": "清田 陽司",
+      "chairpersonbelongs": "ネクスト"
+    },{
+      "sessionid": "C4",
+      "title": "技術報告：大規模サービスを支えるアルゴリズム",
+      "chairpersonname": "的野 晃整",
+      "chairpersonbelongs": "産総研"
+    },{
+      "sessionid": "C5",
+      "title": "技術報告：システム基盤技術",
+      "chairpersonname": "善明 晃由",
+      "chairpersonbelongs": "サイバーエージェント"
+    }
   ],
   "timetable": 1,
   "venuemap":1
