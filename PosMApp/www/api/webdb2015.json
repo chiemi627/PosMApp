@@ -1560,6 +1560,11 @@
       "title" : "論文賞セッション",
       "chairpersonname" : "原 隆浩",
       "chairpersonbelongs" : "大阪大学"
+    },{
+      "sessionid" : "A8",
+      "title" : "特別セッション3: Deep Learningと自然言語処理",
+      "chairpersonname" : "中山 浩太郎",
+      "chairpersonbelongs" : "東京大学"
     },
     {
       "sessionid": "C2",
