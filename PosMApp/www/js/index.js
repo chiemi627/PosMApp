@@ -10,7 +10,7 @@ $(window).load(function() {
 		$("#denyCollectLog").denyCollectLog();
 		$(".selectUserCategoryButton").selectUserCategory();
 		//initUserData(); //一時的にログ機能を止める
-		//initの中に入れると、初めてダウンロードしてから、二回事件を与えて、一回クリックすると、ブックマーク機能がおかしいくなる
+		//initの中に入れると、初めてダウンロードしてから、二回事件を与えて、一回クリックすると、ブックマーク機能がおかしくなる
 		$("#bookmarkbutton").touchBookmark();
 	},0);
 	$("#loading").hide();
@@ -27,6 +27,7 @@ function init() {
 
 	//　ポスターデータのダウンロード
 	//　各mapに関する変数に値を与える
+    	checkDataVersion();
 	downloadPoster();
 
 	// データ格納変数に据え置きの初期データを格納する

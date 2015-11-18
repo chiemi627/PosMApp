@@ -856,6 +856,66 @@
       "belongs":"筑波大",
       "first":0
     },
+    {
+      "presenid":"C2-01",
+      "name" : "高野 雅典",
+      "belongs" : "サイバーエージェント",
+      "first" : 1
+    },
+    {
+      "presenid":"C2-02",
+      "name" : "厚見 悠",
+      "belongs" : "サイジニア",
+      "first" : 1
+    },
+    {
+      "presenid":"C4-01",
+      "name" : "伊奈 林太郎",
+      "belongs" : "はてな",
+      "first" : 1
+    },
+    {
+      "presenid" : "C4-02",
+      "name" : "宇野 秀平",
+      "belongs" : "ヤフー",
+      "first" : 1
+    },
+    {
+      "presenid" : "C5-01",
+      "name" : "関根 賢一",
+      "belongs" : "日本IBM",
+      "first" : 1
+    },
+    {
+      "presenid" : "C5-02",
+      "name" : "廣瀬 繁雄",
+      "belongs" : "東芝",
+      "first" : 1
+    },
+    {
+      "presenid" : "C5-03",
+      "name" : "小林 直哉",
+      "belongs" : "ヤフー",
+      "first" : 1
+    },
+    {
+      "presenid" : "C6-01",
+      "name" : "平手 勇宇",
+      "belongs" : "楽天",
+      "first" :1
+    },
+    {
+      "presenid" : "C6-02",
+      "name" : "白井 祐典",
+      "belongs" : "リクルートテクノロジーズ",
+      "first" : 1
+    },
+    {
+      "presenid" : "C6-03",
+      "name" : "清田 陽司",
+      "belongs" : "ネクスト",
+      "first" :1
+    },
     {"presenid":"DBS-01","name": "吉次 優", "belongs": "岡山大","first":1},
     {"presenid":"DBS-01","name": "太田 学", "belongs": "岡山大","first":0},
     {"presenid":"DBS-01","name": "高須 淳宏", "belongs": "NII","first":0},
@@ -1068,6 +1128,56 @@
       "presenid" : "A8-01",
       "title" : "Deep Learningと自然言語処理",
       "abstract" : "本セッションでは、「Deep Learningと自然言語処理」と題し、昨今話題のDeep Learningについて、第一線で活躍中の研究者お二人にご講演をいただく。まず、 東北大学岡崎准教授からは、表現学習という切り口から、単語の分散表現の学習 や，単語の意味から句や文の意味を計算するモデルに関する最新の研究動向を紹 介していただく。次にChainerのコントリビュータでも有名なPFI海野氏より、 Chainerの仕組みと自然言語処理での応用について解説をいただく。",
+      "bookmark" : 0
+    },
+    {
+      "presenid" : "C2-01",
+      "title" : "新参者は如何にして新たなグループになじむのか？: ソーシャルゲームにおける分析事例",
+      "bookmark" : 0
+    },
+    {
+      "presenid" : "C2-02",
+      "title" : "ビジネス型人工知能を目指して　--　ビッグデータを操る複雑系と事象分析予測技術、それを支える分散基盤",
+      "bookmark" : 0
+    },
+    {
+      "presenid" : "C4-01",
+      "title" : "はてなブックマークにおけるアクセス制御: 半環構造に基づくモデル化",
+      "bookmark" : 0
+    },
+    {
+      "presenid" : "C4-02",
+      "title" : "広告配信のための高速疎ベクトル検索エンジンの開発",
+      "bookmark" : 0
+    },
+    {
+      "presenid" : "C5-01",
+      "title" : "クラウドネイティブなアナリティクス基盤 「IBM Bluemix」",
+      "bookmark" : 0
+    },
+    {
+      "presenid" : "C5-02",
+      "title" : "PostgreSQLのストレージレイヤの拡張",
+      "bookmark" : 0
+    },
+    {
+      "presenid" : "C5-03",
+      "title" : "データサイエンスを支える基盤とそのテクノロジー",
+      "bookmark" : 0
+    },
+    {
+      "presenid" : "C6-01",
+      "title" : "Word2Vecを用いた商品レコメンデーションの評価",
+      "bookmark" : 0
+    },
+    {
+      "presenid" : "C6-02",
+      "title" : "ディープラーニングを応用した『画像解析』システム",
+      "bookmark" : 0
+    },
+    {
+      "presenid" : "C6-03",
+      "title" : "不動産物件データセットを用いた研究開発事例と、大学との共同研究の取り組みの紹介",
       "bookmark" : 0
     },
     {
@@ -1466,6 +1576,12 @@
       "title": "技術報告：システム基盤技術",
       "chairpersonname": "善明 晃由",
       "chairpersonbelongs": "サイバーエージェント"
+    },
+    {
+      "sessionid" : "C6",
+      "title" : "技術報告：Web情報サービスの新展開",
+      "chairpersonname" : "河合 由起子",
+      "chairpersonbelongs" : "京産大"
     }
   ],
   "timetable": 1,

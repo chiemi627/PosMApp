@@ -19,6 +19,26 @@ function downloadPoster(pageName){
 	
 }
 
+function checkDataVersion(){
+		$.ajax({
+		   		url: posMAppDataVersionURL,
+				type: "POST",
+				dataType: "json",
+				async: false,
+				data: "",
+				timeout: 10000, // タイムアウトにするまでの時間は要検討
+				success: function(data) {
+					version		= data.version;
+					var cur_version = localStorage.getItem("version");
+					if(cur_version==null || version > cur_version){
+						localStorage.setItem("version",version);
+						localStorage.setItem("downloadSuccess",false);
+					}
+				}
+		});
+
+}
+
 function ajaxdownload(pageName){
 	var flag = localStorage.getItem("downloadSuccess");
 	if(flag === "false" || flag === null){
@@ -123,6 +143,7 @@ function isValidLocalStorage() {
 	if (localStorage.getItem("position") === null) return false;
 	if (localStorage.getItem("STATIC_WIDTH") === null) return false;
 	if (localStorage.getItem("STATIC_HEIGHT") === null) return false;
+	if (localStorage.getItem("version") === null) return false;
 	return true;
 }
 
