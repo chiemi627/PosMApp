@@ -101,8 +101,8 @@ function initDB() {
 			tr.executeSql(&quot;DROP TABLE IF EXISTS poster&quot;);
 			tr.executeSql(&quot;DROP TABLE IF EXISTS author&quot;);
 			tr.executeSql(&quot;DROP TABLE IF EXISTS keyword&quot;);
-			tr.executeSql(&quot;CREATE TABLE IF NOT EXISTS poster ( id INTEGER NOT NULL UNIQUE PRIMARY KEY, sessionid TEXT, title TEXT, abstract TEXT, authorname TEXT, authorbelongs TEXT, bookmark INTEGER )&quot;);
-			tr.executeSql(&quot;CREATE TABLE IF NOT EXISTS author ( id INTEGER NOT NULL UNIQUE PRIMARY KEY AUTOINCREMENT, posterid INTEGER NOT NULL, name TEXT, belongs TEXT, first INTEGER, FOREIGN KEY (posterid) REFERENCES poster (id) )&quot;);
+			tr.executeSql(&quot;CREATE TABLE IF NOT EXISTS poster ( id INTEGER NOT NULL UNIQUE PRIMARY KEY, sessionid TEXT, title TEXT, abstract TEXT, authorname TEXT, authoraffiliation TEXT, bookmark INTEGER )&quot;);
+			tr.executeSql(&quot;CREATE TABLE IF NOT EXISTS author ( id INTEGER NOT NULL UNIQUE PRIMARY KEY AUTOINCREMENT, posterid INTEGER NOT NULL, name TEXT, affiliation TEXT, first INTEGER, FOREIGN KEY (posterid) REFERENCES poster (id) )&quot;);
 			tr.executeSql(&quot;CREATE TABLE IF NOT EXISTS keyword ( id INTEGER NOT NULL UNIQUE PRIMARY KEY AUTOINCREMENT, posterid INTEGER NOT NULL, keyword TEXT, FOREIGN KEY (posterid) REFERENCES poster (id) )&quot;);
 			
 			// 仮データを挿入する (poster)
@@ -115,7 +115,7 @@ function initDB() {
 					poster[i].title,
 					poster[i].abstract,
 					poster[i].authorname,
-					poster[i].authorbelongs,
+					poster[i].authoraffiliation,
 					poster[i].bookmark]);
 			}
 
@@ -125,7 +125,7 @@ function initDB() {
 				tr.executeSql(&quot;INSERT INTO author VALUES (NULL, ?, ?, ?, ?)&quot;, [
 					author[i].posterid,
 					author[i].name,
-					author[i].belongs,
+					author[i].affiliation,
 					author[i].first]);
 			}
 
@@ -154,8 +154,8 @@ function initDB() {
 			tr.executeSql(&quot;DROP TABLE IF EXISTS poster&quot;);
 			tr.executeSql(&quot;DROP TABLE IF EXISTS author&quot;);
 			tr.executeSql(&quot;DROP TABLE IF EXISTS keyword&quot;);
-			tr.executeSql(&quot;CREATE TABLE IF NOT EXISTS poster ( id INTEGER NOT NULL UNIQUE PRIMARY KEY, sessionid TEXT, title TEXT, abstract TEXT, authorname TEXT, authorbelongs TEXT )&quot;);
-			tr.executeSql(&quot;CREATE TABLE IF NOT EXISTS author ( id INTEGER NOT NULL UNIQUE PRIMARY KEY AUTOINCREMENT, posterid INTEGER NOT NULL, name TEXT, belongs TEXT, first INTEGER, FOREIGN KEY (posterid) REFERENCES poster (id) )&quot;);
+			tr.executeSql(&quot;CREATE TABLE IF NOT EXISTS poster ( id INTEGER NOT NULL UNIQUE PRIMARY KEY, sessionid TEXT, title TEXT, abstract TEXT, authorname TEXT, authoraffiliation TEXT )&quot;);
+			tr.executeSql(&quot;CREATE TABLE IF NOT EXISTS author ( id INTEGER NOT NULL UNIQUE PRIMARY KEY AUTOINCREMENT, posterid INTEGER NOT NULL, name TEXT, affiliation TEXT, first INTEGER, FOREIGN KEY (posterid) REFERENCES poster (id) )&quot;);
 			tr.executeSql(&quot;CREATE TABLE IF NOT EXISTS keyword ( id INTEGER NOT NULL UNIQUE PRIMARY KEY AUTOINCREMENT, posterid INTEGER NOT NULL, keyword TEXT, FOREIGN KEY (posterid) REFERENCES poster (id) )&quot;);
 			
 			// 仮データを挿入する (poster)

@@ -813,6331 +813,6331 @@
   "commentator" : [ {
     "sessionid" : "E1",
     "name" : "小林 亜樹",
-    "belongs" : "工学院大"
+    "affiliation" : "工学院大"
   }, {
     "sessionid" : "E1",
     "name" : "中野 美由紀",
-    "belongs" : "芝工大"
+    "affiliation" : "芝工大"
   }, {
     "sessionid" : "E2",
     "name" : "熊本 忠彦",
-    "belongs" : "千葉工大"
+    "affiliation" : "千葉工大"
   }, {
     "sessionid" : "E2",
     "name" : "野宮 浩揮",
-    "belongs" : "京都工芸繊維大学"
+    "affiliation" : "京都工芸繊維大学"
   }, {
     "sessionid" : "E3",
     "name" : "平手 勇宇",
-    "belongs" : "楽天"
+    "affiliation" : "楽天"
   }, {
     "sessionid" : "E3",
     "name" : "森本 康彦",
-    "belongs" : "広大"
+    "affiliation" : "広大"
   }, {
     "sessionid" : "E4",
     "name" : "三島 健",
-    "belongs" : "NTT"
+    "affiliation" : "NTT"
   }, {
     "sessionid" : "E4",
     "name" : "的野 晃整",
-    "belongs" : "産総研、AIST"
+    "affiliation" : "産総研、AIST"
   }, {
     "sessionid" : "A1",
     "name" : "鈴木 伸崇",
-    "belongs" : "筑波大"
+    "affiliation" : "筑波大"
   }, {
     "sessionid" : "A1",
     "name" : "清水 敏之",
-    "belongs" : "京大"
+    "affiliation" : "京大"
   }, {
     "sessionid" : "E5",
     "name" : "上土井 陽子",
-    "belongs" : "広市大"
+    "affiliation" : "広市大"
   }, {
     "sessionid" : "E5",
     "name" : "横山 大作",
-    "belongs" : "東大"
+    "affiliation" : "東大"
   }, {
     "sessionid" : "A2",
     "name" : "木村 昌臣",
-    "belongs" : "芝浦工大"
+    "affiliation" : "芝浦工大"
   }, {
     "sessionid" : "A2",
     "name" : "土田 正明",
-    "belongs" : "ＮＥＣ"
+    "affiliation" : "ＮＥＣ"
   }, {
     "sessionid" : "E6",
     "name" : "江口 浩二",
-    "belongs" : "神戸大"
+    "affiliation" : "神戸大"
   }, {
     "sessionid" : "E6",
     "name" : "劉 健全",
-    "belongs" : "NEC"
+    "affiliation" : "NEC"
   }, {
     "sessionid" : "A3",
     "name" : "櫻井 茂明",
-    "belongs" : "東芝"
+    "affiliation" : "東芝"
   }, {
     "sessionid" : "A3",
     "name" : "奥 健太",
-    "belongs" : "立命館大"
+    "affiliation" : "立命館大"
   }, {
     "sessionid" : "E7",
     "name" : "村上 直",
-    "belongs" : "KEK"
+    "affiliation" : "KEK"
   }, {
     "sessionid" : "E7",
     "name" : "油井 誠",
-    "belongs" : "産総研"
+    "affiliation" : "産総研"
   }, {
     "sessionid" : "A4",
     "name" : "松本 一則",
-    "belongs" : "KDDI研"
+    "affiliation" : "KDDI研"
   }, {
     "sessionid" : "A4",
     "name" : "森嶋 厚行",
-    "belongs" : "筑波大"
+    "affiliation" : "筑波大"
   }, {
     "sessionid" : "E8",
     "name" : "国島 丈生",
-    "belongs" : "岡山県大"
+    "affiliation" : "岡山県大"
   }, {
     "sessionid" : "E8",
     "name" : "大野 成義",
-    "belongs" : "職業大"
+    "affiliation" : "職業大"
   }, {
     "sessionid" : "A5",
     "name" : "小杉 尚子",
-    "belongs" : "高崎健康福祉大学"
+    "affiliation" : "高崎健康福祉大学"
   }, {
     "sessionid" : "A5",
     "name" : "渡辺 陽介",
-    "belongs" : "名大"
+    "affiliation" : "名大"
   }, {
     "sessionid" : "A6",
     "name" : "櫻井 茂明",
-    "belongs" : "東芝"
+    "affiliation" : "東芝"
   }, {
     "sessionid" : "A6",
     "name" : "佐久間 淳",
-    "belongs" : "筑波大"
+    "affiliation" : "筑波大"
   }, {
     "sessionid" : "A8",
     "name" : "熊本 忠彦",
-    "belongs" : "千葉工大"
+    "affiliation" : "千葉工大"
   }, {
     "sessionid" : "A8",
     "name" : "劉 健全",
-    "belongs" : "NEC"
+    "affiliation" : "NEC"
   }, {
     "sessionid" : "F1",
     "name" : "吉廣 卓哉",
-    "belongs" : "和大"
+    "affiliation" : "和大"
   }, {
     "sessionid" : "F1",
     "name" : "河合 由起子",
-    "belongs" : "京産大"
+    "affiliation" : "京産大"
   }, {
     "sessionid" : "F2",
     "name" : "豊田 真智子",
-    "belongs" : "NTT"
+    "affiliation" : "NTT"
   }, {
     "sessionid" : "F2",
     "name" : "白川 真澄",
-    "belongs" : "阪大"
+    "affiliation" : "阪大"
   }, {
     "sessionid" : "F3",
     "name" : "伊藤 一成",
-    "belongs" : "青学大"
+    "affiliation" : "青学大"
   }, {
     "sessionid" : "F3",
     "name" : "上田 真由美",
-    "belongs" : "流科大"
+    "affiliation" : "流科大"
   }, {
     "sessionid" : "F4",
     "name" : "王 元元",
-    "belongs" : "京都産業大学"
+    "affiliation" : "京都産業大学"
   }, {
     "sessionid" : "F4",
     "name" : "上善 恒雄",
-    "belongs" : "OECU"
+    "affiliation" : "OECU"
   }, {
     "sessionid" : "B1",
     "name" : "大島 裕明",
-    "belongs" : "京大"
+    "affiliation" : "京大"
   }, {
     "sessionid" : "B1",
     "name" : "金政 泰彦",
-    "belongs" : "富士通研"
+    "affiliation" : "富士通研"
   }, {
     "sessionid" : "F5",
     "name" : "野宮 浩揮",
-    "belongs" : "京都工芸繊維大学"
+    "affiliation" : "京都工芸繊維大学"
   }, {
     "sessionid" : "F5",
     "name" : "北川 博之",
-    "belongs" : "筑波大"
+    "affiliation" : "筑波大"
   }, {
     "sessionid" : "B2",
     "name" : "欅 惇志",
-    "belongs" : "東工大"
+    "affiliation" : "東工大"
   }, {
     "sessionid" : "B2",
     "name" : "宇津呂 武仁",
-    "belongs" : "筑波大"
+    "affiliation" : "筑波大"
   }, {
     "sessionid" : "F6",
     "name" : "王 元元",
-    "belongs" : "京都産業大学"
+    "affiliation" : "京都産業大学"
   }, {
     "sessionid" : "F6",
     "name" : "谷崎 正明",
-    "belongs" : "日立、京大"
+    "affiliation" : "日立、京大"
   }, {
     "sessionid" : "B3",
     "name" : "清光 英成",
-    "belongs" : "神戸大"
+    "affiliation" : "神戸大"
   }, {
     "sessionid" : "B3",
     "name" : "豊田 正史",
-    "belongs" : "東大"
+    "affiliation" : "東大"
   }, {
     "sessionid" : "F7",
     "name" : "上土井 陽子",
-    "belongs" : "広市大"
+    "affiliation" : "広市大"
   }, {
     "sessionid" : "F7",
     "name" : "豊田 真智子",
-    "belongs" : "NTT"
+    "affiliation" : "NTT"
   }, {
     "sessionid" : "B4",
     "name" : "木村 昌臣",
-    "belongs" : "芝浦工大"
+    "affiliation" : "芝浦工大"
   }, {
     "sessionid" : "B4",
     "name" : "吉田 尚史",
-    "belongs" : "駒大"
+    "affiliation" : "駒大"
   }, {
     "sessionid" : "F8",
     "name" : "江口 浩二",
-    "belongs" : "神戸大"
+    "affiliation" : "神戸大"
   }, {
     "sessionid" : "F8",
     "name" : "鷹野 孝典",
-    "belongs" : "神奈工"
+    "affiliation" : "神奈工"
   }, {
     "sessionid" : "B5",
     "name" : "関 和広",
-    "belongs" : "甲南大"
+    "affiliation" : "甲南大"
   }, {
     "sessionid" : "B5",
     "name" : "山本 岳洋",
-    "belongs" : "京大"
+    "affiliation" : "京大"
   }, {
     "sessionid" : "B6",
     "name" : "宮崎 収兄",
-    "belongs" : "千葉工大"
+    "affiliation" : "千葉工大"
   }, {
     "sessionid" : "B6",
     "name" : "飯沢 篤志",
-    "belongs" : "リコー"
+    "affiliation" : "リコー"
   }, {
     "sessionid" : "B8",
     "name" : "大本 英徹",
-    "belongs" : "京産大"
+    "affiliation" : "京産大"
   }, {
     "sessionid" : "B8",
     "name" : "牛尼 剛聡",
-    "belongs" : "九大"
+    "affiliation" : "九大"
   }, {
     "sessionid" : "G1",
     "name" : "丸橋 弘治",
-    "belongs" : "富士通研"
+    "affiliation" : "富士通研"
   }, {
     "sessionid" : "G1",
     "name" : "佐久間 淳",
-    "belongs" : "筑波大"
+    "affiliation" : "筑波大"
   }, {
     "sessionid" : "G2",
     "name" : "高橋 翼",
-    "belongs" : "NEC"
+    "affiliation" : "NEC"
   }, {
     "sessionid" : "G2",
     "name" : "新谷 隆彦",
-    "belongs" : "電通大"
+    "affiliation" : "電通大"
   }, {
     "sessionid" : "G3",
     "name" : "三島 健",
-    "belongs" : "NTT"
+    "affiliation" : "NTT"
   }, {
     "sessionid" : "G3",
     "name" : "藤原 真二",
-    "belongs" : "日立"
+    "affiliation" : "日立"
   }, {
     "sessionid" : "G4",
     "name" : "三浦 孝夫",
-    "belongs" : "法大"
+    "affiliation" : "法大"
   }, {
     "sessionid" : "G4",
     "name" : "井上 潮",
-    "belongs" : "電大"
+    "affiliation" : "電大"
   }, {
     "sessionid" : "C1",
     "name" : "都司 達夫",
-    "belongs" : "福井大学"
+    "affiliation" : "福井大学"
   }, {
     "sessionid" : "C1",
     "name" : "藤原 靖宏",
-    "belongs" : "NTT"
+    "affiliation" : "NTT"
   }, {
     "sessionid" : "G5",
     "name" : "高橋 翼",
-    "belongs" : "NEC"
+    "affiliation" : "NEC"
   }, {
     "sessionid" : "G5",
     "name" : "金子 邦彦",
-    "belongs" : "九大"
+    "affiliation" : "九大"
   }, {
     "sessionid" : "C2",
     "name" : "佐々木 勇和",
-    "belongs" : "名大"
+    "affiliation" : "名大"
   }, {
     "sessionid" : "C2",
     "name" : "鎌原 淳三",
-    "belongs" : "神大"
+    "affiliation" : "神大"
   }, {
     "sessionid" : "G6",
     "name" : "吉廣 卓哉",
-    "belongs" : "和大"
+    "affiliation" : "和大"
   }, {
     "sessionid" : "G6",
     "name" : "富井 尚志",
-    "belongs" : "横浜国大"
+    "affiliation" : "横浜国大"
   }, {
     "sessionid" : "C3",
     "name" : "小林 亜樹",
-    "belongs" : "工学院大"
+    "affiliation" : "工学院大"
   }, {
     "sessionid" : "C3",
     "name" : "春本 要",
-    "belongs" : "阪大"
+    "affiliation" : "阪大"
   }, {
     "sessionid" : "G7",
     "name" : "木村 文則",
-    "belongs" : "立命館大学"
+    "affiliation" : "立命館大学"
   }, {
     "sessionid" : "G7",
     "name" : "大向 一輝",
-    "belongs" : "国立情報学研究所"
+    "affiliation" : "国立情報学研究所"
   }, {
     "sessionid" : "C4",
     "name" : "伊藤 一成",
-    "belongs" : "青学大"
+    "affiliation" : "青学大"
   }, {
     "sessionid" : "C4",
     "name" : "河合 由起子",
-    "belongs" : "京産大"
+    "affiliation" : "京産大"
   }, {
     "sessionid" : "G8",
     "name" : "若林 啓",
-    "belongs" : "筑波大"
+    "affiliation" : "筑波大"
   }, {
     "sessionid" : "G8",
     "name" : "戸田 浩之",
-    "belongs" : "NTT"
+    "affiliation" : "NTT"
   }, {
     "sessionid" : "C5",
     "name" : "欅 惇志",
-    "belongs" : "東工大"
+    "affiliation" : "東工大"
   }, {
     "sessionid" : "C5",
     "name" : "是津 耕司",
-    "belongs" : "NICT"
+    "affiliation" : "NICT"
   }, {
     "sessionid" : "C6",
     "name" : "川本 淳平",
-    "belongs" : "九大"
+    "affiliation" : "九大"
   }, {
     "sessionid" : "C6",
     "name" : "中野 美由紀",
-    "belongs" : "芝工大"
+    "affiliation" : "芝工大"
   }, {
     "sessionid" : "C7",
     "name" : "田中 克己",
-    "belongs" : "京大"
+    "affiliation" : "京大"
   }, {
     "sessionid" : "C7",
     "name" : "鈴木 優",
-    "belongs" : "NAIST"
+    "affiliation" : "NAIST"
   }, {
     "sessionid" : "C8",
     "name" : "白石 優旗",
-    "belongs" : "筑波技大"
+    "affiliation" : "筑波技大"
   }, {
     "sessionid" : "C8",
     "name" : "原 隆浩",
-    "belongs" : "阪大"
+    "affiliation" : "阪大"
   }, {
     "sessionid" : "P1",
     "name" : "清光 英成",
-    "belongs" : "神戸大"
+    "affiliation" : "神戸大"
   }, {
     "sessionid" : "P1",
     "name" : "北山 大輔",
-    "belongs" : "工学院大学"
+    "affiliation" : "工学院大学"
   }, {
     "sessionid" : "P2",
     "name" : "三浦 孝夫",
-    "belongs" : "法大"
+    "affiliation" : "法大"
   }, {
     "sessionid" : "P2",
     "name" : "平手 勇宇",
-    "belongs" : "楽天"
+    "affiliation" : "楽天"
   }, {
     "sessionid" : "P3",
     "name" : "大本 英徹",
-    "belongs" : "京産大"
+    "affiliation" : "京産大"
   }, {
     "sessionid" : "P3",
     "name" : "渡辺 知恵美",
-    "belongs" : "筑波大"
+    "affiliation" : "筑波大"
   }, {
     "sessionid" : "P4",
     "name" : "若宮 翔子",
-    "belongs" : "京都産業大学"
+    "affiliation" : "京都産業大学"
   }, {
     "sessionid" : "P4",
     "name" : "小口 正人",
-    "belongs" : "お茶大"
+    "affiliation" : "お茶大"
   }, {
     "sessionid" : "D1",
     "name" : "土田 正明",
-    "belongs" : "ＮＥＣ"
+    "affiliation" : "ＮＥＣ"
   }, {
     "sessionid" : "D1",
     "name" : "新妻 弘崇",
-    "belongs" : "岡山大"
+    "affiliation" : "岡山大"
   }, {
     "sessionid" : "D2",
     "name" : "橋本 隆子",
-    "belongs" : "CUC"
+    "affiliation" : "CUC"
   }, {
     "sessionid" : "D2",
     "name" : "加藤 誠",
-    "belongs" : "京大"
+    "affiliation" : "京大"
   }, {
     "sessionid" : "D3",
     "name" : "戸田 浩之",
-    "belongs" : "NTT"
+    "affiliation" : "NTT"
   }, {
     "sessionid" : "D3",
     "name" : "鷹野 孝典",
-    "belongs" : "神奈工"
+    "affiliation" : "神奈工"
   }, {
     "sessionid" : "D4",
     "name" : "Kim Kyoungsook",
-    "belongs" : "AIST"
+    "affiliation" : "AIST"
   }, {
     "sessionid" : "D4",
     "name" : "佐藤 哲司",
-    "belongs" : "筑波大"
+    "affiliation" : "筑波大"
   }, {
     "sessionid" : "D5",
     "name" : "橋本 隆子",
-    "belongs" : "CUC"
+    "affiliation" : "CUC"
   }, {
     "sessionid" : "D5",
     "name" : "関 洋平",
-    "belongs" : "筑波大"
+    "affiliation" : "筑波大"
   }, {
     "sessionid" : "D6",
     "name" : "大森 匡",
-    "belongs" : "電通大"
+    "affiliation" : "電通大"
   }, {
     "sessionid" : "D6",
     "name" : "義久 智樹",
-    "belongs" : "阪大"
+    "affiliation" : "阪大"
   }, {
     "sessionid" : "D7",
     "name" : "白川 真澄",
-    "belongs" : "阪大"
+    "affiliation" : "阪大"
   }, {
     "sessionid" : "D7",
     "name" : "前田 亮",
-    "belongs" : "立命館大"
+    "affiliation" : "立命館大"
   }, {
     "sessionid" : "D8",
     "name" : "丸橋 弘治",
-    "belongs" : "富士通研"
+    "affiliation" : "富士通研"
   }, {
     "sessionid" : "D8",
     "name" : "安川 雅紀",
-    "belongs" : "東大"
+    "affiliation" : "東大"
   }, {
     "sessionid" : "X1",
     "name" : "Anyone",
-    "belongs" : "Anywhere"
+    "affiliation" : "Anywhere"
   }, {
     "sessionid" : "X1",
     "name" : "Anyone",
-    "belongs" : "Anywhere"
+    "affiliation" : "Anywhere"
   } ],
   "session" : [ {
     "sessionid" : "E1",
     "title" : "クラウド・IoT",
     "chairpersonname" : "春本 要",
-    "chairpersonbelongs" : "阪大"
+    "chairpersonaffiliation" : "阪大"
   }, {
     "sessionid" : "E2",
     "title" : "マイニング・可視化",
     "chairpersonname" : "上善 恒雄",
-    "chairpersonbelongs" : "OECU"
+    "chairpersonaffiliation" : "OECU"
   }, {
     "sessionid" : "E3",
     "title" : "半構造データ・オープンデータ",
     "chairpersonname" : "藤原 靖宏",
-    "chairpersonbelongs" : "NTT"
+    "chairpersonaffiliation" : "NTT"
   }, {
     "sessionid" : "E4",
     "title" : "データ処理基盤",
     "chairpersonname" : "宮崎 純",
-    "chairpersonbelongs" : "東工大"
+    "chairpersonaffiliation" : "東工大"
   }, {
     "sessionid" : "A1",
     "title" : "QA・ECサイト",
     "chairpersonname" : "石川 博",
-    "chairpersonbelongs" : "首都大学東京"
+    "chairpersonaffiliation" : "首都大学東京"
   }, {
     "sessionid" : "E5",
     "title" : "グラフと分散処理",
     "chairpersonname" : "原 隆浩",
-    "chairpersonbelongs" : "阪大"
+    "chairpersonaffiliation" : "阪大"
   }, {
     "sessionid" : "A2",
     "title" : "テキストマイニング",
     "chairpersonname" : "関 洋平",
-    "chairpersonbelongs" : "筑波大"
+    "chairpersonaffiliation" : "筑波大"
   }, {
     "sessionid" : "E6",
     "title" : "グラフマイニング",
     "chairpersonname" : "川越 恭二",
-    "chairpersonbelongs" : "立命館大学"
+    "chairpersonaffiliation" : "立命館大学"
   }, {
     "sessionid" : "A3",
     "title" : "情報検索（Ph.Dセッション）",
     "chairpersonname" : "田島 敬史",
-    "chairpersonbelongs" : "京大"
+    "chairpersonaffiliation" : "京大"
   }, {
     "sessionid" : "E7",
     "title" : "プラットフォーム技術",
     "chairpersonname" : "渡辺 陽介",
-    "chairpersonbelongs" : "名大"
+    "chairpersonaffiliation" : "名大"
   }, {
     "sessionid" : "A4",
     "title" : "Web情報システム（Ph.Dセッション）",
     "chairpersonname" : "田中 克己",
-    "chairpersonbelongs" : "京大"
+    "chairpersonaffiliation" : "京大"
   }, {
     "sessionid" : "E8",
     "title" : "情報抽出・検索",
     "chairpersonname" : "是津 耕司",
-    "chairpersonbelongs" : "NICT"
+    "chairpersonaffiliation" : "NICT"
   }, {
     "sessionid" : "A5",
     "title" : "データマイニング(1)（Ph.Dセッション）",
     "chairpersonname" : "喜田 拓也",
-    "chairpersonbelongs" : "北大"
+    "chairpersonaffiliation" : "北大"
   }, {
     "sessionid" : "A6",
     "title" : "データマイニング(2)（Ph.Dセッション）",
     "chairpersonname" : "増永 良文",
-    "chairpersonbelongs" : "お茶大"
+    "chairpersonaffiliation" : "お茶大"
   }, {
     "sessionid" : "A8",
     "title" : "マイクロブログ(2)",
     "chairpersonname" : "豊田 正史",
-    "chairpersonbelongs" : "東大"
+    "chairpersonaffiliation" : "東大"
   }, {
     "sessionid" : "F1",
     "title" : "音楽情報処理",
     "chairpersonname" : "井上 潮",
-    "chairpersonbelongs" : "電大"
+    "chairpersonaffiliation" : "電大"
   }, {
     "sessionid" : "F2",
     "title" : "動画像データ分析",
     "chairpersonname" : "安川 雅紀",
-    "chairpersonbelongs" : "東大"
+    "chairpersonaffiliation" : "東大"
   }, {
     "sessionid" : "F3",
     "title" : "学術情報",
     "chairpersonname" : "佐藤 哲司",
-    "chairpersonbelongs" : "筑波大"
+    "chairpersonaffiliation" : "筑波大"
   }, {
     "sessionid" : "F4",
     "title" : "HCI",
     "chairpersonname" : "渡辺 知恵美",
-    "chairpersonbelongs" : "筑波大"
+    "chairpersonaffiliation" : "筑波大"
   }, {
     "sessionid" : "B1",
     "title" : "情報伝搬・クラウドソーシング",
     "chairpersonname" : "牛尼 剛聡",
-    "chairpersonbelongs" : "九大"
+    "chairpersonaffiliation" : "九大"
   }, {
     "sessionid" : "F5",
     "title" : "感情と感性",
     "chairpersonname" : "太田 学",
-    "chairpersonbelongs" : "岡大"
+    "chairpersonaffiliation" : "岡大"
   }, {
     "sessionid" : "B2",
     "title" : "情報推薦(1)",
     "chairpersonname" : "鈴木 優",
-    "chairpersonbelongs" : "NAIST"
+    "chairpersonaffiliation" : "NAIST"
   }, {
     "sessionid" : "F6",
     "title" : "位置情報",
     "chairpersonname" : "前川 卓也",
-    "chairpersonbelongs" : "阪大"
+    "chairpersonaffiliation" : "阪大"
   }, {
     "sessionid" : "B3",
     "title" : "情報推薦(2)",
     "chairpersonname" : "松本 一則",
-    "chairpersonbelongs" : "KDDI研"
+    "chairpersonaffiliation" : "KDDI研"
   }, {
     "sessionid" : "F7",
     "title" : "地理・観光",
     "chairpersonname" : "灘本 明代",
-    "chairpersonbelongs" : "甲南大"
+    "chairpersonaffiliation" : "甲南大"
   }, {
     "sessionid" : "B4",
     "title" : "情報抽出",
     "chairpersonname" : "神門 典子",
-    "chairpersonbelongs" : "NII"
+    "chairpersonaffiliation" : "NII"
   }, {
     "sessionid" : "F8",
     "title" : "時系列データ",
     "chairpersonname" : "波多野 賢治",
-    "chairpersonbelongs" : "同大"
+    "chairpersonaffiliation" : "同大"
   }, {
     "sessionid" : "B5",
     "title" : "情報検索応用",
     "chairpersonname" : "宮森 恒",
-    "chairpersonbelongs" : "京都産業大学"
+    "chairpersonaffiliation" : "京都産業大学"
   }, {
     "sessionid" : "B6",
     "title" : "分散処理・管理",
     "chairpersonname" : "横田 治夫",
-    "chairpersonbelongs" : "東工大"
+    "chairpersonaffiliation" : "東工大"
   }, {
     "sessionid" : "B8",
     "title" : "音楽・動画推薦",
     "chairpersonname" : "富井 尚志",
-    "chairpersonbelongs" : "横浜国大"
+    "chairpersonaffiliation" : "横浜国大"
   }, {
     "sessionid" : "G1",
     "title" : "プライバシー(1)",
     "chairpersonname" : "北川 博之",
-    "chairpersonbelongs" : "筑波大"
+    "chairpersonaffiliation" : "筑波大"
   }, {
     "sessionid" : "G2",
     "title" : "プライバシー(2)",
     "chairpersonname" : "川本 淳平",
-    "chairpersonbelongs" : "九大"
+    "chairpersonaffiliation" : "九大"
   }, {
     "sessionid" : "G3",
     "title" : "GPU・ストレージ",
     "chairpersonname" : "的野 晃整",
-    "chairpersonbelongs" : "産総研、AIST"
+    "chairpersonaffiliation" : "産総研、AIST"
   }, {
     "sessionid" : "G4",
     "title" : "データマイニング・マイクロブログ",
     "chairpersonname" : "新谷 隆彦",
-    "chairpersonbelongs" : "電通大"
+    "chairpersonaffiliation" : "電通大"
   }, {
     "sessionid" : "C1",
     "title" : "食・レシピ情報",
     "chairpersonname" : "増永 良文",
-    "chairpersonbelongs" : "お茶大"
+    "chairpersonaffiliation" : "お茶大"
   }, {
     "sessionid" : "G5",
     "title" : "医療情報",
     "chairpersonname" : "合田 和生",
-    "chairpersonbelongs" : "東大"
+    "chairpersonaffiliation" : "東大"
   }, {
     "sessionid" : "C2",
     "title" : "ネットワーク・センシング",
     "chairpersonname" : "谷崎 正明",
-    "chairpersonbelongs" : "日立、京大"
+    "chairpersonaffiliation" : "日立、京大"
   }, {
     "sessionid" : "G6",
     "title" : "科学・医療データマイニング",
     "chairpersonname" : "伊藤 貴之",
-    "chairpersonbelongs" : "お茶大"
+    "chairpersonaffiliation" : "お茶大"
   }, {
     "sessionid" : "C3",
     "title" : "省電力",
     "chairpersonname" : "吉田 尚史",
-    "chairpersonbelongs" : "駒大"
+    "chairpersonaffiliation" : "駒大"
   }, {
     "sessionid" : "G7",
     "title" : "観光情報",
     "chairpersonname" : "梅村 恭司",
-    "chairpersonbelongs" : "豊技大"
+    "chairpersonaffiliation" : "豊技大"
   }, {
     "sessionid" : "C4",
     "title" : "マイクロブログ(1)",
     "chairpersonname" : "大向 一輝",
-    "chairpersonbelongs" : "国立情報学研究所"
+    "chairpersonaffiliation" : "国立情報学研究所"
   }, {
     "sessionid" : "G8",
     "title" : "自然言語処理",
     "chairpersonname" : "加藤 誠",
-    "chairpersonbelongs" : "京大"
+    "chairpersonaffiliation" : "京大"
   }, {
     "sessionid" : "C5",
     "title" : "クエリ高度化",
     "chairpersonname" : "鎌原 淳三",
-    "chairpersonbelongs" : "神大"
+    "chairpersonaffiliation" : "神大"
   }, {
     "sessionid" : "C6",
     "title" : "クラウドソーシング・SNS",
     "chairpersonname" : "金政 泰彦",
-    "chairpersonbelongs" : "富士通研"
+    "chairpersonaffiliation" : "富士通研"
   }, {
     "sessionid" : "C7",
     "title" : "災害情報",
     "chairpersonname" : "奥 健太",
-    "chairpersonbelongs" : "立命館大"
+    "chairpersonaffiliation" : "立命館大"
   }, {
     "sessionid" : "C8",
     "title" : "イベント抽出と地理情報",
     "chairpersonname" : "森本 康彦",
-    "chairpersonbelongs" : "広大"
+    "chairpersonaffiliation" : "広大"
   }, {
     "sessionid" : "P1",
     "title" : "情報推薦",
     "chairpersonname" : "上田 真由美",
-    "chairpersonbelongs" : "流科大"
+    "chairpersonaffiliation" : "流科大"
   }, {
     "sessionid" : "P2",
     "title" : "時系列・時空間データ",
     "chairpersonname" : "義久 智樹",
-    "chairpersonbelongs" : "阪大"
+    "chairpersonaffiliation" : "阪大"
   }, {
     "sessionid" : "P3",
     "title" : "先進的データ応用",
     "chairpersonname" : "前田 亮",
-    "chairpersonbelongs" : "立命館大"
+    "chairpersonaffiliation" : "立命館大"
   }, {
     "sessionid" : "P4",
     "title" : "ライフログと地理情報",
     "chairpersonname" : "難波 英嗣",
-    "chairpersonbelongs" : "広市大"
+    "chairpersonaffiliation" : "広市大"
   }, {
     "sessionid" : "D1",
     "title" : "トピック分類",
     "chairpersonname" : "横山 大作",
-    "chairpersonbelongs" : "東大"
+    "chairpersonaffiliation" : "東大"
   }, {
     "sessionid" : "D2",
     "title" : "データ分析",
     "chairpersonname" : "山本 岳洋",
-    "chairpersonbelongs" : "京大"
+    "chairpersonaffiliation" : "京大"
   }, {
     "sessionid" : "D3",
     "title" : "ユーザーレビュー",
     "chairpersonname" : "清水 敏之",
-    "chairpersonbelongs" : "京大"
+    "chairpersonaffiliation" : "京大"
   }, {
     "sessionid" : "D4",
     "title" : "情報信頼性",
     "chairpersonname" : "北山 大輔",
-    "chairpersonbelongs" : "工学院大学"
+    "chairpersonaffiliation" : "工学院大学"
   }, {
     "sessionid" : "D5",
     "title" : "ドキュメントと機械学習",
     "chairpersonname" : "宇津呂 武仁",
-    "chairpersonbelongs" : "筑波大"
+    "chairpersonaffiliation" : "筑波大"
   }, {
     "sessionid" : "D6",
     "title" : "OLAP",
     "chairpersonname" : "藤原 真二",
-    "chairpersonbelongs" : "日立"
+    "chairpersonaffiliation" : "日立"
   }, {
     "sessionid" : "D7",
     "title" : "先進的応用",
     "chairpersonname" : "飯沢 篤志",
-    "chairpersonbelongs" : "リコー"
+    "chairpersonaffiliation" : "リコー"
   }, {
     "sessionid" : "D8",
     "title" : "SNSユーザ情報",
     "chairpersonname" : "油井 誠",
-    "chairpersonbelongs" : "産総研"
+    "chairpersonaffiliation" : "産総研"
   }, {
     "sessionid" : "X1",
     "title" : "Dummy Session",
     "chairpersonname" : "Someone",
-    "chairpersonbelongs" : "Somewhere"
+    "chairpersonaffiliation" : "Somewhere"
   } ],
   "author" : [ {
     "presenid" : "E1-1",
     "name" : "西出 彩花",
-    "belongs" : "お茶大",
+    "affiliation" : "お茶大",
     "first" : 1
   }, {
     "presenid" : "E1-1",
     "name" : "三島 健",
-    "belongs" : "NTT",
+    "affiliation" : "NTT",
     "first" : 0
   }, {
     "presenid" : "E1-1",
     "name" : "小口 正人",
-    "belongs" : "お茶大",
+    "affiliation" : "お茶大",
     "first" : 0
   }, {
     "presenid" : "E1-2",
     "name" : "原 瑠理子",
-    "belongs" : "お茶大",
+    "affiliation" : "お茶大",
     "first" : 1
   }, {
     "presenid" : "E1-2",
     "name" : "三島 健",
-    "belongs" : "NTT",
+    "affiliation" : "NTT",
     "first" : 0
   }, {
     "presenid" : "E1-2",
     "name" : "小口 正人",
-    "belongs" : "お茶大",
+    "affiliation" : "お茶大",
     "first" : 0
   }, {
     "presenid" : "E1-3",
     "name" : "柳田 晴香",
-    "belongs" : "お茶大",
+    "affiliation" : "お茶大",
     "first" : 1
   }, {
     "presenid" : "E1-3",
     "name" : "小口 正人",
-    "belongs" : "お茶大",
+    "affiliation" : "お茶大",
     "first" : 0
   }, {
     "presenid" : "E1-3",
     "name" : "中尾 彰宏",
-    "belongs" : "東大",
+    "affiliation" : "東大",
     "first" : 0
   }, {
     "presenid" : "E1-3",
     "name" : "山本 周",
-    "belongs" : "東大",
+    "affiliation" : "東大",
     "first" : 0
   }, {
     "presenid" : "E1-3",
     "name" : "山口 実靖",
-    "belongs" : "工学院",
+    "affiliation" : "工学院",
     "first" : 0
   }, {
     "presenid" : "E1-4",
     "name" : "白浜 勝太",
-    "belongs" : "OECU",
+    "affiliation" : "OECU",
     "first" : 1
   }, {
     "presenid" : "E1-4",
     "name" : "森本 哲郎",
-    "belongs" : "OECU",
+    "affiliation" : "OECU",
     "first" : 0
   }, {
     "presenid" : "E1-4",
     "name" : "上善 恒雄",
-    "belongs" : "OECU",
+    "affiliation" : "OECU",
     "first" : 0
   }, {
     "presenid" : "E1-5",
     "name" : "卓 路",
-    "belongs" : "早稲田",
+    "affiliation" : "早稲田",
     "first" : 1
   }, {
     "presenid" : "E1-5",
     "name" : "王 チン",
-    "belongs" : "早稲田",
+    "affiliation" : "早稲田",
     "first" : 0
   }, {
     "presenid" : "E1-5",
     "name" : "浅井 洋樹",
-    "belongs" : "早稲田",
+    "affiliation" : "早稲田",
     "first" : 0
   }, {
     "presenid" : "E1-5",
     "name" : "山名 早人",
-    "belongs" : "早稲田",
+    "affiliation" : "早稲田",
     "first" : 0
   }, {
     "presenid" : "E1-6",
     "name" : "松野 友輔",
-    "belongs" : "立命館大学",
+    "affiliation" : "立命館大学",
     "first" : 1
   }, {
     "presenid" : "E1-6",
     "name" : "黄 宏軒",
-    "belongs" : "立命館大学",
+    "affiliation" : "立命館大学",
     "first" : 0
   }, {
     "presenid" : "E1-6",
     "name" : "川越 恭二",
-    "belongs" : "立命館大学",
+    "affiliation" : "立命館大学",
     "first" : 0
   }, {
     "presenid" : "E2-1",
     "name" : "佐生 明陽",
-    "belongs" : "TUS",
+    "affiliation" : "TUS",
     "first" : 1
   }, {
     "presenid" : "E2-1",
     "name" : "輪島 幸治",
-    "belongs" : "AIIT",
+    "affiliation" : "AIIT",
     "first" : 0
   }, {
     "presenid" : "E2-1",
     "name" : "雨車 和憲",
-    "belongs" : "TUS",
+    "affiliation" : "TUS",
     "first" : 0
   }, {
     "presenid" : "E2-1",
     "name" : "田中 勇帆",
-    "belongs" : "TUS",
+    "affiliation" : "TUS",
     "first" : 0
   }, {
     "presenid" : "E2-1",
     "name" : "嶋田 茂",
-    "belongs" : "AIIT",
+    "affiliation" : "AIIT",
     "first" : 0
   }, {
     "presenid" : "E2-1",
     "name" : "小河 誠巳",
-    "belongs" : "MIT",
+    "affiliation" : "MIT",
     "first" : 0
   }, {
     "presenid" : "E2-1",
     "name" : "古川 利博",
-    "belongs" : "TUS",
+    "affiliation" : "TUS",
     "first" : 0
   }, {
     "presenid" : "E2-2",
     "name" : "酒井 えりか",
-    "belongs" : "お茶の水女子大学",
+    "affiliation" : "お茶の水女子大学",
     "first" : 1
   }, {
     "presenid" : "E2-2",
     "name" : "伊藤 貴之",
-    "belongs" : "お茶の水女子大学",
+    "affiliation" : "お茶の水女子大学",
     "first" : 0
   }, {
     "presenid" : "E2-3",
     "name" : "津川 敦朗",
-    "belongs" : "岡大",
+    "affiliation" : "岡大",
     "first" : 1
   }, {
     "presenid" : "E2-3",
     "name" : "新妻 弘崇",
-    "belongs" : "岡大",
+    "affiliation" : "岡大",
     "first" : 0
   }, {
     "presenid" : "E2-3",
     "name" : "太田 学",
-    "belongs" : "岡大",
+    "affiliation" : "岡大",
     "first" : 0
   }, {
     "presenid" : "E2-4",
     "name" : "熊谷 沙津希",
-    "belongs" : "お茶大",
+    "affiliation" : "お茶大",
     "first" : 1
   }, {
     "presenid" : "E2-4",
     "name" : "伊藤 貴之",
-    "belongs" : "お茶の水女子大学",
+    "affiliation" : "お茶の水女子大学",
     "first" : 0
   }, {
     "presenid" : "E2-4",
     "name" : "本橋 洋介",
-    "belongs" : "NEC",
+    "affiliation" : "NEC",
     "first" : 0
   }, {
     "presenid" : "E2-5",
     "name" : "山中 優馬",
-    "belongs" : "和大",
+    "affiliation" : "和大",
     "first" : 1
   }, {
     "presenid" : "E2-5",
     "name" : "吉廣 卓哉",
-    "belongs" : "和大",
+    "affiliation" : "和大",
     "first" : 0
   }, {
     "presenid" : "E2-6",
     "name" : "北田 剛士",
-    "belongs" : "和大",
+    "affiliation" : "和大",
     "first" : 1
   }, {
     "presenid" : "E2-6",
     "name" : "風間 一洋",
-    "belongs" : "和大",
+    "affiliation" : "和大",
     "first" : 0
   }, {
     "presenid" : "E2-6",
     "name" : "榊 剛史",
-    "belongs" : "東大",
+    "affiliation" : "東大",
     "first" : 0
   }, {
     "presenid" : "E2-6",
     "name" : "鳥海 不二夫",
-    "belongs" : "東大",
+    "affiliation" : "東大",
     "first" : 0
   }, {
     "presenid" : "E2-6",
     "name" : "栗原 聡",
-    "belongs" : "電通大",
+    "affiliation" : "電通大",
     "first" : 0
   }, {
     "presenid" : "E2-6",
     "name" : "篠田 孝祐",
-    "belongs" : "電通大",
+    "affiliation" : "電通大",
     "first" : 0
   }, {
     "presenid" : "E2-6",
     "name" : "野田 五十樹",
-    "belongs" : "産総研",
+    "affiliation" : "産総研",
     "first" : 0
   }, {
     "presenid" : "E2-6",
     "name" : "斉藤 和己",
-    "belongs" : "静県大",
+    "affiliation" : "静県大",
     "first" : 0
   }, {
     "presenid" : "E3-1",
     "name" : "近藤 拓也",
-    "belongs" : "首都大",
+    "affiliation" : "首都大",
     "first" : 1
   }, {
     "presenid" : "E3-1",
     "name" : "遠藤 雅樹",
-    "belongs" : "首都大",
+    "affiliation" : "首都大",
     "first" : 0
   }, {
     "presenid" : "E3-1",
     "name" : "廣田 雅春",
-    "belongs" : "首都大",
+    "affiliation" : "首都大",
     "first" : 0
   }, {
     "presenid" : "E3-1",
     "name" : "横山 昌平",
-    "belongs" : "静大",
+    "affiliation" : "静大",
     "first" : 0
   }, {
     "presenid" : "E3-1",
     "name" : "石川 博",
-    "belongs" : "首都大",
+    "affiliation" : "首都大",
     "first" : 0
   }, {
     "presenid" : "E3-2",
     "name" : "呉 揚",
-    "belongs" : "筑波大",
+    "affiliation" : "筑波大",
     "first" : 1
   }, {
     "presenid" : "E3-2",
     "name" : "鈴木 伸崇",
-    "belongs" : "筑波大",
+    "affiliation" : "筑波大",
     "first" : 0
   }, {
     "presenid" : "E3-3",
     "name" : "熊本 和正",
-    "belongs" : "筑波大",
+    "affiliation" : "筑波大",
     "first" : 1
   }, {
     "presenid" : "E3-3",
     "name" : "天笠 俊之",
-    "belongs" : "筑波大",
+    "affiliation" : "筑波大",
     "first" : 0
   }, {
     "presenid" : "E3-3",
     "name" : "北川 博之",
-    "belongs" : "筑波大",
+    "affiliation" : "筑波大",
     "first" : 0
   }, {
     "presenid" : "E3-4",
     "name" : "林 孝紀",
-    "belongs" : "東大",
+    "affiliation" : "東大",
     "first" : 1
   }, {
     "presenid" : "E3-4",
     "name" : "秋葉 拓哉",
-    "belongs" : "東大",
+    "affiliation" : "東大",
     "first" : 0
   }, {
     "presenid" : "E3-4",
     "name" : "吉田 悠一",
-    "belongs" : "NII",
+    "affiliation" : "NII",
     "first" : 0
   }, {
     "presenid" : "E3-5",
     "name" : "古川 孝則",
-    "belongs" : "信州大",
+    "affiliation" : "信州大",
     "first" : 1
   }, {
     "presenid" : "E3-5",
     "name" : "滝澤 健斗",
-    "belongs" : "信州大",
+    "affiliation" : "信州大",
     "first" : 0
   }, {
     "presenid" : "E3-5",
     "name" : "山本 博章",
-    "belongs" : "信州大",
+    "affiliation" : "信州大",
     "first" : 0
   }, {
     "presenid" : "E3-5",
     "name" : "金子 美博",
-    "belongs" : "岐阜大",
+    "affiliation" : "岐阜大",
     "first" : 0
   }, {
     "presenid" : "E3-6",
     "name" : "須藤 篤志",
-    "belongs" : "福井大",
+    "affiliation" : "福井大",
     "first" : 1
   }, {
     "presenid" : "E3-6",
     "name" : "都司 達夫",
-    "belongs" : "福井大",
+    "affiliation" : "福井大",
     "first" : 0
   }, {
     "presenid" : "E3-6",
     "name" : "樋口 健",
-    "belongs" : "福井大",
+    "affiliation" : "福井大",
     "first" : 0
   }, {
     "presenid" : "E4-1",
     "name" : "今崎 美保",
-    "belongs" : "株式会社　日立製作所",
+    "affiliation" : "株式会社　日立製作所",
     "first" : 1
   }, {
     "presenid" : "E4-1",
     "name" : "吉原 朋宏",
-    "belongs" : "株式会社　日立製作所",
+    "affiliation" : "株式会社　日立製作所",
     "first" : 0
   }, {
     "presenid" : "E4-1",
     "name" : "下薗 紀夫",
-    "belongs" : "株式会社　日立製作所",
+    "affiliation" : "株式会社　日立製作所",
     "first" : 0
   }, {
     "presenid" : "E4-2",
     "name" : "中村 実",
-    "belongs" : "富士通研",
+    "affiliation" : "富士通研",
     "first" : 1
   }, {
     "presenid" : "E4-2",
     "name" : "田原 司睦",
-    "belongs" : "富士通研",
+    "affiliation" : "富士通研",
     "first" : 0
   }, {
     "presenid" : "E4-2",
     "name" : "宇治橋 善史",
-    "belongs" : "富士通研",
+    "affiliation" : "富士通研",
     "first" : 0
   }, {
     "presenid" : "E4-2",
     "name" : "橋田 拓志",
-    "belongs" : "富士通研",
+    "affiliation" : "富士通研",
     "first" : 0
   }, {
     "presenid" : "E4-2",
     "name" : "河場 基行",
-    "belongs" : "富士通研",
+    "affiliation" : "富士通研",
     "first" : 0
   }, {
     "presenid" : "E4-2",
     "name" : "原田 リリアン",
-    "belongs" : "富士通研",
+    "affiliation" : "富士通研",
     "first" : 0
   }, {
     "presenid" : "E4-3",
     "name" : "川原 駿",
-    "belongs" : "神戸大学",
+    "affiliation" : "神戸大学",
     "first" : 1
   }, {
     "presenid" : "E4-3",
     "name" : "関 和広",
-    "belongs" : "甲南大学",
+    "affiliation" : "甲南大学",
     "first" : 0
   }, {
     "presenid" : "E4-3",
     "name" : "上原 邦昭",
-    "belongs" : "神戸大学",
+    "affiliation" : "神戸大学",
     "first" : 0
   }, {
     "presenid" : "E4-4",
     "name" : "王 岩",
-    "belongs" : "筑波大",
+    "affiliation" : "筑波大",
     "first" : 1
   }, {
     "presenid" : "E4-4",
     "name" : "北川 博之",
-    "belongs" : "筑波大",
+    "affiliation" : "筑波大",
     "first" : 0
   }, {
     "presenid" : "E4-4",
     "name" : "Ahmed Shaikh Salman",
-    "belongs" : "筑波大",
+    "affiliation" : "筑波大",
     "first" : 0
   }, {
     "presenid" : "E4-4",
     "name" : "渡辺 陽介",
-    "belongs" : "名古屋大",
+    "affiliation" : "名古屋大",
     "first" : 0
   }, {
     "presenid" : "E4-5",
     "name" : "勝沼 聡",
-    "belongs" : "名大",
+    "affiliation" : "名大",
     "first" : 1
   }, {
     "presenid" : "E4-5",
     "name" : "渡辺 陽介",
-    "belongs" : "名大",
+    "affiliation" : "名大",
     "first" : 0
   }, {
     "presenid" : "E4-5",
     "name" : "本田 晋也",
-    "belongs" : "名大",
+    "affiliation" : "名大",
     "first" : 0
   }, {
     "presenid" : "E4-5",
     "name" : "高田 広章",
-    "belongs" : "名大",
+    "affiliation" : "名大",
     "first" : 0
   }, {
     "presenid" : "E4-6",
     "name" : "小柳 文乃",
-    "belongs" : "お茶大",
+    "affiliation" : "お茶大",
     "first" : 1
   }, {
     "presenid" : "E4-6",
     "name" : "早川 愛",
-    "belongs" : "お茶大",
+    "affiliation" : "お茶大",
     "first" : 0
   }, {
     "presenid" : "E4-6",
     "name" : "中村 優太",
-    "belongs" : "工学院大学",
+    "affiliation" : "工学院大学",
     "first" : 0
   }, {
     "presenid" : "E4-6",
     "name" : "半井 明大",
-    "belongs" : "KDDI研究所",
+    "affiliation" : "KDDI研究所",
     "first" : 0
   }, {
     "presenid" : "E4-6",
     "name" : "竹森 敬祐",
-    "belongs" : "KDDI研究所",
+    "affiliation" : "KDDI研究所",
     "first" : 0
   }, {
     "presenid" : "E4-6",
     "name" : "山口 実靖",
-    "belongs" : "工学院大学",
+    "affiliation" : "工学院大学",
     "first" : 0
   }, {
     "presenid" : "E4-6",
     "name" : "小口 正人",
-    "belongs" : "お茶大",
+    "affiliation" : "お茶大",
     "first" : 0
   }, {
     "presenid" : "A1-1",
     "name" : "小松田 卓也",
-    "belongs" : "東工大",
+    "affiliation" : "東工大",
     "first" : 1
   }, {
     "presenid" : "A1-1",
     "name" : "清水 伸幸",
-    "belongs" : "Yahoo! JAPAN研究所",
+    "affiliation" : "Yahoo! JAPAN研究所",
     "first" : 0
   }, {
     "presenid" : "A1-1",
     "name" : "田島 玲",
-    "belongs" : "Yahoo! JAPAN研究所",
+    "affiliation" : "Yahoo! JAPAN研究所",
     "first" : 0
   }, {
     "presenid" : "A1-1",
     "name" : "欅 惇志",
-    "belongs" : "東工大",
+    "affiliation" : "東工大",
     "first" : 0
   }, {
     "presenid" : "A1-1",
     "name" : "宮崎 純",
-    "belongs" : "東工大",
+    "affiliation" : "東工大",
     "first" : 0
   }, {
     "presenid" : "A1-2",
     "name" : "加藤 誠",
-    "belongs" : "京大",
+    "affiliation" : "京大",
     "first" : 1
   }, {
     "presenid" : "A1-2",
     "name" : "山本 光穂",
-    "belongs" : "デンソーアイティーラボラトリ",
+    "affiliation" : "デンソーアイティーラボラトリ",
     "first" : 0
   }, {
     "presenid" : "A1-2",
     "name" : "田中 克己",
-    "belongs" : "京大",
+    "affiliation" : "京大",
     "first" : 0
   }, {
     "presenid" : "A1-3",
     "name" : "金兵 裕太",
-    "belongs" : "電通大",
+    "affiliation" : "電通大",
     "first" : 1
   }, {
     "presenid" : "A1-3",
     "name" : "沼尾 雅之",
-    "belongs" : "電通大",
+    "affiliation" : "電通大",
     "first" : 0
   }, {
     "presenid" : "A1-4",
     "name" : "守谷 一朗",
-    "belongs" : "筑波大",
+    "affiliation" : "筑波大",
     "first" : 1
   }, {
     "presenid" : "A1-4",
     "name" : "井上 祐輔",
-    "belongs" : "筑波大学",
+    "affiliation" : "筑波大学",
     "first" : 0
   }, {
     "presenid" : "A1-4",
     "name" : "今田 貴和",
-    "belongs" : "筑波大",
+    "affiliation" : "筑波大",
     "first" : 0
   }, {
     "presenid" : "A1-4",
     "name" : "聶 添",
-    "belongs" : "筑波大",
+    "affiliation" : "筑波大",
     "first" : 0
   }, {
     "presenid" : "A1-4",
     "name" : "宇津呂 武仁",
-    "belongs" : "筑波大",
+    "affiliation" : "筑波大",
     "first" : 0
   }, {
     "presenid" : "A1-4",
     "name" : "河田 容英",
-    "belongs" : "ログワークス",
+    "affiliation" : "ログワークス",
     "first" : 0
   }, {
     "presenid" : "A1-4",
     "name" : "神門 典子",
-    "belongs" : "NII",
+    "affiliation" : "NII",
     "first" : 0
   }, {
     "presenid" : "A1-5",
     "name" : "古澤 智裕",
-    "belongs" : "筑波大",
+    "affiliation" : "筑波大",
     "first" : 1
   }, {
     "presenid" : "A1-5",
     "name" : "松林 麻実子",
-    "belongs" : "筑波大",
+    "affiliation" : "筑波大",
     "first" : 0
   }, {
     "presenid" : "A1-5",
     "name" : "佐藤 哲司",
-    "belongs" : "筑波大",
+    "affiliation" : "筑波大",
     "first" : 0
   }, {
     "presenid" : "A1-6",
     "name" : "齋藤 祐樹",
-    "belongs" : "ヤフー",
+    "affiliation" : "ヤフー",
     "first" : 1
   }, {
     "presenid" : "A1-6",
     "name" : "田頭 幸浩",
-    "belongs" : "ヤフー",
+    "affiliation" : "ヤフー",
     "first" : 0
   }, {
     "presenid" : "A1-6",
     "name" : "小野 真吾",
-    "belongs" : "ヤフー",
+    "affiliation" : "ヤフー",
     "first" : 0
   }, {
     "presenid" : "A1-6",
     "name" : "塚本 浩司",
-    "belongs" : "ヤフー",
+    "affiliation" : "ヤフー",
     "first" : 0
   }, {
     "presenid" : "E5-1",
     "name" : "菊島 健治",
-    "belongs" : "NTT",
+    "affiliation" : "NTT",
     "first" : 1
   }, {
     "presenid" : "E5-1",
     "name" : "山室 健",
-    "belongs" : "NTT",
+    "affiliation" : "NTT",
     "first" : 0
   }, {
     "presenid" : "E5-1",
     "name" : "本庄 利守",
-    "belongs" : "NTT",
+    "affiliation" : "NTT",
     "first" : 0
   }, {
     "presenid" : "E5-1",
     "name" : "岩村 相哲",
-    "belongs" : "NTT",
+    "affiliation" : "NTT",
     "first" : 0
   }, {
     "presenid" : "E5-2",
     "name" : "藤森 俊匡",
-    "belongs" : "阪大",
+    "affiliation" : "阪大",
     "first" : 1
   }, {
     "presenid" : "E5-2",
     "name" : "塩川 浩昭",
-    "belongs" : "NTT",
+    "affiliation" : "NTT",
     "first" : 0
   }, {
     "presenid" : "E5-2",
     "name" : "鬼塚 真",
-    "belongs" : "阪大",
+    "affiliation" : "阪大",
     "first" : 0
   }, {
     "presenid" : "E5-3",
     "name" : "新井 淳也",
-    "belongs" : "NTT",
+    "affiliation" : "NTT",
     "first" : 1
   }, {
     "presenid" : "E5-3",
     "name" : "塩川 浩昭",
-    "belongs" : "NTT",
+    "affiliation" : "NTT",
     "first" : 0
   }, {
     "presenid" : "E5-3",
     "name" : "山室 健",
-    "belongs" : "NTT",
+    "affiliation" : "NTT",
     "first" : 0
   }, {
     "presenid" : "E5-3",
     "name" : "鬼塚 真",
-    "belongs" : "阪大",
+    "affiliation" : "阪大",
     "first" : 0
   }, {
     "presenid" : "E5-4",
     "name" : "武井 良太",
-    "belongs" : "未来大",
+    "affiliation" : "未来大",
     "first" : 1
   }, {
     "presenid" : "E5-4",
     "name" : "新美 礼彦",
-    "belongs" : "未来大",
+    "affiliation" : "未来大",
     "first" : 0
   }, {
     "presenid" : "E5-5",
     "name" : "Vu Tuan Dat",
-    "belongs" : "東工大",
+    "affiliation" : "東工大",
     "first" : 1
   }, {
     "presenid" : "E5-5",
     "name" : "横田 治夫",
-    "belongs" : "東工大",
+    "affiliation" : "東工大",
     "first" : 0
   }, {
     "presenid" : "E5-6",
     "name" : "小山田 昌史",
-    "belongs" : "NEC",
+    "affiliation" : "NEC",
     "first" : 1
   }, {
     "presenid" : "E5-6",
     "name" : "陳 テイ",
-    "belongs" : "NEC",
+    "affiliation" : "NEC",
     "first" : 0
   }, {
     "presenid" : "E5-6",
     "name" : "成田 和世",
-    "belongs" : "NEC",
+    "affiliation" : "NEC",
     "first" : 0
   }, {
     "presenid" : "E5-6",
     "name" : "荒木 拓也",
-    "belongs" : "NEC",
+    "affiliation" : "NEC",
     "first" : 0
   }, {
     "presenid" : "A2-1",
     "name" : "森川 慎太郎",
-    "belongs" : "京大",
+    "affiliation" : "京大",
     "first" : 1
   }, {
     "presenid" : "A2-1",
     "name" : "大島 裕明",
-    "belongs" : "京大",
+    "affiliation" : "京大",
     "first" : 0
   }, {
     "presenid" : "A2-1",
     "name" : "田中 克己",
-    "belongs" : "京大",
+    "affiliation" : "京大",
     "first" : 0
   }, {
     "presenid" : "A2-2",
     "name" : "久保田 豊久",
-    "belongs" : "筑波大学",
+    "affiliation" : "筑波大学",
     "first" : 1
   }, {
     "presenid" : "A2-2",
     "name" : "若林 啓",
-    "belongs" : "筑波大学",
+    "affiliation" : "筑波大学",
     "first" : 0
   }, {
     "presenid" : "A2-3",
     "name" : "今井 智宏",
-    "belongs" : "大教大",
+    "affiliation" : "大教大",
     "first" : 1
   }, {
     "presenid" : "A2-3",
     "name" : "望月 久稔",
-    "belongs" : "大教大",
+    "affiliation" : "大教大",
     "first" : 0
   }, {
     "presenid" : "A2-4",
     "name" : "高杉 亮介",
-    "belongs" : "早稲田大学",
+    "affiliation" : "早稲田大学",
     "first" : 1
   }, {
     "presenid" : "A2-4",
     "name" : "山名 早人",
-    "belongs" : "早稲田大学　理工学術院／国立情報学研究所",
+    "affiliation" : "早稲田大学　理工学術院／国立情報学研究所",
     "first" : 0
   }, {
     "presenid" : "A2-5",
     "name" : "森山 諒",
-    "belongs" : "法大",
+    "affiliation" : "法大",
     "first" : 1
   }, {
     "presenid" : "A2-5",
     "name" : "三浦 孝夫",
-    "belongs" : "法大",
+    "affiliation" : "法大",
     "first" : 0
   }, {
     "presenid" : "A2-6",
     "name" : "小中 史人",
-    "belongs" : "法大",
+    "affiliation" : "法大",
     "first" : 1
   }, {
     "presenid" : "A2-6",
     "name" : "三浦 孝夫",
-    "belongs" : "法大",
+    "affiliation" : "法大",
     "first" : 0
   }, {
     "presenid" : "E6-1",
     "name" : "柿本 由気",
-    "belongs" : "佐大",
+    "affiliation" : "佐大",
     "first" : 1
   }, {
     "presenid" : "E6-1",
     "name" : "掛下 哲郎",
-    "belongs" : "佐大",
+    "affiliation" : "佐大",
     "first" : 0
   }, {
     "presenid" : "E6-2",
     "name" : "伏見 卓恭",
-    "belongs" : "静岡県立大学",
+    "affiliation" : "静岡県立大学",
     "first" : 1
   }, {
     "presenid" : "E6-2",
     "name" : "斉藤 和巳",
-    "belongs" : "静岡県立大学",
+    "affiliation" : "静岡県立大学",
     "first" : 0
   }, {
     "presenid" : "E6-2",
     "name" : "風間 一洋",
-    "belongs" : "和歌山大学",
+    "affiliation" : "和歌山大学",
     "first" : 0
   }, {
     "presenid" : "E6-2",
     "name" : "佐藤 哲司",
-    "belongs" : "筑波大学",
+    "affiliation" : "筑波大学",
     "first" : 0
   }, {
     "presenid" : "E6-3",
     "name" : "塩川 浩昭",
-    "belongs" : "NTT",
+    "affiliation" : "NTT",
     "first" : 1
   }, {
     "presenid" : "E6-3",
     "name" : "藤原 靖宏",
-    "belongs" : "NTT",
+    "affiliation" : "NTT",
     "first" : 0
   }, {
     "presenid" : "E6-3",
     "name" : "飯田 恭弘",
-    "belongs" : "NTT",
+    "affiliation" : "NTT",
     "first" : 0
   }, {
     "presenid" : "E6-3",
     "name" : "鬼塚 真",
-    "belongs" : "阪大",
+    "affiliation" : "阪大",
     "first" : 0
   }, {
     "presenid" : "E6-4",
     "name" : "矢野 洋祐",
-    "belongs" : "東大",
+    "affiliation" : "東大",
     "first" : 1
   }, {
     "presenid" : "E6-4",
     "name" : "照山 順一",
-    "belongs" : "NII",
+    "affiliation" : "NII",
     "first" : 0
   }, {
     "presenid" : "E6-4",
     "name" : "吉田 悠一",
-    "belongs" : "NII",
+    "affiliation" : "NII",
     "first" : 0
   }, {
     "presenid" : "E6-5",
     "name" : "前田 英行",
-    "belongs" : "ヤフー",
+    "affiliation" : "ヤフー",
     "first" : 1
   }, {
     "presenid" : "E6-5",
     "name" : "藤田 澄男",
-    "belongs" : "ヤフー",
+    "affiliation" : "ヤフー",
     "first" : 0
   }, {
     "presenid" : "E6-6",
     "name" : "岸田 吉弘",
-    "belongs" : "阪大",
+    "affiliation" : "阪大",
     "first" : 1
   }, {
     "presenid" : "E6-6",
     "name" : "塩川 浩昭",
-    "belongs" : "NTT",
+    "affiliation" : "NTT",
     "first" : 0
   }, {
     "presenid" : "E6-6",
     "name" : "鬼塚 真",
-    "belongs" : "阪大",
+    "affiliation" : "阪大",
     "first" : 0
   }, {
     "presenid" : "A3-1",
     "name" : "中村 達哉",
-    "belongs" : "阪大",
+    "affiliation" : "阪大",
     "first" : 1
   }, {
     "presenid" : "A3-1",
     "name" : "白川 真澄",
-    "belongs" : "阪大",
+    "affiliation" : "阪大",
     "first" : 0
   }, {
     "presenid" : "A3-1",
     "name" : "原 隆浩",
-    "belongs" : "阪大",
+    "affiliation" : "阪大",
     "first" : 0
   }, {
     "presenid" : "A3-1",
     "name" : "西尾 章治郎",
-    "belongs" : "阪大",
+    "affiliation" : "阪大",
     "first" : 0
   }, {
     "presenid" : "A3-2",
     "name" : "Bou Savong",
-    "belongs" : "University of Tsukuba",
+    "affiliation" : "University of Tsukuba",
     "first" : 1
   }, {
     "presenid" : "A3-2",
     "name" : "Amagasa Toshiyuki",
-    "belongs" : "University of Tsukuba",
+    "affiliation" : "University of Tsukuba",
     "first" : 0
   }, {
     "presenid" : "A3-2",
     "name" : "Kitagawa Hiroyuki",
-    "belongs" : "University of Tsukuba",
+    "affiliation" : "University of Tsukuba",
     "first" : 0
   }, {
     "presenid" : "A3-3",
     "name" : "趙 夢",
-    "belongs" : "京都大学",
+    "affiliation" : "京都大学",
     "first" : 1
   }, {
     "presenid" : "A3-3",
     "name" : "大島 裕明",
-    "belongs" : "京都大学",
+    "affiliation" : "京都大学",
     "first" : 0
   }, {
     "presenid" : "A3-3",
     "name" : "田中 克己",
-    "belongs" : "京都大学",
+    "affiliation" : "京都大学",
     "first" : 0
   }, {
     "presenid" : "A3-4",
     "name" : "Zhang Yating",
-    "belongs" : "京大",
+    "affiliation" : "京大",
     "first" : 1
   }, {
     "presenid" : "A3-4",
     "name" : "Jatowt Adam",
-    "belongs" : "京大",
+    "affiliation" : "京大",
     "first" : 0
   }, {
     "presenid" : "A3-4",
     "name" : "Tanaka Katsumi",
-    "belongs" : "京大",
+    "affiliation" : "京大",
     "first" : 0
   }, {
     "presenid" : "A3-5",
     "name" : "白川 真澄",
-    "belongs" : "阪大",
+    "affiliation" : "阪大",
     "first" : 1
   }, {
     "presenid" : "A3-5",
     "name" : "原 隆浩",
-    "belongs" : "阪大",
+    "affiliation" : "阪大",
     "first" : 0
   }, {
     "presenid" : "A3-5",
     "name" : "西尾 章治郎",
-    "belongs" : "阪大",
+    "affiliation" : "阪大",
     "first" : 0
   }, {
     "presenid" : "E7-1",
     "name" : "高田 実佳",
-    "belongs" : "（株）日立",
+    "affiliation" : "（株）日立",
     "first" : 1
   }, {
     "presenid" : "E7-1",
     "name" : "西川 記史",
-    "belongs" : "（株）日立",
+    "affiliation" : "（株）日立",
     "first" : 0
   }, {
     "presenid" : "E7-1",
     "name" : "清水 晃",
-    "belongs" : "（株）日立",
+    "affiliation" : "（株）日立",
     "first" : 0
   }, {
     "presenid" : "E7-1",
     "name" : "茂木 和彦",
-    "belongs" : "（株）日立",
+    "affiliation" : "（株）日立",
     "first" : 0
   }, {
     "presenid" : "E7-1",
     "name" : "藤原 真二",
-    "belongs" : "（株）日立",
+    "affiliation" : "（株）日立",
     "first" : 0
   }, {
     "presenid" : "E7-1",
     "name" : "河原 大一郎",
-    "belongs" : "（株）日立",
+    "affiliation" : "（株）日立",
     "first" : 0
   }, {
     "presenid" : "E7-2",
     "name" : "西川 記史",
-    "belongs" : "（株）日立",
+    "affiliation" : "（株）日立",
     "first" : 1
   }, {
     "presenid" : "E7-2",
     "name" : "髙田 実佳",
-    "belongs" : "（株）日立",
+    "affiliation" : "（株）日立",
     "first" : 0
   }, {
     "presenid" : "E7-2",
     "name" : "藤原 真二",
-    "belongs" : "（株）日立",
+    "affiliation" : "（株）日立",
     "first" : 0
   }, {
     "presenid" : "E7-2",
     "name" : "河原 大一郎",
-    "belongs" : "（株）日立",
+    "affiliation" : "（株）日立",
     "first" : 0
   }, {
     "presenid" : "E7-2",
     "name" : "清水 晃",
-    "belongs" : "（株）日立",
+    "affiliation" : "（株）日立",
     "first" : 0
   }, {
     "presenid" : "E7-2",
     "name" : "茂木 和彦",
-    "belongs" : "（株）日立",
+    "affiliation" : "（株）日立",
     "first" : 0
   }, {
     "presenid" : "E7-3",
     "name" : "Liu Kun",
-    "belongs" : "東京大学",
+    "affiliation" : "東京大学",
     "first" : 1
   }, {
     "presenid" : "E7-3",
     "name" : "横山 大作",
-    "belongs" : "東京大学",
+    "affiliation" : "東京大学",
     "first" : 0
   }, {
     "presenid" : "E7-3",
     "name" : "豊田 正史",
-    "belongs" : "東京大学",
+    "affiliation" : "東京大学",
     "first" : 0
   }, {
     "presenid" : "E7-3",
     "name" : "喜連川 優",
-    "belongs" : "国立情報学研究所",
+    "affiliation" : "国立情報学研究所",
     "first" : 0
   }, {
     "presenid" : "E7-4",
     "name" : "今井 良一",
-    "belongs" : "東工大",
+    "affiliation" : "東工大",
     "first" : 1
   }, {
     "presenid" : "E7-4",
     "name" : "欅 惇志",
-    "belongs" : "東工大",
+    "affiliation" : "東工大",
     "first" : 0
   }, {
     "presenid" : "E7-4",
     "name" : "宮崎 純",
-    "belongs" : "東工大",
+    "affiliation" : "東工大",
     "first" : 0
   }, {
     "presenid" : "E7-4",
     "name" : "中村 匡秀",
-    "belongs" : "神戸大",
+    "affiliation" : "神戸大",
     "first" : 0
   }, {
     "presenid" : "E7-5",
     "name" : "齋藤 和広",
-    "belongs" : "KDDI研",
+    "affiliation" : "KDDI研",
     "first" : 1
   }, {
     "presenid" : "E7-5",
     "name" : "川島 英之",
-    "belongs" : "筑波大",
+    "affiliation" : "筑波大",
     "first" : 0
   }, {
     "presenid" : "E7-5",
     "name" : "米田 信之",
-    "belongs" : "KDDI研",
+    "affiliation" : "KDDI研",
     "first" : 0
   }, {
     "presenid" : "E7-5",
     "name" : "村松 茂樹",
-    "belongs" : "KDDI研",
+    "affiliation" : "KDDI研",
     "first" : 0
   }, {
     "presenid" : "E7-5",
     "name" : "渡辺 泰之",
-    "belongs" : "KDDI研",
+    "affiliation" : "KDDI研",
     "first" : 0
   }, {
     "presenid" : "E7-5",
     "name" : "小林 亜令",
-    "belongs" : "KDDI研",
+    "affiliation" : "KDDI研",
     "first" : 0
   }, {
     "presenid" : "E7-6",
     "name" : "今野 篤人",
-    "belongs" : "電通大",
+    "affiliation" : "電通大",
     "first" : 1
   }, {
     "presenid" : "E7-6",
     "name" : "大森 匡",
-    "belongs" : "電通大",
+    "affiliation" : "電通大",
     "first" : 0
   }, {
     "presenid" : "E7-6",
     "name" : "新谷 隆彦",
-    "belongs" : "電通大",
+    "affiliation" : "電通大",
     "first" : 0
   }, {
     "presenid" : "A4-1",
     "name" : "大澤 昇平",
-    "belongs" : "東大",
+    "affiliation" : "東大",
     "first" : 1
   }, {
     "presenid" : "A4-1",
     "name" : "松尾 豊",
-    "belongs" : "東大",
+    "affiliation" : "東大",
     "first" : 0
   }, {
     "presenid" : "A4-2",
     "name" : "顔 洪",
-    "belongs" : "九大",
+    "affiliation" : "九大",
     "first" : 1
   }, {
     "presenid" : "A4-2",
     "name" : "牛尼 剛聡",
-    "belongs" : "九大",
+    "affiliation" : "九大",
     "first" : 0
   }, {
     "presenid" : "A4-3",
     "name" : "曹 洋",
-    "belongs" : "京大",
+    "affiliation" : "京大",
     "first" : 1
   }, {
     "presenid" : "A4-3",
     "name" : "吉川 正俊",
-    "belongs" : "京大",
+    "affiliation" : "京大",
     "first" : 0
   }, {
     "presenid" : "A4-4",
     "name" : "横山 友也",
-    "belongs" : "京都工芸繊維大学",
+    "affiliation" : "京都工芸繊維大学",
     "first" : 1
   }, {
     "presenid" : "A4-4",
     "name" : "宝珍 輝尚",
-    "belongs" : "京都工芸繊維大学",
+    "affiliation" : "京都工芸繊維大学",
     "first" : 0
   }, {
     "presenid" : "A4-4",
     "name" : "野宮 浩揮",
-    "belongs" : "京都工芸繊維大学",
+    "affiliation" : "京都工芸繊維大学",
     "first" : 0
   }, {
     "presenid" : "E8-1",
     "name" : "赤澤 琢朗",
-    "belongs" : "岡大",
+    "affiliation" : "岡大",
     "first" : 1
   }, {
     "presenid" : "E8-1",
     "name" : "太田 学",
-    "belongs" : "岡大",
+    "affiliation" : "岡大",
     "first" : 0
   }, {
     "presenid" : "E8-1",
     "name" : "高須 淳宏",
-    "belongs" : "NII",
+    "affiliation" : "NII",
     "first" : 0
   }, {
     "presenid" : "E8-1",
     "name" : "安達 淳",
-    "belongs" : "NII",
+    "affiliation" : "NII",
     "first" : 0
   }, {
     "presenid" : "E8-2",
     "name" : "建島 広翔",
-    "belongs" : "電通大",
+    "affiliation" : "電通大",
     "first" : 1
   }, {
     "presenid" : "E8-2",
     "name" : "新谷 隆彦",
-    "belongs" : "電通大",
+    "affiliation" : "電通大",
     "first" : 0
   }, {
     "presenid" : "E8-2",
     "name" : "大森 匡",
-    "belongs" : "電通大",
+    "affiliation" : "電通大",
     "first" : 0
   }, {
     "presenid" : "E8-2",
     "name" : "藤田 秀之",
-    "belongs" : "電通大",
+    "affiliation" : "電通大",
     "first" : 0
   }, {
     "presenid" : "E8-3",
     "name" : "姜 仁河",
-    "belongs" : "名大",
+    "affiliation" : "名大",
     "first" : 1
   }, {
     "presenid" : "E8-3",
     "name" : "趙 菁",
-    "belongs" : "名大",
+    "affiliation" : "名大",
     "first" : 0
   }, {
     "presenid" : "E8-3",
     "name" : "董 テイテイ",
-    "belongs" : "名大",
+    "affiliation" : "名大",
     "first" : 0
   }, {
     "presenid" : "E8-3",
     "name" : "佐々木 勇和",
-    "belongs" : "名大",
+    "affiliation" : "名大",
     "first" : 0
   }, {
     "presenid" : "E8-3",
     "name" : "石川 佳治",
-    "belongs" : "名大",
+    "affiliation" : "名大",
     "first" : 0
   }, {
     "presenid" : "E8-4",
     "name" : "宇都宮 圭",
-    "belongs" : "京大",
+    "affiliation" : "京大",
     "first" : 1
   }, {
     "presenid" : "E8-4",
     "name" : "大島 裕明",
-    "belongs" : "京大",
+    "affiliation" : "京大",
     "first" : 0
   }, {
     "presenid" : "E8-4",
     "name" : "田中 克己",
-    "belongs" : "京大",
+    "affiliation" : "京大",
     "first" : 0
   }, {
     "presenid" : "E8-5",
     "name" : "中野 翔平",
-    "belongs" : "技科大",
+    "affiliation" : "技科大",
     "first" : 1
   }, {
     "presenid" : "E8-5",
     "name" : "吉田 光男",
-    "belongs" : "技科大",
+    "affiliation" : "技科大",
     "first" : 0
   }, {
     "presenid" : "E8-5",
     "name" : "岡部 正幸",
-    "belongs" : "技科大",
+    "affiliation" : "技科大",
     "first" : 0
   }, {
     "presenid" : "E8-5",
     "name" : "梅村 恭司",
-    "belongs" : "技科大",
+    "affiliation" : "技科大",
     "first" : 0
   }, {
     "presenid" : "E8-6",
     "name" : "篠原 拓也",
-    "belongs" : "工学院大学",
+    "affiliation" : "工学院大学",
     "first" : 1
   }, {
     "presenid" : "E8-6",
     "name" : "北山 大輔",
-    "belongs" : "工学院大学",
+    "affiliation" : "工学院大学",
     "first" : 0
   }, {
     "presenid" : "A5-1",
     "name" : "山本 修平",
-    "belongs" : "筑波大",
+    "affiliation" : "筑波大",
     "first" : 1
   }, {
     "presenid" : "A5-1",
     "name" : "佐藤 哲司",
-    "belongs" : "筑波大",
+    "affiliation" : "筑波大",
     "first" : 0
   }, {
     "presenid" : "A5-2",
     "name" : "桂井 麻里衣",
-    "belongs" : "NII/学振",
+    "affiliation" : "NII/学振",
     "first" : 1
   }, {
     "presenid" : "A5-2",
     "name" : "大向 一輝",
-    "belongs" : "NII",
+    "affiliation" : "NII",
     "first" : 0
   }, {
     "presenid" : "A5-2",
     "name" : "武田 英明",
-    "belongs" : "NII",
+    "affiliation" : "NII",
     "first" : 0
   }, {
     "presenid" : "A5-3",
     "name" : "Liu Bei",
-    "belongs" : "Kyoto U.",
+    "affiliation" : "Kyoto U.",
     "first" : 1
   }, {
     "presenid" : "A5-3",
     "name" : "Kato Makoto",
-    "belongs" : "Kyoto U.",
+    "affiliation" : "Kyoto U.",
     "first" : 0
   }, {
     "presenid" : "A5-3",
     "name" : "Tanaka Katsumi",
-    "belongs" : "Kyoto U.",
+    "affiliation" : "Kyoto U.",
     "first" : 0
   }, {
     "presenid" : "A5-4",
     "name" : "白井 匡人",
-    "belongs" : "法大",
+    "affiliation" : "法大",
     "first" : 1
   }, {
     "presenid" : "A5-4",
     "name" : "三浦 孝夫",
-    "belongs" : "法大",
+    "affiliation" : "法大",
     "first" : 0
   }, {
     "presenid" : "A6-1",
     "name" : "山岸 祐己",
-    "belongs" : "静岡県立大学",
+    "affiliation" : "静岡県立大学",
     "first" : 1
   }, {
     "presenid" : "A6-1",
     "name" : "斉藤 和巳",
-    "belongs" : "静岡県立大学",
+    "affiliation" : "静岡県立大学",
     "first" : 0
   }, {
     "presenid" : "A6-1",
     "name" : "武藤 伸明",
-    "belongs" : "静岡県立大学",
+    "affiliation" : "静岡県立大学",
     "first" : 0
   }, {
     "presenid" : "A6-2",
     "name" : "秋葉 拓哉",
-    "belongs" : "東大",
+    "affiliation" : "東大",
     "first" : 1
   }, {
     "presenid" : "A6-2",
     "name" : "林 孝紀",
-    "belongs" : "東大",
+    "affiliation" : "東大",
     "first" : 0
   }, {
     "presenid" : "A6-2",
     "name" : "則 のぞみ",
-    "belongs" : "京大",
+    "affiliation" : "京大",
     "first" : 0
   }, {
     "presenid" : "A6-2",
     "name" : "岩田 陽一",
-    "belongs" : "東大",
+    "affiliation" : "東大",
     "first" : 0
   }, {
     "presenid" : "A6-2",
     "name" : "吉田 悠一",
-    "belongs" : "NII",
+    "affiliation" : "NII",
     "first" : 0
   }, {
     "presenid" : "A6-3",
     "name" : "董 テイテイ",
-    "belongs" : "名大",
+    "affiliation" : "名大",
     "first" : 1
   }, {
     "presenid" : "A6-3",
     "name" : "石川 佳治",
-    "belongs" : "名大",
+    "affiliation" : "名大",
     "first" : 0
   }, {
     "presenid" : "A6-3",
     "name" : "肖 川",
-    "belongs" : "名大",
+    "affiliation" : "名大",
     "first" : 0
   }, {
     "presenid" : "A6-4",
     "name" : "佐々木 勇和",
-    "belongs" : "名大",
+    "affiliation" : "名大",
     "first" : 1
   }, {
     "presenid" : "A6-4",
     "name" : "石川 佳治",
-    "belongs" : "名大",
+    "affiliation" : "名大",
     "first" : 0
   }, {
     "presenid" : "A6-5",
     "name" : "若宮 翔子",
-    "belongs" : "京都産業大学",
+    "affiliation" : "京都産業大学",
     "first" : 1
   }, {
     "presenid" : "A6-5",
     "name" : "米倉 梨菜",
-    "belongs" : "鹿児島大学",
+    "affiliation" : "鹿児島大学",
     "first" : 0
   }, {
     "presenid" : "A6-5",
     "name" : "河合 由起子",
-    "belongs" : "京都産業大学",
+    "affiliation" : "京都産業大学",
     "first" : 0
   }, {
     "presenid" : "A6-5",
     "name" : "川崎 洋",
-    "belongs" : "鹿児島大学",
+    "affiliation" : "鹿児島大学",
     "first" : 0
   }, {
     "presenid" : "A6-5",
     "name" : "角谷 和俊",
-    "belongs" : "兵庫県立大学",
+    "affiliation" : "兵庫県立大学",
     "first" : 0
   }, {
     "presenid" : "A8-1",
     "name" : "小池 達也",
-    "belongs" : "明治大学",
+    "affiliation" : "明治大学",
     "first" : 1
   }, {
     "presenid" : "A8-1",
     "name" : "高木 友博",
-    "belongs" : "明治大学",
+    "affiliation" : "明治大学",
     "first" : 0
   }, {
     "presenid" : "A8-2",
     "name" : "Wang Zichun",
-    "belongs" : "早稲田大学大学院情報生産システム研究科",
+    "affiliation" : "早稲田大学大学院情報生産システム研究科",
     "first" : 1
   }, {
     "presenid" : "A8-2",
     "name" : "Iwaihara Mizuho",
-    "belongs" : "早稲田大学大学院情報生産システム研究科",
+    "affiliation" : "早稲田大学大学院情報生産システム研究科",
     "first" : 0
   }, {
     "presenid" : "A8-3",
     "name" : "安井 豪基",
-    "belongs" : "京都産業大学",
+    "affiliation" : "京都産業大学",
     "first" : 1
   }, {
     "presenid" : "A8-3",
     "name" : "王 元元",
-    "belongs" : "京都産業大学",
+    "affiliation" : "京都産業大学",
     "first" : 0
   }, {
     "presenid" : "A8-3",
     "name" : "細川 侑士",
-    "belongs" : "京都産業大学",
+    "affiliation" : "京都産業大学",
     "first" : 0
   }, {
     "presenid" : "A8-3",
     "name" : "河合 由起子",
-    "belongs" : "京都産業大学",
+    "affiliation" : "京都産業大学",
     "first" : 0
   }, {
     "presenid" : "A8-3",
     "name" : "秋山 豊和",
-    "belongs" : "京都産業大学",
+    "affiliation" : "京都産業大学",
     "first" : 0
   }, {
     "presenid" : "A8-3",
     "name" : "角谷 和俊",
-    "belongs" : "兵庫県立大学",
+    "affiliation" : "兵庫県立大学",
     "first" : 0
   }, {
     "presenid" : "A8-4",
     "name" : "大西 誠",
-    "belongs" : "筑波大学",
+    "affiliation" : "筑波大学",
     "first" : 1
   }, {
     "presenid" : "A8-4",
     "name" : "北川 博之",
-    "belongs" : "筑波大学",
+    "affiliation" : "筑波大学",
     "first" : 0
   }, {
     "presenid" : "A8-5",
     "name" : "山本 岳洋",
-    "belongs" : "京大",
+    "affiliation" : "京大",
     "first" : 1
   }, {
     "presenid" : "A8-5",
     "name" : "山本 光穂",
-    "belongs" : "デンソーIT",
+    "affiliation" : "デンソーIT",
     "first" : 0
   }, {
     "presenid" : "A8-5",
     "name" : "田中 克己",
-    "belongs" : "京大",
+    "affiliation" : "京大",
     "first" : 0
   }, {
     "presenid" : "A8-6",
     "name" : "大原 啓詳",
-    "belongs" : "甲南大学",
+    "affiliation" : "甲南大学",
     "first" : 1
   }, {
     "presenid" : "A8-6",
     "name" : "鈴木 優",
-    "belongs" : "奈良先端科学技術大学院大学",
+    "affiliation" : "奈良先端科学技術大学院大学",
     "first" : 0
   }, {
     "presenid" : "A8-6",
     "name" : "灘本 明代",
-    "belongs" : "甲南大学",
+    "affiliation" : "甲南大学",
     "first" : 0
   }, {
     "presenid" : "F1-1",
     "name" : "岡本 香帆里",
-    "belongs" : "関大",
+    "affiliation" : "関大",
     "first" : 1
   }, {
     "presenid" : "F1-1",
     "name" : "山西 良典",
-    "belongs" : "立命館大",
+    "affiliation" : "立命館大",
     "first" : 0
   }, {
     "presenid" : "F1-1",
     "name" : "松下 光範",
-    "belongs" : "関大",
+    "affiliation" : "関大",
     "first" : 0
   }, {
     "presenid" : "F1-2",
     "name" : "篠原 透",
-    "belongs" : "電通大",
+    "affiliation" : "電通大",
     "first" : 1
   }, {
     "presenid" : "F1-2",
     "name" : "沼尾 雅之",
-    "belongs" : "電通大",
+    "affiliation" : "電通大",
     "first" : 0
   }, {
     "presenid" : "F1-3",
     "name" : "上原 美咲",
-    "belongs" : "お茶大",
+    "affiliation" : "お茶大",
     "first" : 1
   }, {
     "presenid" : "F1-3",
     "name" : "伊藤 貴之",
-    "belongs" : "お茶大",
+    "affiliation" : "お茶大",
     "first" : 0
   }, {
     "presenid" : "F1-4",
     "name" : "喜田 拓也",
-    "belongs" : "北大",
+    "affiliation" : "北大",
     "first" : 1
   }, {
     "presenid" : "F1-4",
     "name" : "笹川 裕人",
-    "belongs" : "北大",
+    "affiliation" : "北大",
     "first" : 0
   }, {
     "presenid" : "F1-5",
     "name" : "谷 大樹",
-    "belongs" : "京大",
+    "affiliation" : "京大",
     "first" : 1
   }, {
     "presenid" : "F1-5",
     "name" : "加藤 誠",
-    "belongs" : "京大",
+    "affiliation" : "京大",
     "first" : 0
   }, {
     "presenid" : "F1-5",
     "name" : "田中 克己",
-    "belongs" : "京大",
+    "affiliation" : "京大",
     "first" : 0
   }, {
     "presenid" : "F1-6",
     "name" : "末吉 優",
-    "belongs" : "筑波大",
+    "affiliation" : "筑波大",
     "first" : 1
   }, {
     "presenid" : "F1-6",
     "name" : "関 洋平",
-    "belongs" : "筑波大",
+    "affiliation" : "筑波大",
     "first" : 0
   }, {
     "presenid" : "F2-1",
     "name" : "眞野 修一",
-    "belongs" : "北大",
+    "affiliation" : "北大",
     "first" : 1
   }, {
     "presenid" : "F2-1",
     "name" : "喜田 拓也",
-    "belongs" : "北大",
+    "affiliation" : "北大",
     "first" : 0
   }, {
     "presenid" : "F2-2",
     "name" : "王 元元",
-    "belongs" : "京都産業大学",
+    "affiliation" : "京都産業大学",
     "first" : 1
   }, {
     "presenid" : "F2-2",
     "name" : "渡部 雅俊",
-    "belongs" : "京都産業大学",
+    "affiliation" : "京都産業大学",
     "first" : 0
   }, {
     "presenid" : "F2-2",
     "name" : "河合 由起子",
-    "belongs" : "京都産業大学",
+    "affiliation" : "京都産業大学",
     "first" : 0
   }, {
     "presenid" : "F2-2",
     "name" : "角谷 和俊",
-    "belongs" : "兵庫県立大学",
+    "affiliation" : "兵庫県立大学",
     "first" : 0
   }, {
     "presenid" : "F2-3",
     "name" : "清水 柚里奈",
-    "belongs" : "お茶大",
+    "affiliation" : "お茶大",
     "first" : 1
   }, {
     "presenid" : "F2-3",
     "name" : "菅野 沙也",
-    "belongs" : "お茶大",
+    "affiliation" : "お茶大",
     "first" : 0
   }, {
     "presenid" : "F2-3",
     "name" : "伊藤 貴之",
-    "belongs" : "お茶大",
+    "affiliation" : "お茶大",
     "first" : 0
   }, {
     "presenid" : "F2-3",
     "name" : "嵯峨山 茂樹",
-    "belongs" : "明大",
+    "affiliation" : "明大",
     "first" : 0
   }, {
     "presenid" : "F2-4",
     "name" : "佐藤 拓実",
-    "belongs" : "首都大",
+    "affiliation" : "首都大",
     "first" : 1
   }, {
     "presenid" : "F2-4",
     "name" : "片山 薫",
-    "belongs" : "首都大",
+    "affiliation" : "首都大",
     "first" : 0
   }, {
     "presenid" : "F2-5",
     "name" : "黒崎 裕子",
-    "belongs" : "お茶大",
+    "affiliation" : "お茶大",
     "first" : 1
   }, {
     "presenid" : "F2-5",
     "name" : "竹房 あつ子",
-    "belongs" : "AIST",
+    "affiliation" : "AIST",
     "first" : 0
   }, {
     "presenid" : "F2-5",
     "name" : "中田 秀基",
-    "belongs" : "AIST",
+    "affiliation" : "AIST",
     "first" : 0
   }, {
     "presenid" : "F2-5",
     "name" : "小口 正人",
-    "belongs" : "お茶大",
+    "affiliation" : "お茶大",
     "first" : 0
   }, {
     "presenid" : "F2-6",
     "name" : "北森 新",
-    "belongs" : "京産大",
+    "affiliation" : "京産大",
     "first" : 1
   }, {
     "presenid" : "F2-6",
     "name" : "宮森 恒",
-    "belongs" : "京産大",
+    "affiliation" : "京産大",
     "first" : 0
   }, {
     "presenid" : "F3-1",
     "name" : "平井 久貴",
-    "belongs" : "岡大",
+    "affiliation" : "岡大",
     "first" : 1
   }, {
     "presenid" : "F3-1",
     "name" : "新妻 弘祟",
-    "belongs" : "岡大",
+    "affiliation" : "岡大",
     "first" : 0
   }, {
     "presenid" : "F3-1",
     "name" : "太田 学",
-    "belongs" : "岡大",
+    "affiliation" : "岡大",
     "first" : 0
   }, {
     "presenid" : "F3-1",
     "name" : "高須 淳宏",
-    "belongs" : "NII",
+    "affiliation" : "NII",
     "first" : 0
   }, {
     "presenid" : "F3-2",
     "name" : "萩生田 明徳",
-    "belongs" : "横浜国立大学",
+    "affiliation" : "横浜国立大学",
     "first" : 1
   }, {
     "presenid" : "F3-2",
     "name" : "木島 彩梨沙",
-    "belongs" : "横浜国立大学",
+    "affiliation" : "横浜国立大学",
     "first" : 0
   }, {
     "presenid" : "F3-2",
     "name" : "藤村 雄基",
-    "belongs" : "横浜国立大学",
+    "affiliation" : "横浜国立大学",
     "first" : 0
   }, {
     "presenid" : "F3-2",
     "name" : "富井 尚志",
-    "belongs" : "横浜国立大学",
+    "affiliation" : "横浜国立大学",
     "first" : 0
   }, {
     "presenid" : "F3-3",
     "name" : "中橋 光",
-    "belongs" : "広市大",
+    "affiliation" : "広市大",
     "first" : 1
   }, {
     "presenid" : "F3-3",
     "name" : "難波 英嗣",
-    "belongs" : "広市大",
+    "affiliation" : "広市大",
     "first" : 0
   }, {
     "presenid" : "F3-3",
     "name" : "竹澤 寿幸",
-    "belongs" : "広市大",
+    "affiliation" : "広市大",
     "first" : 0
   }, {
     "presenid" : "F3-4",
     "name" : "福田 悟志",
-    "belongs" : "広島市立大",
+    "affiliation" : "広島市立大",
     "first" : 1
   }, {
     "presenid" : "F3-4",
     "name" : "難波 英嗣",
-    "belongs" : "広島市立大",
+    "affiliation" : "広島市立大",
     "first" : 0
   }, {
     "presenid" : "F3-4",
     "name" : "竹澤 寿幸",
-    "belongs" : "広島市立大",
+    "affiliation" : "広島市立大",
     "first" : 0
   }, {
     "presenid" : "F3-5",
     "name" : "石井 仁子",
-    "belongs" : "岡大",
+    "affiliation" : "岡大",
     "first" : 1
   }, {
     "presenid" : "F3-5",
     "name" : "太田 学",
-    "belongs" : "岡大",
+    "affiliation" : "岡大",
     "first" : 0
   }, {
     "presenid" : "F3-5",
     "name" : "高須 淳宏",
-    "belongs" : "nii",
+    "affiliation" : "nii",
     "first" : 0
   }, {
     "presenid" : "F3-6",
     "name" : "伊藤 寛祥",
-    "belongs" : "筑波大学",
+    "affiliation" : "筑波大学",
     "first" : 1
   }, {
     "presenid" : "F3-6",
     "name" : "天笠 俊之",
-    "belongs" : "筑波大学",
+    "affiliation" : "筑波大学",
     "first" : 0
   }, {
     "presenid" : "F3-6",
     "name" : "北川 博之",
-    "belongs" : "筑波大学",
+    "affiliation" : "筑波大学",
     "first" : 0
   }, {
     "presenid" : "F4-1",
     "name" : "白石 優旗",
-    "belongs" : "筑波技大",
+    "affiliation" : "筑波技大",
     "first" : 1
   }, {
     "presenid" : "F4-1",
     "name" : "田村 誠志",
-    "belongs" : "筑波技大",
+    "affiliation" : "筑波技大",
     "first" : 0
   }, {
     "presenid" : "F4-2",
     "name" : "松枝 知香",
-    "belongs" : "お茶大",
+    "affiliation" : "お茶大",
     "first" : 1
   }, {
     "presenid" : "F4-2",
     "name" : "伊藤 貴之",
-    "belongs" : "お茶大",
+    "affiliation" : "お茶大",
     "first" : 0
   }, {
     "presenid" : "F4-3",
     "name" : "戸山 恵佑",
-    "belongs" : "九大",
+    "affiliation" : "九大",
     "first" : 1
   }, {
     "presenid" : "F4-3",
     "name" : "牛尼 剛聡",
-    "belongs" : "九大",
+    "affiliation" : "九大",
     "first" : 0
   }, {
     "presenid" : "F4-4",
     "name" : "真下 遼",
-    "belongs" : "甲南大",
+    "affiliation" : "甲南大",
     "first" : 1
   }, {
     "presenid" : "F4-4",
     "name" : "梅谷 智弘",
-    "belongs" : "甲南大",
+    "affiliation" : "甲南大",
     "first" : 0
   }, {
     "presenid" : "F4-4",
     "name" : "北村 達也",
-    "belongs" : "甲南大",
+    "affiliation" : "甲南大",
     "first" : 0
   }, {
     "presenid" : "F4-4",
     "name" : "灘本 明代",
-    "belongs" : "甲南大",
+    "affiliation" : "甲南大",
     "first" : 0
   }, {
     "presenid" : "F4-5",
     "name" : "岩永 章吾",
-    "belongs" : "九大",
+    "affiliation" : "九大",
     "first" : 1
   }, {
     "presenid" : "F4-5",
     "name" : "牛尼 剛聡",
-    "belongs" : "九州大学",
+    "affiliation" : "九州大学",
     "first" : 0
   }, {
     "presenid" : "F4-5",
     "name" : "角谷 和俊",
-    "belongs" : "兵庫県立大学",
+    "affiliation" : "兵庫県立大学",
     "first" : 0
   }, {
     "presenid" : "F4-6",
     "name" : "山田 匠",
-    "belongs" : "静大",
+    "affiliation" : "静大",
     "first" : 1
   }, {
     "presenid" : "F4-6",
     "name" : "廣田 雅春",
-    "belongs" : "首都大",
+    "affiliation" : "首都大",
     "first" : 0
   }, {
     "presenid" : "F4-6",
     "name" : "石川 博",
-    "belongs" : "首都大",
+    "affiliation" : "首都大",
     "first" : 0
   }, {
     "presenid" : "F4-6",
     "name" : "横山 昌平",
-    "belongs" : "静大",
+    "affiliation" : "静大",
     "first" : 0
   }, {
     "presenid" : "B1-1",
     "name" : "金 応教",
-    "belongs" : "京大",
+    "affiliation" : "京大",
     "first" : 1
   }, {
     "presenid" : "B1-1",
     "name" : "山本 岳洋",
-    "belongs" : "京大",
+    "affiliation" : "京大",
     "first" : 0
   }, {
     "presenid" : "B1-1",
     "name" : "田中 克己",
-    "belongs" : "京大",
+    "affiliation" : "京大",
     "first" : 0
   }, {
     "presenid" : "B1-2",
     "name" : "権守 健嗣",
-    "belongs" : "筑波大学大学院",
+    "affiliation" : "筑波大学大学院",
     "first" : 0
   }, {
     "presenid" : "B1-2",
     "name" : "森嶋 厚行",
-    "belongs" : "筑波大学",
+    "affiliation" : "筑波大学",
     "first" : 1
   }, {
     "presenid" : "B1-2",
     "name" : "歳森 敦",
-    "belongs" : "筑波大学",
+    "affiliation" : "筑波大学",
     "first" : 0
   }, {
     "presenid" : "B1-2",
     "name" : "北川 博之",
-    "belongs" : "筑波大学",
+    "affiliation" : "筑波大学",
     "first" : 0
   }, {
     "presenid" : "B1-3",
     "name" : "福角 駿",
-    "belongs" : "筑波大学",
+    "affiliation" : "筑波大学",
     "first" : 1
   }, {
     "presenid" : "B1-3",
     "name" : "森嶋 厚行",
-    "belongs" : "筑波大学",
+    "affiliation" : "筑波大学",
     "first" : 0
   }, {
     "presenid" : "B1-3",
     "name" : "北川 博之",
-    "belongs" : "筑波大学",
+    "affiliation" : "筑波大学",
     "first" : 0
   }, {
     "presenid" : "B1-4",
     "name" : "榎 美紀",
-    "belongs" : "日本IBM，お茶大",
+    "affiliation" : "日本IBM，お茶大",
     "first" : 1
   }, {
     "presenid" : "B1-4",
     "name" : "吉田 一星",
-    "belongs" : "日本IBM",
+    "affiliation" : "日本IBM",
     "first" : 0
   }, {
     "presenid" : "B1-4",
     "name" : "小口 正人",
-    "belongs" : "お茶大",
+    "affiliation" : "お茶大",
     "first" : 0
   }, {
     "presenid" : "B1-5",
     "name" : "小紫 弘貴",
-    "belongs" : "京大",
+    "affiliation" : "京大",
     "first" : 1
   }, {
     "presenid" : "B1-5",
     "name" : "田島 敬史",
-    "belongs" : "京大",
+    "affiliation" : "京大",
     "first" : 0
   }, {
     "presenid" : "B1-6",
     "name" : "川本 貴史",
-    "belongs" : "東大",
+    "affiliation" : "東大",
     "first" : 1
   }, {
     "presenid" : "B1-6",
     "name" : "豊田 正史",
-    "belongs" : "東大",
+    "affiliation" : "東大",
     "first" : 0
   }, {
     "presenid" : "F5-1",
     "name" : "輪島 幸治",
-    "belongs" : "AIIT",
+    "affiliation" : "AIIT",
     "first" : 1
   }, {
     "presenid" : "F5-1",
     "name" : "古川 利博",
-    "belongs" : "TUS",
+    "affiliation" : "TUS",
     "first" : 0
   }, {
     "presenid" : "F5-1",
     "name" : "嶋田 茂",
-    "belongs" : "AIIT",
+    "affiliation" : "AIIT",
     "first" : 0
   }, {
     "presenid" : "F5-2",
     "name" : "山本 湧輝",
-    "belongs" : "甲南大学",
+    "affiliation" : "甲南大学",
     "first" : 1
   }, {
     "presenid" : "F5-2",
     "name" : "熊本 忠彦",
-    "belongs" : "千葉工業大学",
+    "affiliation" : "千葉工業大学",
     "first" : 0
   }, {
     "presenid" : "F5-2",
     "name" : "灘本 明代",
-    "belongs" : "甲南大学",
+    "affiliation" : "甲南大学",
     "first" : 0
   }, {
     "presenid" : "F5-3",
     "name" : "上岡 由征",
-    "belongs" : "京産大",
+    "affiliation" : "京産大",
     "first" : 1
   }, {
     "presenid" : "F5-3",
     "name" : "若宮 翔子",
-    "belongs" : "京産大",
+    "affiliation" : "京産大",
     "first" : 0
   }, {
     "presenid" : "F5-3",
     "name" : "張 建偉",
-    "belongs" : "筑波技大",
+    "affiliation" : "筑波技大",
     "first" : 0
   }, {
     "presenid" : "F5-3",
     "name" : "白石 優旗",
-    "belongs" : "筑波技大",
+    "affiliation" : "筑波技大",
     "first" : 0
   }, {
     "presenid" : "F5-3",
     "name" : "河合 由起子",
-    "belongs" : "京産大",
+    "affiliation" : "京産大",
     "first" : 0
   }, {
     "presenid" : "F5-3",
     "name" : "熊本 忠彦",
-    "belongs" : "千葉工大",
+    "affiliation" : "千葉工大",
     "first" : 0
   }, {
     "presenid" : "F5-4",
     "name" : "熊本 忠彦",
-    "belongs" : "千葉工大",
+    "affiliation" : "千葉工大",
     "first" : 1
   }, {
     "presenid" : "F5-5",
     "name" : "加藤 大介",
-    "belongs" : "甲南大",
+    "affiliation" : "甲南大",
     "first" : 1
   }, {
     "presenid" : "F5-5",
     "name" : "宮部 真衣",
-    "belongs" : "京大",
+    "affiliation" : "京大",
     "first" : 0
   }, {
     "presenid" : "F5-5",
     "name" : "荒牧 英治",
-    "belongs" : "京大",
+    "affiliation" : "京大",
     "first" : 0
   }, {
     "presenid" : "F5-5",
     "name" : "灘本 明代",
-    "belongs" : "甲南大",
+    "affiliation" : "甲南大",
     "first" : 0
   }, {
     "presenid" : "B2-1",
     "name" : "吉田 朋史",
-    "belongs" : "工学院大学",
+    "affiliation" : "工学院大学",
     "first" : 1
   }, {
     "presenid" : "B2-1",
     "name" : "北山 大輔",
-    "belongs" : "工学院大学",
+    "affiliation" : "工学院大学",
     "first" : 0
   }, {
     "presenid" : "B2-2",
     "name" : "田中 優",
-    "belongs" : "慶大",
+    "affiliation" : "慶大",
     "first" : 1
   }, {
     "presenid" : "B2-2",
     "name" : "増井 俊之",
-    "belongs" : "慶大",
+    "affiliation" : "慶大",
     "first" : 0
   }, {
     "presenid" : "B2-3",
     "name" : "山崎 隼也",
-    "belongs" : "京産大",
+    "affiliation" : "京産大",
     "first" : 1
   }, {
     "presenid" : "B2-3",
     "name" : "中島 伸介",
-    "belongs" : "京産大",
+    "affiliation" : "京産大",
     "first" : 0
   }, {
     "presenid" : "B2-4",
     "name" : "越島 亮介",
-    "belongs" : "慶大",
+    "affiliation" : "慶大",
     "first" : 1
   }, {
     "presenid" : "B2-4",
     "name" : "遠山 元道",
-    "belongs" : "慶大",
+    "affiliation" : "慶大",
     "first" : 0
   }, {
     "presenid" : "B2-5",
     "name" : "武田 裕介",
-    "belongs" : "京大",
+    "affiliation" : "京大",
     "first" : 1
   }, {
     "presenid" : "B2-5",
     "name" : "大島 裕明",
-    "belongs" : "京大",
+    "affiliation" : "京大",
     "first" : 0
   }, {
     "presenid" : "B2-5",
     "name" : "田中 克己",
-    "belongs" : "京大",
+    "affiliation" : "京大",
     "first" : 0
   }, {
     "presenid" : "B2-6",
     "name" : "安部 高城",
-    "belongs" : "筑波大",
+    "affiliation" : "筑波大",
     "first" : 1
   }, {
     "presenid" : "B2-6",
     "name" : "佐藤 哲司",
-    "belongs" : "筑波大学",
+    "affiliation" : "筑波大学",
     "first" : 0
   }, {
     "presenid" : "F6-1",
     "name" : "小松 雅弥",
-    "belongs" : "静大",
+    "affiliation" : "静大",
     "first" : 1
   }, {
     "presenid" : "F6-1",
     "name" : "廣田 雅春",
-    "belongs" : "首都大",
+    "affiliation" : "首都大",
     "first" : 0
   }, {
     "presenid" : "F6-1",
     "name" : "石川 博",
-    "belongs" : "首都大",
+    "affiliation" : "首都大",
     "first" : 0
   }, {
     "presenid" : "F6-1",
     "name" : "横山 昌平",
-    "belongs" : "静大",
+    "affiliation" : "静大",
     "first" : 0
   }, {
     "presenid" : "F6-2",
     "name" : "簗井 美咲",
-    "belongs" : "名大",
+    "affiliation" : "名大",
     "first" : 1
   }, {
     "presenid" : "F6-2",
     "name" : "高橋 正和",
-    "belongs" : "名大",
+    "affiliation" : "名大",
     "first" : 0
   }, {
     "presenid" : "F6-2",
     "name" : "佐々木 勇和",
-    "belongs" : "名大",
+    "affiliation" : "名大",
     "first" : 0
   }, {
     "presenid" : "F6-2",
     "name" : "石川 佳治",
-    "belongs" : "名大",
+    "affiliation" : "名大",
     "first" : 0
   }, {
     "presenid" : "F6-3",
     "name" : "櫻川 直洋",
-    "belongs" : "静大",
+    "affiliation" : "静大",
     "first" : 1
   }, {
     "presenid" : "F6-3",
     "name" : "廣田 雅春",
-    "belongs" : "首都大",
+    "affiliation" : "首都大",
     "first" : 0
   }, {
     "presenid" : "F6-3",
     "name" : "石川 博",
-    "belongs" : "首都大",
+    "affiliation" : "首都大",
     "first" : 0
   }, {
     "presenid" : "F6-3",
     "name" : "横山 昌平",
-    "belongs" : "静大",
+    "affiliation" : "静大",
     "first" : 0
   }, {
     "presenid" : "F6-4",
     "name" : "藤井 一哉",
-    "belongs" : "岡大",
+    "affiliation" : "岡大",
     "first" : 1
   }, {
     "presenid" : "F6-4",
     "name" : "新妻 弘崇",
-    "belongs" : "岡大",
+    "affiliation" : "岡大",
     "first" : 0
   }, {
     "presenid" : "F6-4",
     "name" : "太田 学",
-    "belongs" : "岡大",
+    "affiliation" : "岡大",
     "first" : 0
   }, {
     "presenid" : "F6-5",
     "name" : "平山 拓実",
-    "belongs" : "広島市立大学",
+    "affiliation" : "広島市立大学",
     "first" : 1
   }, {
     "presenid" : "F6-5",
     "name" : "難波 英嗣",
-    "belongs" : "広島市立大学",
+    "affiliation" : "広島市立大学",
     "first" : 0
   }, {
     "presenid" : "F6-5",
     "name" : "竹澤 寿幸",
-    "belongs" : "広島市立大学",
+    "affiliation" : "広島市立大学",
     "first" : 0
   }, {
     "presenid" : "F6-6",
     "name" : "渡辺 陽介",
-    "belongs" : "名大",
+    "affiliation" : "名大",
     "first" : 1
   }, {
     "presenid" : "F6-6",
     "name" : "高木 建太朗",
-    "belongs" : "名大",
+    "affiliation" : "名大",
     "first" : 0
   }, {
     "presenid" : "F6-6",
     "name" : "手嶋 茂晴",
-    "belongs" : "名大",
+    "affiliation" : "名大",
     "first" : 0
   }, {
     "presenid" : "F6-6",
     "name" : "二宮 芳樹",
-    "belongs" : "名大",
+    "affiliation" : "名大",
     "first" : 0
   }, {
     "presenid" : "F6-6",
     "name" : "佐藤 健哉",
-    "belongs" : "同志社大",
+    "affiliation" : "同志社大",
     "first" : 0
   }, {
     "presenid" : "F6-6",
     "name" : "高田 広章",
-    "belongs" : "名大",
+    "affiliation" : "名大",
     "first" : 0
   }, {
     "presenid" : "B3-1",
     "name" : "濱田 恵輔",
-    "belongs" : "京都産業大学",
+    "affiliation" : "京都産業大学",
     "first" : 1
   }, {
     "presenid" : "B3-1",
     "name" : "中島 伸介",
-    "belongs" : "京都産業大学",
+    "affiliation" : "京都産業大学",
     "first" : 0
   }, {
     "presenid" : "B3-1",
     "name" : "北山 大輔",
-    "belongs" : "工学院大学",
+    "affiliation" : "工学院大学",
     "first" : 0
   }, {
     "presenid" : "B3-1",
     "name" : "角谷 和俊",
-    "belongs" : "兵庫県立大学",
+    "affiliation" : "兵庫県立大学",
     "first" : 0
   }, {
     "presenid" : "B3-2",
     "name" : "飯沼 俊平",
-    "belongs" : "広市大",
+    "affiliation" : "広市大",
     "first" : 1
   }, {
     "presenid" : "B3-2",
     "name" : "難波 英嗣",
-    "belongs" : "広市大",
+    "affiliation" : "広市大",
     "first" : 0
   }, {
     "presenid" : "B3-2",
     "name" : "竹澤 寿幸",
-    "belongs" : "広市大",
+    "affiliation" : "広市大",
     "first" : 0
   }, {
     "presenid" : "B3-3",
     "name" : "杉浦 健人",
-    "belongs" : "名大",
+    "affiliation" : "名大",
     "first" : 1
   }, {
     "presenid" : "B3-3",
     "name" : "佐々木 勇和",
-    "belongs" : "名大",
+    "affiliation" : "名大",
     "first" : 0
   }, {
     "presenid" : "B3-3",
     "name" : "石川 佳治",
-    "belongs" : "名大",
+    "affiliation" : "名大",
     "first" : 0
   }, {
     "presenid" : "B3-4",
     "name" : "植田 聖司",
-    "belongs" : "東工大",
+    "affiliation" : "東工大",
     "first" : 1
   }, {
     "presenid" : "B3-4",
     "name" : "欅 惇志",
-    "belongs" : "東工大",
+    "affiliation" : "東工大",
     "first" : 0
   }, {
     "presenid" : "B3-4",
     "name" : "宮崎 純",
-    "belongs" : "東工大",
+    "affiliation" : "東工大",
     "first" : 0
   }, {
     "presenid" : "B3-5",
     "name" : "鬼沢 和也",
-    "belongs" : "早大",
+    "affiliation" : "早大",
     "first" : 1
   }, {
     "presenid" : "B3-5",
     "name" : "浅井 洋樹",
-    "belongs" : "早大",
+    "affiliation" : "早大",
     "first" : 0
   }, {
     "presenid" : "B3-5",
     "name" : "山名 早人",
-    "belongs" : "早大",
+    "affiliation" : "早大",
     "first" : 0
   }, {
     "presenid" : "B3-6",
     "name" : "葛西 正裕",
-    "belongs" : "愛知学院大学",
+    "affiliation" : "愛知学院大学",
     "first" : 1
   }, {
     "presenid" : "B3-6",
     "name" : "古川 哲也",
-    "belongs" : "九州大学",
+    "affiliation" : "九州大学",
     "first" : 0
   }, {
     "presenid" : "F7-1",
     "name" : "濱田 恵輔",
-    "belongs" : "京都産業大学",
+    "affiliation" : "京都産業大学",
     "first" : 1
   }, {
     "presenid" : "F7-1",
     "name" : "浅川 拓",
-    "belongs" : "京都産業大学",
+    "affiliation" : "京都産業大学",
     "first" : 0
   }, {
     "presenid" : "F7-1",
     "name" : "中島 伸介",
-    "belongs" : "京都産業大学",
+    "affiliation" : "京都産業大学",
     "first" : 0
   }, {
     "presenid" : "F7-1",
     "name" : "北山 大輔",
-    "belongs" : "工学院大学",
+    "affiliation" : "工学院大学",
     "first" : 0
   }, {
     "presenid" : "F7-1",
     "name" : "角谷 和俊",
-    "belongs" : "兵庫県立大学",
+    "affiliation" : "兵庫県立大学",
     "first" : 0
   }, {
     "presenid" : "F7-2",
     "name" : "菅澤 学",
-    "belongs" : "JR東日本研究開発センター",
+    "affiliation" : "JR東日本研究開発センター",
     "first" : 1
   }, {
     "presenid" : "F7-2",
     "name" : "清木 康",
-    "belongs" : "慶応大",
+    "affiliation" : "慶応大",
     "first" : 0
   }, {
     "presenid" : "F7-2",
     "name" : "Hall Jeremy",
-    "belongs" : "慶応大",
+    "affiliation" : "慶応大",
     "first" : 0
   }, {
     "presenid" : "F7-3",
     "name" : "小林 啓太",
-    "belongs" : "阪大",
+    "affiliation" : "阪大",
     "first" : 1
   }, {
     "presenid" : "F7-3",
     "name" : "鬼塚 真",
-    "belongs" : "阪大",
+    "affiliation" : "阪大",
     "first" : 0
   }, {
     "presenid" : "F7-4",
     "name" : "谷 直樹",
-    "belongs" : "和大",
+    "affiliation" : "和大",
     "first" : 1
   }, {
     "presenid" : "F7-4",
     "name" : "風間 一洋",
-    "belongs" : "和大",
+    "affiliation" : "和大",
     "first" : 0
   }, {
     "presenid" : "F7-4",
     "name" : "榊 剛史",
-    "belongs" : "東大",
+    "affiliation" : "東大",
     "first" : 0
   }, {
     "presenid" : "F7-4",
     "name" : "吉田 光男",
-    "belongs" : "技科大",
+    "affiliation" : "技科大",
     "first" : 0
   }, {
     "presenid" : "F7-5",
     "name" : "高木 有人",
-    "belongs" : "首都大",
+    "affiliation" : "首都大",
     "first" : 1
   }, {
     "presenid" : "F7-5",
     "name" : "遠藤 雅樹",
-    "belongs" : "首都大",
+    "affiliation" : "首都大",
     "first" : 0
   }, {
     "presenid" : "F7-5",
     "name" : "廣田 雅春",
-    "belongs" : "首都大",
+    "affiliation" : "首都大",
     "first" : 0
   }, {
     "presenid" : "F7-5",
     "name" : "倉田 陽平",
-    "belongs" : "首都大",
+    "affiliation" : "首都大",
     "first" : 0
   }, {
     "presenid" : "F7-5",
     "name" : "横山 昌平",
-    "belongs" : "静大",
+    "affiliation" : "静大",
     "first" : 0
   }, {
     "presenid" : "F7-5",
     "name" : "石川 博",
-    "belongs" : "首都大",
+    "affiliation" : "首都大",
     "first" : 0
   }, {
     "presenid" : "F7-6",
     "name" : "倉田 陽平",
-    "belongs" : "首都大",
+    "affiliation" : "首都大",
     "first" : 1
   }, {
     "presenid" : "F7-6",
     "name" : "相 尚寿",
-    "belongs" : "首都大",
+    "affiliation" : "首都大",
     "first" : 0
   }, {
     "presenid" : "F7-6",
     "name" : "石川 博",
-    "belongs" : "首都大",
+    "affiliation" : "首都大",
     "first" : 0
   }, {
     "presenid" : "F7-6",
     "name" : "真田 風",
-    "belongs" : "首都大",
+    "affiliation" : "首都大",
     "first" : 0
   }, {
     "presenid" : "F7-6",
     "name" : "池田 拓生",
-    "belongs" : "首都大",
+    "affiliation" : "首都大",
     "first" : 0
   }, {
     "presenid" : "B4-1",
     "name" : "吉成 未菜里",
-    "belongs" : "仙台高専",
+    "affiliation" : "仙台高専",
     "first" : 1
   }, {
     "presenid" : "B4-1",
     "name" : "梅村 恭司",
-    "belongs" : "豊橋技科大",
+    "affiliation" : "豊橋技科大",
     "first" : 0
   }, {
     "presenid" : "B4-1",
     "name" : "岡本 圭史",
-    "belongs" : "仙台高専",
+    "affiliation" : "仙台高専",
     "first" : 0
   }, {
     "presenid" : "B4-1",
     "name" : "山本 英子",
-    "belongs" : "岐阜聖徳学園大学",
+    "affiliation" : "岐阜聖徳学園大学",
     "first" : 0
   }, {
     "presenid" : "B4-2",
     "name" : "田中 祥太郎",
-    "belongs" : "京大",
+    "affiliation" : "京大",
     "first" : 1
   }, {
     "presenid" : "B4-2",
     "name" : "Jatowt Adam",
-    "belongs" : "京大",
+    "affiliation" : "京大",
     "first" : 0
   }, {
     "presenid" : "B4-2",
     "name" : "田中 克己",
-    "belongs" : "京大",
+    "affiliation" : "京大",
     "first" : 0
   }, {
     "presenid" : "B4-3",
     "name" : "伊東 直弘",
-    "belongs" : "東大",
+    "affiliation" : "東大",
     "first" : 1
   }, {
     "presenid" : "B4-3",
     "name" : "吉永 直樹",
-    "belongs" : "東大、ＮＩＣＴ",
+    "affiliation" : "東大、ＮＩＣＴ",
     "first" : 0
   }, {
     "presenid" : "B4-3",
     "name" : "鍜治 伸裕",
-    "belongs" : "東大、ＮＩＣＴ",
+    "affiliation" : "東大、ＮＩＣＴ",
     "first" : 0
   }, {
     "presenid" : "B4-3",
     "name" : "豊田 正史",
-    "belongs" : "東大",
+    "affiliation" : "東大",
     "first" : 0
   }, {
     "presenid" : "B4-4",
     "name" : "福元 伸也",
-    "belongs" : "鹿大",
+    "affiliation" : "鹿大",
     "first" : 1
   }, {
     "presenid" : "B4-4",
     "name" : "渕田 孝康",
-    "belongs" : "鹿大",
+    "affiliation" : "鹿大",
     "first" : 0
   }, {
     "presenid" : "B4-5",
     "name" : "松井 侑祐",
-    "belongs" : "京産大",
+    "affiliation" : "京産大",
     "first" : 1
   }, {
     "presenid" : "B4-5",
     "name" : "宮森 恒",
-    "belongs" : "京産大",
+    "affiliation" : "京産大",
     "first" : 0
   }, {
     "presenid" : "B4-6",
     "name" : "樫本 達矢",
-    "belongs" : "岡大",
+    "affiliation" : "岡大",
     "first" : 1
   }, {
     "presenid" : "B4-6",
     "name" : "太田 学",
-    "belongs" : "岡大",
+    "affiliation" : "岡大",
     "first" : 0
   }, {
     "presenid" : "B4-6",
     "name" : "高須 淳宏",
-    "belongs" : "NII",
+    "affiliation" : "NII",
     "first" : 0
   }, {
     "presenid" : "F8-1",
     "name" : "東羅 翔太郎",
-    "belongs" : "NTT",
+    "affiliation" : "NTT",
     "first" : 1
   }, {
     "presenid" : "F8-1",
     "name" : "豊田 真智子",
-    "belongs" : "NTT",
+    "affiliation" : "NTT",
     "first" : 0
   }, {
     "presenid" : "F8-1",
     "name" : "中村 吉孝",
-    "belongs" : "NTT",
+    "affiliation" : "NTT",
     "first" : 0
   }, {
     "presenid" : "F8-2",
     "name" : "中村 隆顕",
-    "belongs" : "三菱電機株式会社",
+    "affiliation" : "三菱電機株式会社",
     "first" : 1
   }, {
     "presenid" : "F8-2",
     "name" : "今村 誠",
-    "belongs" : "三菱電機株式会社",
+    "affiliation" : "三菱電機株式会社",
     "first" : 0
   }, {
     "presenid" : "F8-2",
     "name" : "平井 規郎",
-    "belongs" : "三菱電機株式会社",
+    "affiliation" : "三菱電機株式会社",
     "first" : 0
   }, {
     "presenid" : "F8-2",
     "name" : "Jones Michael",
-    "belongs" : "MERL",
+    "affiliation" : "MERL",
     "first" : 0
   }, {
     "presenid" : "F8-2",
     "name" : "Nikovski Daniel",
-    "belongs" : "MERL",
+    "affiliation" : "MERL",
     "first" : 0
   }, {
     "presenid" : "F8-3",
     "name" : "森本 哲郎",
-    "belongs" : "OECU",
+    "affiliation" : "OECU",
     "first" : 1
   }, {
     "presenid" : "F8-3",
     "name" : "辻本 悠佑",
-    "belongs" : "OECU",
+    "affiliation" : "OECU",
     "first" : 0
   }, {
     "presenid" : "F8-3",
     "name" : "白浜 勝太",
-    "belongs" : "OECU",
+    "affiliation" : "OECU",
     "first" : 0
   }, {
     "presenid" : "F8-3",
     "name" : "上善 恒雄",
-    "belongs" : "OECU",
+    "affiliation" : "OECU",
     "first" : 0
   }, {
     "presenid" : "F8-4",
     "name" : "小寺 暁久",
-    "belongs" : "静大",
+    "affiliation" : "静大",
     "first" : 1
   }, {
     "presenid" : "F8-4",
     "name" : "横山 昌平",
-    "belongs" : "静大",
+    "affiliation" : "静大",
     "first" : 0
   }, {
     "presenid" : "F8-4",
     "name" : "山田 文康",
-    "belongs" : "静大",
+    "affiliation" : "静大",
     "first" : 0
   }, {
     "presenid" : "F8-5",
     "name" : "宮城 優里",
-    "belongs" : "お茶大",
+    "affiliation" : "お茶大",
     "first" : 1
   }, {
     "presenid" : "F8-5",
     "name" : "大西 正輝",
-    "belongs" : "産総研",
+    "affiliation" : "産総研",
     "first" : 0
   }, {
     "presenid" : "F8-5",
     "name" : "渡辺 知恵美",
-    "belongs" : "筑波大",
+    "affiliation" : "筑波大",
     "first" : 0
   }, {
     "presenid" : "F8-5",
     "name" : "伊藤 貴之",
-    "belongs" : "お茶大",
+    "affiliation" : "お茶大",
     "first" : 0
   }, {
     "presenid" : "F8-6",
     "name" : "八木 佐也香",
-    "belongs" : "お茶大",
+    "affiliation" : "お茶大",
     "first" : 1
   }, {
     "presenid" : "F8-6",
     "name" : "伊藤 貴之",
-    "belongs" : "お茶大",
+    "affiliation" : "お茶大",
     "first" : 0
   }, {
     "presenid" : "F8-6",
     "name" : "高塚 正浩",
-    "belongs" : "シドニー大",
+    "affiliation" : "シドニー大",
     "first" : 0
   }, {
     "presenid" : "B5-1",
     "name" : "櫻木 優輝",
-    "belongs" : "立命館大学",
+    "affiliation" : "立命館大学",
     "first" : 1
   }, {
     "presenid" : "B5-1",
     "name" : "青山 敦",
-    "belongs" : "立命館大学",
+    "affiliation" : "立命館大学",
     "first" : 0
   }, {
     "presenid" : "B5-1",
     "name" : "木村 文則",
-    "belongs" : "立命館大学",
+    "affiliation" : "立命館大学",
     "first" : 0
   }, {
     "presenid" : "B5-1",
     "name" : "前田 亮",
-    "belongs" : "立命館大学",
+    "affiliation" : "立命館大学",
     "first" : 0
   }, {
     "presenid" : "B5-2",
     "name" : "中野 峻太郎",
-    "belongs" : "京大",
+    "affiliation" : "京大",
     "first" : 1
   }, {
     "presenid" : "B5-2",
     "name" : "谷川 英和",
-    "belongs" : "IRD国際特許事務所",
+    "affiliation" : "IRD国際特許事務所",
     "first" : 0
   }, {
     "presenid" : "B5-2",
     "name" : "宮脇 正晴",
-    "belongs" : "立命館大学",
+    "affiliation" : "立命館大学",
     "first" : 0
   }, {
     "presenid" : "B5-2",
     "name" : "山田 篤",
-    "belongs" : "京都高度技術研究所",
+    "affiliation" : "京都高度技術研究所",
     "first" : 0
   }, {
     "presenid" : "B5-2",
     "name" : "田中 克己",
-    "belongs" : "京大",
+    "affiliation" : "京大",
     "first" : 0
   }, {
     "presenid" : "B5-3",
     "name" : "青山 賢",
-    "belongs" : "静大",
+    "affiliation" : "静大",
     "first" : 1
   }, {
     "presenid" : "B5-3",
     "name" : "廣田 雅春",
-    "belongs" : "首都大",
+    "affiliation" : "首都大",
     "first" : 0
   }, {
     "presenid" : "B5-3",
     "name" : "石川 博",
-    "belongs" : "首都大",
+    "affiliation" : "首都大",
     "first" : 0
   }, {
     "presenid" : "B5-3",
     "name" : "横山 昌平",
-    "belongs" : "静大",
+    "affiliation" : "静大",
     "first" : 0
   }, {
     "presenid" : "B5-4",
     "name" : "大橋 駿介",
-    "belongs" : "東大",
+    "affiliation" : "東大",
     "first" : 1
   }, {
     "presenid" : "B5-4",
     "name" : "相澤 彰子",
-    "belongs" : "NII",
+    "affiliation" : "NII",
     "first" : 0
   }, {
     "presenid" : "B5-5",
     "name" : "新井 誠也",
-    "belongs" : "芝浦工大",
+    "affiliation" : "芝浦工大",
     "first" : 1
   }, {
     "presenid" : "B5-5",
     "name" : "平川 豊",
-    "belongs" : "芝浦工大",
+    "affiliation" : "芝浦工大",
     "first" : 0
   }, {
     "presenid" : "B5-5",
     "name" : "大関 和夫",
-    "belongs" : "芝浦工大",
+    "affiliation" : "芝浦工大",
     "first" : 0
   }, {
     "presenid" : "B6-1",
     "name" : "矢口 尭",
-    "belongs" : "東工大",
+    "affiliation" : "東工大",
     "first" : 1
   }, {
     "presenid" : "B6-1",
     "name" : "首藤 一幸",
-    "belongs" : "東工大",
+    "affiliation" : "東工大",
     "first" : 0
   }, {
     "presenid" : "B6-2",
     "name" : "日開 朝美",
-    "belongs" : "お茶大",
+    "affiliation" : "お茶大",
     "first" : 1
   }, {
     "presenid" : "B6-2",
     "name" : "竹房 あつ子",
-    "belongs" : "AIST",
+    "affiliation" : "AIST",
     "first" : 0
   }, {
     "presenid" : "B6-2",
     "name" : "中田 秀基",
-    "belongs" : "AIST",
+    "affiliation" : "AIST",
     "first" : 0
   }, {
     "presenid" : "B6-2",
     "name" : "小口 正人",
-    "belongs" : "お茶大",
+    "affiliation" : "お茶大",
     "first" : 0
   }, {
     "presenid" : "B6-3",
     "name" : "梅田 昌義",
-    "belongs" : "NTT",
+    "affiliation" : "NTT",
     "first" : 1
   }, {
     "presenid" : "B6-3",
     "name" : "吉田 悟",
-    "belongs" : "NTT",
+    "affiliation" : "NTT",
     "first" : 0
   }, {
     "presenid" : "B6-4",
     "name" : "中山 陽太郎",
-    "belongs" : "NUL",
+    "affiliation" : "NUL",
     "first" : 1
   }, {
     "presenid" : "B6-4",
     "name" : "横石 潔和",
-    "belongs" : "NUL",
+    "affiliation" : "NUL",
     "first" : 0
   }, {
     "presenid" : "B6-4",
     "name" : "渡辺 信幸",
-    "belongs" : "RLJ",
+    "affiliation" : "RLJ",
     "first" : 0
   }, {
     "presenid" : "B6-5",
     "name" : "細谷 柚子",
-    "belongs" : "お茶大",
+    "affiliation" : "お茶大",
     "first" : 1
   }, {
     "presenid" : "B6-5",
     "name" : "三島 健",
-    "belongs" : "NTT",
+    "affiliation" : "NTT",
     "first" : 0
   }, {
     "presenid" : "B6-5",
     "name" : "小口 正人",
-    "belongs" : "お茶大",
+    "affiliation" : "お茶大",
     "first" : 0
   }, {
     "presenid" : "B6-6",
     "name" : "新田 健二",
-    "belongs" : "東工大",
+    "affiliation" : "東工大",
     "first" : 1
   }, {
     "presenid" : "B6-6",
     "name" : "矢口 尭",
-    "belongs" : "東工大",
+    "affiliation" : "東工大",
     "first" : 0
   }, {
     "presenid" : "B6-6",
     "name" : "長尾 洋也",
-    "belongs" : "東工大",
+    "affiliation" : "東工大",
     "first" : 0
   }, {
     "presenid" : "B6-6",
     "name" : "首藤 一幸",
-    "belongs" : "東工大",
+    "affiliation" : "東工大",
     "first" : 0
   }, {
     "presenid" : "B8-1",
     "name" : "古屋 瑞生",
-    "belongs" : "立命館大学",
+    "affiliation" : "立命館大学",
     "first" : 1
   }, {
     "presenid" : "B8-1",
     "name" : "黄 宏軒",
-    "belongs" : "立命館大学",
+    "affiliation" : "立命館大学",
     "first" : 0
   }, {
     "presenid" : "B8-1",
     "name" : "川越 恭二",
-    "belongs" : "立命館大学",
+    "affiliation" : "立命館大学",
     "first" : 0
   }, {
     "presenid" : "B8-2",
     "name" : "鈴木 悠太",
-    "belongs" : "筑波大",
+    "affiliation" : "筑波大",
     "first" : 1
   }, {
     "presenid" : "B8-2",
     "name" : "佐藤 哲司",
-    "belongs" : "筑波大学",
+    "affiliation" : "筑波大学",
     "first" : 0
   }, {
     "presenid" : "B8-3",
     "name" : "黄 亦爽",
-    "belongs" : "神戸大",
+    "affiliation" : "神戸大",
     "first" : 1
   }, {
     "presenid" : "B8-3",
     "name" : "清光 英成",
-    "belongs" : "神戸大",
+    "affiliation" : "神戸大",
     "first" : 0
   }, {
     "presenid" : "B8-3",
     "name" : "大月 一弘",
-    "belongs" : "神戸大",
+    "affiliation" : "神戸大",
     "first" : 0
   }, {
     "presenid" : "B8-3",
     "name" : "森下 淳也",
-    "belongs" : "神戸大",
+    "affiliation" : "神戸大",
     "first" : 0
   }, {
     "presenid" : "B8-4",
     "name" : "鬼頭 尚揮",
-    "belongs" : "立命館",
+    "affiliation" : "立命館",
     "first" : 1
   }, {
     "presenid" : "B8-4",
     "name" : "奥 健太",
-    "belongs" : "立命館",
+    "affiliation" : "立命館",
     "first" : 0
   }, {
     "presenid" : "B8-4",
     "name" : "服部 文夫",
-    "belongs" : "立命館",
+    "affiliation" : "立命館",
     "first" : 0
   }, {
     "presenid" : "B8-5",
     "name" : "茂木 哲矢",
-    "belongs" : "ヤフー株式会社",
+    "affiliation" : "ヤフー株式会社",
     "first" : 1
   }, {
     "presenid" : "B8-5",
     "name" : "田頭 幸浩",
-    "belongs" : "ヤフー株式会社",
+    "affiliation" : "ヤフー株式会社",
     "first" : 0
   }, {
     "presenid" : "B8-5",
     "name" : "小野 真吾",
-    "belongs" : "ヤフー株式会社",
+    "affiliation" : "ヤフー株式会社",
     "first" : 0
   }, {
     "presenid" : "B8-5",
     "name" : "田島 玲",
-    "belongs" : "ヤフー株式会社",
+    "affiliation" : "ヤフー株式会社",
     "first" : 0
   }, {
     "presenid" : "B8-6",
     "name" : "工藤 真之",
-    "belongs" : "工学院大学",
+    "affiliation" : "工学院大学",
     "first" : 1
   }, {
     "presenid" : "B8-6",
     "name" : "北山 大輔",
-    "belongs" : "工学院大学",
+    "affiliation" : "工学院大学",
     "first" : 0
   }, {
     "presenid" : "G1-1",
     "name" : "高橋 翼",
-    "belongs" : "NEC",
+    "affiliation" : "NEC",
     "first" : 1
   }, {
     "presenid" : "G1-1",
     "name" : "古川 諒",
-    "belongs" : "NEC",
+    "affiliation" : "NEC",
     "first" : 0
   }, {
     "presenid" : "G1-1",
     "name" : "側高 幸治",
-    "belongs" : "NEC",
+    "affiliation" : "NEC",
     "first" : 0
   }, {
     "presenid" : "G1-1",
     "name" : "森 拓也",
-    "belongs" : "NEC",
+    "affiliation" : "NEC",
     "first" : 0
   }, {
     "presenid" : "G1-2",
     "name" : "柿澤 美穂",
-    "belongs" : "お茶大",
+    "affiliation" : "お茶大",
     "first" : 1
   }, {
     "presenid" : "G1-2",
     "name" : "渡辺 知恵美",
-    "belongs" : "筑波大",
+    "affiliation" : "筑波大",
     "first" : 0
   }, {
     "presenid" : "G1-2",
     "name" : "古川 諒",
-    "belongs" : "NEC",
+    "affiliation" : "NEC",
     "first" : 0
   }, {
     "presenid" : "G1-2",
     "name" : "高橋 翼",
-    "belongs" : "NEC",
+    "affiliation" : "NEC",
     "first" : 0
   }, {
     "presenid" : "G1-3",
     "name" : "岡田 莉奈",
-    "belongs" : "筑波大",
+    "affiliation" : "筑波大",
     "first" : 1
   }, {
     "presenid" : "G1-3",
     "name" : "福地 一斗",
-    "belongs" : "筑波大",
+    "affiliation" : "筑波大",
     "first" : 0
   }, {
     "presenid" : "G1-3",
     "name" : "佐久間 淳",
-    "belongs" : "筑波大",
+    "affiliation" : "筑波大",
     "first" : 0
   }, {
     "presenid" : "G1-4",
     "name" : "田中 千沙",
-    "belongs" : "広市大",
+    "affiliation" : "広市大",
     "first" : 0
   }, {
     "presenid" : "G1-4",
     "name" : "上土井 陽子",
-    "belongs" : "広市大",
+    "affiliation" : "広市大",
     "first" : 1
   }, {
     "presenid" : "G1-4",
     "name" : "若林 真一",
-    "belongs" : "広市大",
+    "affiliation" : "広市大",
     "first" : 0
   }, {
     "presenid" : "G1-5",
     "name" : "奥田 容子",
-    "belongs" : "電気通信大学",
+    "affiliation" : "電気通信大学",
     "first" : 1
   }, {
     "presenid" : "G1-5",
     "name" : "沼尾 雅之",
-    "belongs" : "電気通信大学　大学院",
+    "affiliation" : "電気通信大学　大学院",
     "first" : 0
   }, {
     "presenid" : "G1-6",
     "name" : "加藤 諒",
-    "belongs" : "阪大",
+    "affiliation" : "阪大",
     "first" : 1
   }, {
     "presenid" : "G1-6",
     "name" : "原 隆浩",
-    "belongs" : "阪大",
+    "affiliation" : "阪大",
     "first" : 0
   }, {
     "presenid" : "G1-6",
     "name" : "Xing Xie",
-    "belongs" : "Microsoft Research Asia",
+    "affiliation" : "Microsoft Research Asia",
     "first" : 0
   }, {
     "presenid" : "G1-6",
     "name" : "岩田 麻佑",
-    "belongs" : "株式会社KDDI研究所",
+    "affiliation" : "株式会社KDDI研究所",
     "first" : 0
   }, {
     "presenid" : "G1-6",
     "name" : "西尾 章治郎",
-    "belongs" : "阪大",
+    "affiliation" : "阪大",
     "first" : 0
   }, {
     "presenid" : "G2-1",
     "name" : "児玉 快",
-    "belongs" : "東工大",
+    "affiliation" : "東工大",
     "first" : 1
   }, {
     "presenid" : "G2-1",
     "name" : "横田 治夫",
-    "belongs" : "東工大",
+    "affiliation" : "東工大",
     "first" : 0
   }, {
     "presenid" : "G2-2",
     "name" : "隅岡 隆之",
-    "belongs" : "産技大",
+    "affiliation" : "産技大",
     "first" : 1
   }, {
     "presenid" : "G2-2",
     "name" : "尾崎 敏司",
-    "belongs" : "産技大",
+    "affiliation" : "産技大",
     "first" : 0
   }, {
     "presenid" : "G2-2",
     "name" : "村上 陽子",
-    "belongs" : "産技大",
+    "affiliation" : "産技大",
     "first" : 0
   }, {
     "presenid" : "G2-2",
     "name" : "邓 超穎",
-    "belongs" : "産技大",
+    "affiliation" : "産技大",
     "first" : 0
   }, {
     "presenid" : "G2-2",
     "name" : "畠山 智美",
-    "belongs" : "産技大",
+    "affiliation" : "産技大",
     "first" : 0
   }, {
     "presenid" : "G2-2",
     "name" : "輪島 幸治",
-    "belongs" : "産技大",
+    "affiliation" : "産技大",
     "first" : 0
   }, {
     "presenid" : "G2-2",
     "name" : "嶋田 茂",
-    "belongs" : "産技大",
+    "affiliation" : "産技大",
     "first" : 0
   }, {
     "presenid" : "G2-3",
     "name" : "沖田　 梨絵子",
-    "belongs" : "広市大",
+    "affiliation" : "広市大",
     "first" : 0
   }, {
     "presenid" : "G2-3",
     "name" : "上土井 陽子",
-    "belongs" : "広市大",
+    "affiliation" : "広市大",
     "first" : 1
   }, {
     "presenid" : "G2-3",
     "name" : "若林 真一",
-    "belongs" : "広市大",
+    "affiliation" : "広市大",
     "first" : 0
   }, {
     "presenid" : "G2-4",
     "name" : "津田 琢士",
-    "belongs" : "阪大",
+    "affiliation" : "阪大",
     "first" : 1
   }, {
     "presenid" : "G2-4",
     "name" : "駒井 友香",
-    "belongs" : "阪大",
+    "affiliation" : "阪大",
     "first" : 0
   }, {
     "presenid" : "G2-4",
     "name" : "原 隆浩",
-    "belongs" : "阪大",
+    "affiliation" : "阪大",
     "first" : 0
   }, {
     "presenid" : "G2-4",
     "name" : "西尾 章治郎",
-    "belongs" : "阪大",
+    "affiliation" : "阪大",
     "first" : 0
   }, {
     "presenid" : "G2-5",
     "name" : "橋本 翔太",
-    "belongs" : "広島市立大学",
+    "affiliation" : "広島市立大学",
     "first" : 1
   }, {
     "presenid" : "G2-5",
     "name" : "上土井 陽子",
-    "belongs" : "広島市立大学",
+    "affiliation" : "広島市立大学",
     "first" : 0
   }, {
     "presenid" : "G2-5",
     "name" : "若林 真一",
-    "belongs" : "広島市立大学",
+    "affiliation" : "広島市立大学",
     "first" : 0
   }, {
     "presenid" : "G2-6",
     "name" : "篠塚 千愛",
-    "belongs" : "筑波大学",
+    "affiliation" : "筑波大学",
     "first" : 1
   }, {
     "presenid" : "G2-6",
     "name" : "渡辺 知恵美",
-    "belongs" : "筑波大学",
+    "affiliation" : "筑波大学",
     "first" : 0
   }, {
     "presenid" : "G2-6",
     "name" : "北川 博之",
-    "belongs" : "筑波大学",
+    "affiliation" : "筑波大学",
     "first" : 0
   }, {
     "presenid" : "G3-1",
     "name" : "Silqueira Hickson Cruz Mateus",
-    "belongs" : "筑波大",
+    "affiliation" : "筑波大",
     "first" : 1
   }, {
     "presenid" : "G3-1",
     "name" : "小澤 佑介",
-    "belongs" : "筑波大",
+    "affiliation" : "筑波大",
     "first" : 0
   }, {
     "presenid" : "G3-1",
     "name" : "天笠 俊之",
-    "belongs" : "筑波大",
+    "affiliation" : "筑波大",
     "first" : 0
   }, {
     "presenid" : "G3-1",
     "name" : "北川 博之",
-    "belongs" : "筑波大",
+    "affiliation" : "筑波大",
     "first" : 0
   }, {
     "presenid" : "G3-2",
     "name" : "加藤 千裕",
-    "belongs" : "東大",
+    "affiliation" : "東大",
     "first" : 1
   }, {
     "presenid" : "G3-2",
     "name" : "早水 悠登",
-    "belongs" : "東大",
+    "affiliation" : "東大",
     "first" : 0
   }, {
     "presenid" : "G3-2",
     "name" : "合田 和生",
-    "belongs" : "東大",
+    "affiliation" : "東大",
     "first" : 0
   }, {
     "presenid" : "G3-2",
     "name" : "喜連川 優",
-    "belongs" : "東大",
+    "affiliation" : "東大",
     "first" : 0
   }, {
     "presenid" : "G3-3",
     "name" : "山室 健",
-    "belongs" : "NTT",
+    "affiliation" : "NTT",
     "first" : 1
   }, {
     "presenid" : "G3-3",
     "name" : "鬼塚 真",
-    "belongs" : "阪大",
+    "affiliation" : "阪大",
     "first" : 0
   }, {
     "presenid" : "G3-3",
     "name" : "本庄 利守",
-    "belongs" : "NTT",
+    "affiliation" : "NTT",
     "first" : 0
   }, {
     "presenid" : "G3-4",
     "name" : "中澤 正和",
-    "belongs" : "東工大",
+    "affiliation" : "東工大",
     "first" : 1
   }, {
     "presenid" : "G3-4",
     "name" : "西 方",
-    "belongs" : "東工大",
+    "affiliation" : "東工大",
     "first" : 0
   }, {
     "presenid" : "G3-4",
     "name" : "荒堀 喜貴",
-    "belongs" : "東工大",
+    "affiliation" : "東工大",
     "first" : 0
   }, {
     "presenid" : "G3-4",
     "name" : "横田 治夫",
-    "belongs" : "東工大",
+    "affiliation" : "東工大",
     "first" : 0
   }, {
     "presenid" : "G3-5",
     "name" : "黄 峻",
-    "belongs" : "筑波大",
+    "affiliation" : "筑波大",
     "first" : 1
   }, {
     "presenid" : "G3-5",
     "name" : "小澤 祐介",
-    "belongs" : "筑波大",
+    "affiliation" : "筑波大",
     "first" : 0
   }, {
     "presenid" : "G3-5",
     "name" : "天笠 俊之",
-    "belongs" : "筑波大",
+    "affiliation" : "筑波大",
     "first" : 0
   }, {
     "presenid" : "G3-5",
     "name" : "北川 博之",
-    "belongs" : "筑波大",
+    "affiliation" : "筑波大",
     "first" : 0
   }, {
     "presenid" : "G3-6",
     "name" : "森谷 祐介",
-    "belongs" : "東工大",
+    "affiliation" : "東工大",
     "first" : 1
   }, {
     "presenid" : "G3-6",
     "name" : "欅 惇志",
-    "belongs" : "東工大",
+    "affiliation" : "東工大",
     "first" : 0
   }, {
     "presenid" : "G3-6",
     "name" : "宮崎 純",
-    "belongs" : "東工大",
+    "affiliation" : "東工大",
     "first" : 0
   }, {
     "presenid" : "G4-1",
     "name" : "王 萌萌",
-    "belongs" : "早大",
+    "affiliation" : "早大",
     "first" : 1
   }, {
     "presenid" : "G4-1",
     "name" : "岩井原 瑞穂",
-    "belongs" : "早大",
+    "affiliation" : "早大",
     "first" : 0
   }, {
     "presenid" : "G4-2",
     "name" : "林 佑磨",
-    "belongs" : "早大",
+    "affiliation" : "早大",
     "first" : 1
   }, {
     "presenid" : "G4-2",
     "name" : "諏訪 晴士",
-    "belongs" : "株式会社ジーニー",
+    "affiliation" : "株式会社ジーニー",
     "first" : 0
   }, {
     "presenid" : "G4-2",
     "name" : "山名 早人",
-    "belongs" : "早大",
+    "affiliation" : "早大",
     "first" : 0
   }, {
     "presenid" : "G4-3",
     "name" : "坂本 翔平",
-    "belongs" : "神戸大",
+    "affiliation" : "神戸大",
     "first" : 1
   }, {
     "presenid" : "G4-3",
     "name" : "江口 浩二",
-    "belongs" : "神戸大",
+    "affiliation" : "神戸大",
     "first" : 0
   }, {
     "presenid" : "G4-4",
     "name" : "大田垣 翔",
-    "belongs" : "九大",
+    "affiliation" : "九大",
     "first" : 1
   }, {
     "presenid" : "G4-4",
     "name" : "牛尼 剛聡",
-    "belongs" : "九大",
+    "affiliation" : "九大",
     "first" : 0
   }, {
     "presenid" : "G4-4",
     "name" : "角谷 和俊",
-    "belongs" : "兵庫県立大",
+    "affiliation" : "兵庫県立大",
     "first" : 0
   }, {
     "presenid" : "G4-5",
     "name" : "岡本 里夏",
-    "belongs" : "総研大／NII",
+    "affiliation" : "総研大／NII",
     "first" : 1
   }, {
     "presenid" : "G4-5",
     "name" : "Garkavijs Viktors",
-    "belongs" : "総研大／NII",
+    "affiliation" : "総研大／NII",
     "first" : 0
   }, {
     "presenid" : "G4-5",
     "name" : "大山 敬三",
-    "belongs" : "NII／総研大",
+    "affiliation" : "NII／総研大",
     "first" : 0
   }, {
     "presenid" : "G4-6",
     "name" : "山本 直史",
-    "belongs" : "工学院大",
+    "affiliation" : "工学院大",
     "first" : 1
   }, {
     "presenid" : "G4-6",
     "name" : "小林 亜樹",
-    "belongs" : "工学院大",
+    "affiliation" : "工学院大",
     "first" : 0
   }, {
     "presenid" : "C1-1",
     "name" : "中岡 義貴",
-    "belongs" : "筑波大学",
+    "affiliation" : "筑波大学",
     "first" : 1
   }, {
     "presenid" : "C1-1",
     "name" : "佐藤 哲司",
-    "belongs" : "筑波大学",
+    "affiliation" : "筑波大学",
     "first" : 0
   }, {
     "presenid" : "C1-2",
     "name" : "染谷 侑希",
-    "belongs" : "工学院大学",
+    "affiliation" : "工学院大学",
     "first" : 1
   }, {
     "presenid" : "C1-2",
     "name" : "北山 大輔",
-    "belongs" : "工学院大学",
+    "affiliation" : "工学院大学",
     "first" : 0
   }, {
     "presenid" : "C1-3",
     "name" : "髙田 夏彦",
-    "belongs" : "京産大",
+    "affiliation" : "京産大",
     "first" : 1
   }, {
     "presenid" : "C1-3",
     "name" : "上田 真由美",
-    "belongs" : "流科大",
+    "affiliation" : "流科大",
     "first" : 0
   }, {
     "presenid" : "C1-3",
     "name" : "森下 幸俊",
-    "belongs" : "DNP",
+    "affiliation" : "DNP",
     "first" : 0
   }, {
     "presenid" : "C1-3",
     "name" : "中島 伸介",
-    "belongs" : "京産大",
+    "affiliation" : "京産大",
     "first" : 0
   }, {
     "presenid" : "C1-4",
     "name" : "小林 和暉",
-    "belongs" : "京産大",
+    "affiliation" : "京産大",
     "first" : 1
   }, {
     "presenid" : "C1-4",
     "name" : "宮森 恒",
-    "belongs" : "京産大",
+    "affiliation" : "京産大",
     "first" : 0
   }, {
     "presenid" : "C1-5",
     "name" : "吉藤 大貴",
-    "belongs" : "京産大",
+    "affiliation" : "京産大",
     "first" : 1
   }, {
     "presenid" : "C1-5",
     "name" : "宮森 恒",
-    "belongs" : "京産大",
+    "affiliation" : "京産大",
     "first" : 0
   }, {
     "presenid" : "C1-6",
     "name" : "門脇 拓也",
-    "belongs" : "京都大学",
+    "affiliation" : "京都大学",
     "first" : 1
   }, {
     "presenid" : "C1-6",
     "name" : "山肩 洋子",
-    "belongs" : "京都大学",
+    "affiliation" : "京都大学",
     "first" : 0
   }, {
     "presenid" : "C1-6",
     "name" : "田中 克己",
-    "belongs" : "京都大学",
+    "affiliation" : "京都大学",
     "first" : 0
   }, {
     "presenid" : "G5-1",
     "name" : "佐々木 夢",
-    "belongs" : "東工大",
+    "affiliation" : "東工大",
     "first" : 1
   }, {
     "presenid" : "G5-1",
     "name" : "荒堀 喜貴",
-    "belongs" : "東工大",
+    "affiliation" : "東工大",
     "first" : 0
   }, {
     "presenid" : "G5-1",
     "name" : "串間 宗夫",
-    "belongs" : "宮大",
+    "affiliation" : "宮大",
     "first" : 0
   }, {
     "presenid" : "G5-1",
     "name" : "荒木 賢二",
-    "belongs" : "宮大",
+    "affiliation" : "宮大",
     "first" : 0
   }, {
     "presenid" : "G5-1",
     "name" : "横田 治夫",
-    "belongs" : "東工大",
+    "affiliation" : "東工大",
     "first" : 0
   }, {
     "presenid" : "G5-2",
     "name" : "竹内 裕之",
-    "belongs" : "高崎健大",
+    "affiliation" : "高崎健大",
     "first" : 1
   }, {
     "presenid" : "G5-2",
     "name" : "児玉 直樹",
-    "belongs" : "高崎健大",
+    "affiliation" : "高崎健大",
     "first" : 0
   }, {
     "presenid" : "G5-2",
     "name" : "高橋 真悟",
-    "belongs" : "高崎健大大学院",
+    "affiliation" : "高崎健大大学院",
     "first" : 0
   }, {
     "presenid" : "G5-3",
     "name" : "三上 拓也",
-    "belongs" : "早大",
+    "affiliation" : "早大",
     "first" : 1
   }, {
     "presenid" : "G5-3",
     "name" : "野口 保",
-    "belongs" : "明治薬科大学",
+    "affiliation" : "明治薬科大学",
     "first" : 0
   }, {
     "presenid" : "G5-3",
     "name" : "菅野 敦之",
-    "belongs" : "明治薬科大学",
+    "affiliation" : "明治薬科大学",
     "first" : 0
   }, {
     "presenid" : "G5-3",
     "name" : "山名 早人",
-    "belongs" : "早稲田大学",
+    "affiliation" : "早稲田大学",
     "first" : 0
   }, {
     "presenid" : "G5-4",
     "name" : "児玉 直樹",
-    "belongs" : "高崎健大",
+    "affiliation" : "高崎健大",
     "first" : 1
   }, {
     "presenid" : "G5-4",
     "name" : "川瀬 康裕",
-    "belongs" : "川瀬神経内科クリニック",
+    "affiliation" : "川瀬神経内科クリニック",
     "first" : 0
   }, {
     "presenid" : "G5-4",
     "name" : "竹内 裕之",
-    "belongs" : "高崎健大",
+    "affiliation" : "高崎健大",
     "first" : 0
   }, {
     "presenid" : "G5-5",
     "name" : "澤野 良輔",
-    "belongs" : "京大",
+    "affiliation" : "京大",
     "first" : 1
   }, {
     "presenid" : "G5-5",
     "name" : "吉川 正俊",
-    "belongs" : "京大",
+    "affiliation" : "京大",
     "first" : 0
   }, {
     "presenid" : "G5-5",
     "name" : "濱崎 暁洋",
-    "belongs" : "北野病院",
+    "affiliation" : "北野病院",
     "first" : 0
   }, {
     "presenid" : "G5-5",
     "name" : "岡本 和也",
-    "belongs" : "京大病院",
+    "affiliation" : "京大病院",
     "first" : 0
   }, {
     "presenid" : "G5-5",
     "name" : "黒田 知宏",
-    "belongs" : "京大病院",
+    "affiliation" : "京大病院",
     "first" : 0
   }, {
     "presenid" : "G5-6",
     "name" : "西谷 静姫",
-    "belongs" : "神奈工大",
+    "affiliation" : "神奈工大",
     "first" : 1
   }, {
     "presenid" : "G5-6",
     "name" : "鷹野 孝典",
-    "belongs" : "神奈工大",
+    "affiliation" : "神奈工大",
     "first" : 0
   }, {
     "presenid" : "C2-1",
     "name" : "佐崎 悠",
-    "belongs" : "阪大",
+    "affiliation" : "阪大",
     "first" : 1
   }, {
     "presenid" : "C2-1",
     "name" : "神崎 映光",
-    "belongs" : "島大",
+    "affiliation" : "島大",
     "first" : 0
   }, {
     "presenid" : "C2-1",
     "name" : "原 隆浩",
-    "belongs" : "阪大",
+    "affiliation" : "阪大",
     "first" : 0
   }, {
     "presenid" : "C2-1",
     "name" : "西尾 章治郎",
-    "belongs" : "阪大",
+    "affiliation" : "阪大",
     "first" : 0
   }, {
     "presenid" : "C2-2",
     "name" : "早川 愛",
-    "belongs" : "お茶大",
+    "affiliation" : "お茶大",
     "first" : 1
   }, {
     "presenid" : "C2-2",
     "name" : "山口 実靖",
-    "belongs" : "工学院大",
+    "affiliation" : "工学院大",
     "first" : 0
   }, {
     "presenid" : "C2-2",
     "name" : "小口 正人",
-    "belongs" : "お茶大",
+    "affiliation" : "お茶大",
     "first" : 0
   }, {
     "presenid" : "C2-3",
     "name" : "本橋 史帆",
-    "belongs" : "お茶大",
+    "affiliation" : "お茶大",
     "first" : 1
   }, {
     "presenid" : "C2-3",
     "name" : "高井 峰生",
-    "belongs" : "UCLA",
+    "affiliation" : "UCLA",
     "first" : 0
   }, {
     "presenid" : "C2-3",
     "name" : "前野 誉",
-    "belongs" : "STE",
+    "affiliation" : "STE",
     "first" : 0
   }, {
     "presenid" : "C2-3",
     "name" : "黒崎 裕子",
-    "belongs" : "お茶大",
+    "affiliation" : "お茶大",
     "first" : 0
   }, {
     "presenid" : "C2-3",
     "name" : "小口 正人",
-    "belongs" : "お茶大",
+    "affiliation" : "お茶大",
     "first" : 0
   }, {
     "presenid" : "C2-4",
     "name" : "磯村 美友",
-    "belongs" : "お茶大",
+    "affiliation" : "お茶大",
     "first" : 1
   }, {
     "presenid" : "C2-4",
     "name" : "三好 一徳",
-    "belongs" : "NEC",
+    "affiliation" : "NEC",
     "first" : 0
   }, {
     "presenid" : "C2-4",
     "name" : "村瀬 勉",
-    "belongs" : "NEC",
+    "affiliation" : "NEC",
     "first" : 0
   }, {
     "presenid" : "C2-4",
     "name" : "小口 正人",
-    "belongs" : "お茶大",
+    "affiliation" : "お茶大",
     "first" : 0
   }, {
     "presenid" : "C2-5",
     "name" : "松尾 和哉",
-    "belongs" : "阪大",
+    "affiliation" : "阪大",
     "first" : 1
   }, {
     "presenid" : "C2-5",
     "name" : "後藤 啓介",
-    "belongs" : "阪大",
+    "affiliation" : "阪大",
     "first" : 0
   }, {
     "presenid" : "C2-5",
     "name" : "神崎 映光",
-    "belongs" : "島大",
+    "affiliation" : "島大",
     "first" : 0
   }, {
     "presenid" : "C2-5",
     "name" : "原 隆浩",
-    "belongs" : "阪大",
+    "affiliation" : "阪大",
     "first" : 0
   }, {
     "presenid" : "C2-5",
     "name" : "西尾 章治郎",
-    "belongs" : "阪大",
+    "affiliation" : "阪大",
     "first" : 0
   }, {
     "presenid" : "C2-6",
     "name" : "川住 涼",
-    "belongs" : "阪大",
+    "affiliation" : "阪大",
     "first" : 1
   }, {
     "presenid" : "C2-6",
     "name" : "義久 智樹",
-    "belongs" : "阪大",
+    "affiliation" : "阪大",
     "first" : 0
   }, {
     "presenid" : "C2-6",
     "name" : "原 隆浩",
-    "belongs" : "阪大",
+    "affiliation" : "阪大",
     "first" : 0
   }, {
     "presenid" : "C2-6",
     "name" : "西尾 章治郎",
-    "belongs" : "阪大",
+    "affiliation" : "阪大",
     "first" : 0
   }, {
     "presenid" : "G6-1",
     "name" : "大野 亮仁",
-    "belongs" : "早大",
+    "affiliation" : "早大",
     "first" : 1
   }, {
     "presenid" : "G6-1",
     "name" : "藤 博幸",
-    "belongs" : "産総研",
+    "affiliation" : "産総研",
     "first" : 0
   }, {
     "presenid" : "G6-1",
     "name" : "山名 早人",
-    "belongs" : "早大",
+    "affiliation" : "早大",
     "first" : 0
   }, {
     "presenid" : "G6-2",
     "name" : "小池 智之",
-    "belongs" : "健大",
+    "affiliation" : "健大",
     "first" : 1
   }, {
     "presenid" : "G6-2",
     "name" : "児玉 直樹",
-    "belongs" : "健大",
+    "affiliation" : "健大",
     "first" : 0
   }, {
     "presenid" : "G6-2",
     "name" : "川瀬 康裕",
-    "belongs" : "川瀬神経内科クリニック",
+    "affiliation" : "川瀬神経内科クリニック",
     "first" : 0
   }, {
     "presenid" : "G6-2",
     "name" : "竹内 裕之",
-    "belongs" : "健大",
+    "affiliation" : "健大",
     "first" : 0
   }, {
     "presenid" : "G6-3",
     "name" : "高橋 真悟",
-    "belongs" : "高崎健康福祉大学大学院",
+    "affiliation" : "高崎健康福祉大学大学院",
     "first" : 1
   }, {
     "presenid" : "G6-3",
     "name" : "児玉 直樹",
-    "belongs" : "高崎健康福祉大学",
+    "affiliation" : "高崎健康福祉大学",
     "first" : 0
   }, {
     "presenid" : "G6-3",
     "name" : "小杉 尚子",
-    "belongs" : "高崎健康福祉大学",
+    "affiliation" : "高崎健康福祉大学",
     "first" : 0
   }, {
     "presenid" : "G6-3",
     "name" : "竹内 裕之",
-    "belongs" : "高崎健康福祉大学",
+    "affiliation" : "高崎健康福祉大学",
     "first" : 0
   }, {
     "presenid" : "G6-4",
     "name" : "玉田 雄基",
-    "belongs" : "筑波大学院",
+    "affiliation" : "筑波大学院",
     "first" : 1
   }, {
     "presenid" : "G6-4",
     "name" : " 佐藤 哲司",
-    "belongs" : "筑波大学院",
+    "affiliation" : "筑波大学院",
     "first" : 0
   }, {
     "presenid" : "G6-5",
     "name" : "武田 十季",
-    "belongs" : "NTT",
+    "affiliation" : "NTT",
     "first" : 1
   }, {
     "presenid" : "G6-5",
     "name" : "水野 理",
-    "belongs" : "NTT",
+    "affiliation" : "NTT",
     "first" : 0
   }, {
     "presenid" : "G6-5",
     "name" : "田中 智博",
-    "belongs" : "NTT",
+    "affiliation" : "NTT",
     "first" : 0
   }, {
     "presenid" : "G6-6",
     "name" : "花井 俊介",
-    "belongs" : "甲南大",
+    "affiliation" : "甲南大",
     "first" : 1
   }, {
     "presenid" : "G6-6",
     "name" : "難波 英嗣",
-    "belongs" : "広島市大",
+    "affiliation" : "広島市大",
     "first" : 0
   }, {
     "presenid" : "G6-6",
     "name" : "灘本 明代",
-    "belongs" : "甲南大",
+    "affiliation" : "甲南大",
     "first" : 0
   }, {
     "presenid" : "C3-1",
     "name" : "飯村 奈穂",
-    "belongs" : "お茶大",
+    "affiliation" : "お茶大",
     "first" : 1
   }, {
     "presenid" : "C3-1",
     "name" : "西川 記史",
-    "belongs" : "日立",
+    "affiliation" : "日立",
     "first" : 0
   }, {
     "presenid" : "C3-1",
     "name" : "中野 美由紀",
-    "belongs" : "芝浦工大",
+    "affiliation" : "芝浦工大",
     "first" : 0
   }, {
     "presenid" : "C3-1",
     "name" : "小口 正人",
-    "belongs" : "お茶大",
+    "affiliation" : "お茶大",
     "first" : 0
   }, {
     "presenid" : "C3-2",
     "name" : "高橋 由佳",
-    "belongs" : "早大",
+    "affiliation" : "早大",
     "first" : 1
   }, {
     "presenid" : "C3-2",
     "name" : "藤本 悠",
-    "belongs" : "早大",
+    "affiliation" : "早大",
     "first" : 0
   }, {
     "presenid" : "C3-2",
     "name" : "林 泰弘",
-    "belongs" : "早大",
+    "affiliation" : "早大",
     "first" : 0
   }, {
     "presenid" : "C3-3",
     "name" : "西本 直樹",
-    "belongs" : "横浜国立大学",
+    "affiliation" : "横浜国立大学",
     "first" : 1
   }, {
     "presenid" : "C3-3",
     "name" : "高橋 慶多",
-    "belongs" : "横浜国立大学",
+    "affiliation" : "横浜国立大学",
     "first" : 0
   }, {
     "presenid" : "C3-3",
     "name" : "北島 大",
-    "belongs" : "横浜国立大学",
+    "affiliation" : "横浜国立大学",
     "first" : 0
   }, {
     "presenid" : "C3-3",
     "name" : "本藤 祐樹",
-    "belongs" : "横浜国立大学",
+    "affiliation" : "横浜国立大学",
     "first" : 0
   }, {
     "presenid" : "C3-3",
     "name" : "富井 尚志",
-    "belongs" : "横浜国立大学",
+    "affiliation" : "横浜国立大学",
     "first" : 0
   }, {
     "presenid" : "C3-4",
     "name" : "細澤 直人",
-    "belongs" : "横浜国立大学",
+    "affiliation" : "横浜国立大学",
     "first" : 1
   }, {
     "presenid" : "C3-4",
     "name" : "高橋 慶多",
-    "belongs" : "横浜国立大学",
+    "affiliation" : "横浜国立大学",
     "first" : 0
   }, {
     "presenid" : "C3-4",
     "name" : "本藤 祐樹",
-    "belongs" : "横浜国立大学",
+    "affiliation" : "横浜国立大学",
     "first" : 0
   }, {
     "presenid" : "C3-4",
     "name" : "富井 尚志",
-    "belongs" : "横浜国立大学",
+    "affiliation" : "横浜国立大学",
     "first" : 0
   }, {
     "presenid" : "C3-5",
     "name" : "讃井 崚",
-    "belongs" : "横浜国立大学",
+    "affiliation" : "横浜国立大学",
     "first" : 1
   }, {
     "presenid" : "C3-5",
     "name" : "吉本 亘汰",
-    "belongs" : "横浜国立大学",
+    "affiliation" : "横浜国立大学",
     "first" : 0
   }, {
     "presenid" : "C3-5",
     "name" : "柏原 勇太",
-    "belongs" : "横浜国立大学",
+    "affiliation" : "横浜国立大学",
     "first" : 0
   }, {
     "presenid" : "C3-5",
     "name" : "川沼 大輝",
-    "belongs" : "横浜国立大学",
+    "affiliation" : "横浜国立大学",
     "first" : 0
   }, {
     "presenid" : "C3-5",
     "name" : "萩本 真太朗",
-    "belongs" : "横浜国立大学",
+    "affiliation" : "横浜国立大学",
     "first" : 0
   }, {
     "presenid" : "C3-5",
     "name" : "富井 尚志",
-    "belongs" : "横浜国立大学",
+    "affiliation" : "横浜国立大学",
     "first" : 0
   }, {
     "presenid" : "G7-1",
     "name" : "久保田 麻美",
-    "belongs" : "九大",
+    "affiliation" : "九大",
     "first" : 0
   }, {
     "presenid" : "G7-1",
     "name" : "牛尼 剛聡",
-    "belongs" : "九大",
+    "affiliation" : "九大",
     "first" : 1
   }, {
     "presenid" : "G7-2",
     "name" : "峯 祥平",
-    "belongs" : "工学院大学大学院",
+    "affiliation" : "工学院大学大学院",
     "first" : 1
   }, {
     "presenid" : "G7-2",
     "name" : "北山 大輔",
-    "belongs" : "工学院大学",
+    "affiliation" : "工学院大学",
     "first" : 0
   }, {
     "presenid" : "G7-3",
     "name" : "前田 剛",
-    "belongs" : "広市大",
+    "affiliation" : "広市大",
     "first" : 1
   }, {
     "presenid" : "G7-3",
     "name" : "難波 英嗣",
-    "belongs" : "広市大",
+    "affiliation" : "広市大",
     "first" : 0
   }, {
     "presenid" : "G7-3",
     "name" : "竹澤 寿幸",
-    "belongs" : "広市大",
+    "affiliation" : "広市大",
     "first" : 0
   }, {
     "presenid" : "G7-4",
     "name" : "島田 恵輔",
-    "belongs" : "広市大",
+    "affiliation" : "広市大",
     "first" : 1
   }, {
     "presenid" : "G7-4",
     "name" : "難波 英嗣",
-    "belongs" : "広市大",
+    "affiliation" : "広市大",
     "first" : 0
   }, {
     "presenid" : "G7-4",
     "name" : "竹澤 寿幸",
-    "belongs" : "広市大",
+    "affiliation" : "広市大",
     "first" : 0
   }, {
     "presenid" : "G7-4",
     "name" : "石野 亜耶",
-    "belongs" : "広経大",
+    "affiliation" : "広経大",
     "first" : 0
   }, {
     "presenid" : "G7-5",
     "name" : "藤井 一輝",
-    "belongs" : "広島市立大学大学院",
+    "affiliation" : "広島市立大学大学院",
     "first" : 1
   }, {
     "presenid" : "G7-5",
     "name" : "難波 英嗣",
-    "belongs" : "広島市立大学大学院",
+    "affiliation" : "広島市立大学大学院",
     "first" : 0
   }, {
     "presenid" : "G7-5",
     "name" : "竹澤 寿幸",
-    "belongs" : "広島市立大学大学院",
+    "affiliation" : "広島市立大学大学院",
     "first" : 0
   }, {
     "presenid" : "G7-5",
     "name" : "石野 亜耶",
-    "belongs" : "広島経済大学",
+    "affiliation" : "広島経済大学",
     "first" : 0
   }, {
     "presenid" : "G7-6",
     "name" : "新井 晃平",
-    "belongs" : "岡大",
+    "affiliation" : "岡大",
     "first" : 1
   }, {
     "presenid" : "G7-6",
     "name" : "新妻 弘崇",
-    "belongs" : "岡大",
+    "affiliation" : "岡大",
     "first" : 0
   }, {
     "presenid" : "G7-6",
     "name" : "太田 学",
-    "belongs" : "岡大",
+    "affiliation" : "岡大",
     "first" : 0
   }, {
     "presenid" : "C4-1",
     "name" : "鈴木 有",
-    "belongs" : "東大",
+    "affiliation" : "東大",
     "first" : 1
   }, {
     "presenid" : "C4-1",
     "name" : "鍜治 伸裕",
-    "belongs" : "東大，NICT",
+    "affiliation" : "東大，NICT",
     "first" : 0
   }, {
     "presenid" : "C4-1",
     "name" : "吉永 直樹",
-    "belongs" : "東大，NICT",
+    "affiliation" : "東大，NICT",
     "first" : 0
   }, {
     "presenid" : "C4-1",
     "name" : "豊田 正史",
-    "belongs" : "東大",
+    "affiliation" : "東大",
     "first" : 0
   }, {
     "presenid" : "C4-2",
     "name" : "上村 卓也",
-    "belongs" : "阪大",
+    "affiliation" : "阪大",
     "first" : 1
   }, {
     "presenid" : "C4-2",
     "name" : "新田 直子",
-    "belongs" : "阪大",
+    "affiliation" : "阪大",
     "first" : 0
   }, {
     "presenid" : "C4-2",
     "name" : "馬場口 登",
-    "belongs" : "阪大",
+    "affiliation" : "阪大",
     "first" : 0
   }, {
     "presenid" : "C4-3",
     "name" : "佐伯 圭介",
-    "belongs" : "首都大",
+    "affiliation" : "首都大",
     "first" : 1
   }, {
     "presenid" : "C4-3",
     "name" : "遠藤 雅樹",
-    "belongs" : "首都大",
+    "affiliation" : "首都大",
     "first" : 0
   }, {
     "presenid" : "C4-3",
     "name" : "廣田 雅春",
-    "belongs" : "首都大",
+    "affiliation" : "首都大",
     "first" : 0
   }, {
     "presenid" : "C4-3",
     "name" : "倉田 陽平",
-    "belongs" : "首都大",
+    "affiliation" : "首都大",
     "first" : 0
   }, {
     "presenid" : "C4-3",
     "name" : "横山 昌平",
-    "belongs" : "静岡大",
+    "affiliation" : "静岡大",
     "first" : 0
   }, {
     "presenid" : "C4-3",
     "name" : "石川 博",
-    "belongs" : "首都大",
+    "affiliation" : "首都大",
     "first" : 0
   }, {
     "presenid" : "C4-4",
     "name" : "岩田 麻佑",
-    "belongs" : "株式会社KDDI研究所",
+    "affiliation" : "株式会社KDDI研究所",
     "first" : 1
   }, {
     "presenid" : "C4-4",
     "name" : "服部 元",
-    "belongs" : "株式会社KDDI研究所",
+    "affiliation" : "株式会社KDDI研究所",
     "first" : 0
   }, {
     "presenid" : "C4-4",
     "name" : "池田 和史",
-    "belongs" : "株式会社KDDI研究所",
+    "affiliation" : "株式会社KDDI研究所",
     "first" : 0
   }, {
     "presenid" : "C4-4",
     "name" : "滝嶋 康弘",
-    "belongs" : "株式会社KDDI研究所",
+    "affiliation" : "株式会社KDDI研究所",
     "first" : 0
   }, {
     "presenid" : "C4-5",
     "name" : "星川 祐人",
-    "belongs" : "筑波大学",
+    "affiliation" : "筑波大学",
     "first" : 1
   }, {
     "presenid" : "C4-5",
     "name" : "若林 啓",
-    "belongs" : "図書館情報メディア系",
+    "affiliation" : "図書館情報メディア系",
     "first" : 0
   }, {
     "presenid" : "G8-1",
     "name" : "森國 泰平",
-    "belongs" : "技科大",
+    "affiliation" : "技科大",
     "first" : 1
   }, {
     "presenid" : "G8-1",
     "name" : "吉田 光男",
-    "belongs" : "技科大",
+    "affiliation" : "技科大",
     "first" : 0
   }, {
     "presenid" : "G8-1",
     "name" : "岡部 正幸",
-    "belongs" : "技科大",
+    "affiliation" : "技科大",
     "first" : 0
   }, {
     "presenid" : "G8-1",
     "name" : "梅村 恭司",
-    "belongs" : "技科大",
+    "affiliation" : "技科大",
     "first" : 0
   }, {
     "presenid" : "G8-2",
     "name" : "原田 一慧",
-    "belongs" : "立命館大学",
+    "affiliation" : "立命館大学",
     "first" : 1
   }, {
     "presenid" : "G8-2",
     "name" : "木村 文則",
-    "belongs" : "立命館大学",
+    "affiliation" : "立命館大学",
     "first" : 0
   }, {
     "presenid" : "G8-2",
     "name" : "前田 亮",
-    "belongs" : "立命館大学",
+    "affiliation" : "立命館大学",
     "first" : 0
   }, {
     "presenid" : "G8-3",
     "name" : "野呂 勇太",
-    "belongs" : "静大",
+    "affiliation" : "静大",
     "first" : 1
   }, {
     "presenid" : "G8-3",
     "name" : "廣田 雅春",
-    "belongs" : "首都大",
+    "affiliation" : "首都大",
     "first" : 0
   }, {
     "presenid" : "G8-3",
     "name" : "野澤 浩樹",
-    "belongs" : "シーポイント",
+    "affiliation" : "シーポイント",
     "first" : 0
   }, {
     "presenid" : "G8-3",
     "name" : "横山 昌平",
-    "belongs" : "静大",
+    "affiliation" : "静大",
     "first" : 0
   }, {
     "presenid" : "G8-4",
     "name" : "篠原 正太",
-    "belongs" : "早大",
+    "affiliation" : "早大",
     "first" : 1
   }, {
     "presenid" : "G8-4",
     "name" : "上里 和也",
-    "belongs" : "早大",
+    "affiliation" : "早大",
     "first" : 0
   }, {
     "presenid" : "G8-4",
     "name" : "山名 早人",
-    "belongs" : "早大",
+    "affiliation" : "早大",
     "first" : 0
   }, {
     "presenid" : "G8-5",
     "name" : "下吉 珠奈",
-    "belongs" : "筑波大",
+    "affiliation" : "筑波大",
     "first" : 1
   }, {
     "presenid" : "G8-5",
     "name" : "関 洋平",
-    "belongs" : "筑波大",
+    "affiliation" : "筑波大",
     "first" : 0
   }, {
     "presenid" : "G8-6",
     "name" : "伊川 洋平",
-    "belongs" : "日本IBM",
+    "affiliation" : "日本IBM",
     "first" : 1
   }, {
     "presenid" : "G8-6",
     "name" : "村上 明子",
-    "belongs" : "日本IBM",
+    "affiliation" : "日本IBM",
     "first" : 0
   }, {
     "presenid" : "C5-1",
     "name" : "星野 友亮",
-    "belongs" : "慶應義塾大学",
+    "affiliation" : "慶應義塾大学",
     "first" : 1
   }, {
     "presenid" : "C5-1",
     "name" : "木谷 将人",
-    "belongs" : "慶應義塾大学大学院",
+    "affiliation" : "慶應義塾大学大学院",
     "first" : 0
   }, {
     "presenid" : "C5-1",
     "name" : "五嶋 研人",
-    "belongs" : "慶應義塾大学大学院",
+    "affiliation" : "慶應義塾大学大学院",
     "first" : 0
   }, {
     "presenid" : "C5-1",
     "name" : "遠山 元道",
-    "belongs" : "慶應義塾大学",
+    "affiliation" : "慶應義塾大学",
     "first" : 0
   }, {
     "presenid" : "C5-2",
     "name" : "春野 健吾",
-    "belongs" : "慶大",
+    "affiliation" : "慶大",
     "first" : 1
   }, {
     "presenid" : "C5-2",
     "name" : "五嶋 研人",
-    "belongs" : "慶大",
+    "affiliation" : "慶大",
     "first" : 0
   }, {
     "presenid" : "C5-2",
     "name" : "遠山 元道",
-    "belongs" : "慶大",
+    "affiliation" : "慶大",
     "first" : 0
   }, {
     "presenid" : "C5-3",
     "name" : "松本 拓馬",
-    "belongs" : "工学院大学",
+    "affiliation" : "工学院大学",
     "first" : 1
   }, {
     "presenid" : "C5-3",
     "name" : "北山 大輔",
-    "belongs" : "工学院大学",
+    "affiliation" : "工学院大学",
     "first" : 0
   }, {
     "presenid" : "C5-4",
     "name" : "原 拓矢",
-    "belongs" : "京大",
+    "affiliation" : "京大",
     "first" : 1
   }, {
     "presenid" : "C5-4",
     "name" : "加藤 誠",
-    "belongs" : "京大",
+    "affiliation" : "京大",
     "first" : 0
   }, {
     "presenid" : "C5-4",
     "name" : "田中 克己",
-    "belongs" : "京大",
+    "affiliation" : "京大",
     "first" : 0
   }, {
     "presenid" : "C5-5",
     "name" : "北口 善紀",
-    "belongs" : "京大",
+    "affiliation" : "京大",
     "first" : 1
   }, {
     "presenid" : "C5-5",
     "name" : "大島 裕明",
-    "belongs" : "京大",
+    "affiliation" : "京大",
     "first" : 0
   }, {
     "presenid" : "C5-5",
     "name" : "田中 克己",
-    "belongs" : "京大",
+    "affiliation" : "京大",
     "first" : 0
   }, {
     "presenid" : "C6-1",
     "name" : "丹治 寛佳",
-    "belongs" : "筑波大",
+    "affiliation" : "筑波大",
     "first" : 1
   }, {
     "presenid" : "C6-1",
     "name" : "清水 伸幸",
-    "belongs" : "ヤフー",
+    "affiliation" : "ヤフー",
     "first" : 0
   }, {
     "presenid" : "C6-1",
     "name" : "森嶋 厚行",
-    "belongs" : "筑波大",
+    "affiliation" : "筑波大",
     "first" : 0
   }, {
     "presenid" : "C6-1",
     "name" : "北川 博之",
-    "belongs" : "筑波大",
+    "affiliation" : "筑波大",
     "first" : 0
   }, {
     "presenid" : "C6-2",
     "name" : "櫻井 恵美",
-    "belongs" : "筑波大学",
+    "affiliation" : "筑波大学",
     "first" : 1
   }, {
     "presenid" : "C6-2",
     "name" : "森嶋 厚行",
-    "belongs" : "筑波大学",
+    "affiliation" : "筑波大学",
     "first" : 0
   }, {
     "presenid" : "C6-2",
     "name" : "池田 光雪",
-    "belongs" : "筑波大学",
+    "affiliation" : "筑波大学",
     "first" : 0
   }, {
     "presenid" : "C6-2",
     "name" : "鈴木 伸崇",
-    "belongs" : "筑波大学",
+    "affiliation" : "筑波大学",
     "first" : 0
   }, {
     "presenid" : "C6-3",
     "name" : "平木 理恵",
-    "belongs" : "筑波大",
+    "affiliation" : "筑波大",
     "first" : 1
   }, {
     "presenid" : "C6-3",
     "name" : "森嶋 厚行",
-    "belongs" : "筑波大",
+    "affiliation" : "筑波大",
     "first" : 0
   }, {
     "presenid" : "C6-4",
     "name" : "羽田野 真由美",
-    "belongs" : "NTT",
+    "affiliation" : "NTT",
     "first" : 1
   }, {
     "presenid" : "C6-4",
     "name" : "中辻 真",
-    "belongs" : "NTT",
+    "affiliation" : "NTT",
     "first" : 0
   }, {
     "presenid" : "C6-4",
     "name" : "戸田 浩之",
-    "belongs" : "NTT",
+    "affiliation" : "NTT",
     "first" : 0
   }, {
     "presenid" : "C6-4",
     "name" : "小池 義昌",
-    "belongs" : "NTT",
+    "affiliation" : "NTT",
     "first" : 0
   }, {
     "presenid" : "C6-5",
     "name" : "趙 菁",
-    "belongs" : "名大",
+    "affiliation" : "名大",
     "first" : 1
   }, {
     "presenid" : "C6-5",
     "name" : "姜 仁河",
-    "belongs" : "名大",
+    "affiliation" : "名大",
     "first" : 0
   }, {
     "presenid" : "C6-5",
     "name" : "董 テイテイ",
-    "belongs" : "名大",
+    "affiliation" : "名大",
     "first" : 0
   }, {
     "presenid" : "C6-5",
     "name" : "佐々木 勇和",
-    "belongs" : "名大",
+    "affiliation" : "名大",
     "first" : 0
   }, {
     "presenid" : "C6-5",
     "name" : "肖 川",
-    "belongs" : "名大",
+    "affiliation" : "名大",
     "first" : 0
   }, {
     "presenid" : "C6-5",
     "name" : "石川 佳治",
-    "belongs" : "名大",
+    "affiliation" : "名大",
     "first" : 0
   }, {
     "presenid" : "C6-6",
     "name" : "今城 朋彬",
-    "belongs" : "九大",
+    "affiliation" : "九大",
     "first" : 1
   }, {
     "presenid" : "C6-6",
     "name" : "角谷 和俊",
-    "belongs" : "兵庫県立大",
+    "affiliation" : "兵庫県立大",
     "first" : 0
   }, {
     "presenid" : "C6-6",
     "name" : "牛尼 剛聡",
-    "belongs" : "九大",
+    "affiliation" : "九大",
     "first" : 0
   }, {
     "presenid" : "C7-1",
     "name" : "菅野 真生",
-    "belongs" : "首都大",
+    "affiliation" : "首都大",
     "first" : 1
   }, {
     "presenid" : "C7-1",
     "name" : "遠藤 雅樹",
-    "belongs" : "首都大",
+    "affiliation" : "首都大",
     "first" : 0
   }, {
     "presenid" : "C7-1",
     "name" : "廣田 雅春",
-    "belongs" : "首都大",
+    "affiliation" : "首都大",
     "first" : 0
   }, {
     "presenid" : "C7-1",
     "name" : "横山 昌平",
-    "belongs" : "静大",
+    "affiliation" : "静大",
     "first" : 0
   }, {
     "presenid" : "C7-1",
     "name" : "石川 博",
-    "belongs" : "首都大",
+    "affiliation" : "首都大",
     "first" : 0
   }, {
     "presenid" : "C7-2",
     "name" : "須藤 慧",
-    "belongs" : "早大",
+    "affiliation" : "早大",
     "first" : 1
   }, {
     "presenid" : "C7-2",
     "name" : "藤本 悠",
-    "belongs" : "早大",
+    "affiliation" : "早大",
     "first" : 0
   }, {
     "presenid" : "C7-2",
     "name" : "林 泰弘",
-    "belongs" : "早大",
+    "affiliation" : "早大",
     "first" : 0
   }, {
     "presenid" : "C7-3",
     "name" : "丸 千尋",
-    "belongs" : "お茶大",
+    "affiliation" : "お茶大",
     "first" : 1
   }, {
     "presenid" : "C7-3",
     "name" : "榎 美紀",
-    "belongs" : "日本IBM, お茶大",
+    "affiliation" : "日本IBM, お茶大",
     "first" : 0
   }, {
     "presenid" : "C7-3",
     "name" : "中尾 彰宏",
-    "belongs" : "東大",
+    "affiliation" : "東大",
     "first" : 0
   }, {
     "presenid" : "C7-3",
     "name" : "山本 周",
-    "belongs" : "東大",
+    "affiliation" : "東大",
     "first" : 0
   }, {
     "presenid" : "C7-3",
     "name" : "山口 実靖",
-    "belongs" : "工学院",
+    "affiliation" : "工学院",
     "first" : 0
   }, {
     "presenid" : "C7-3",
     "name" : "小口 正人",
-    "belongs" : "お茶大",
+    "affiliation" : "お茶大",
     "first" : 0
   }, {
     "presenid" : "C7-4",
     "name" : "村上 明子",
-    "belongs" : "日本IBM",
+    "affiliation" : "日本IBM",
     "first" : 1
   }, {
     "presenid" : "C7-4",
     "name" : "伊川 洋平",
-    "belongs" : "日本IBM",
+    "affiliation" : "日本IBM",
     "first" : 0
   }, {
     "presenid" : "C7-5",
     "name" : "高田 千暁",
-    "belongs" : "お茶大",
+    "affiliation" : "お茶大",
     "first" : 1
   }, {
     "presenid" : "C7-5",
     "name" : "黒崎 裕子",
-    "belongs" : "お茶大",
+    "affiliation" : "お茶大",
     "first" : 0
   }, {
     "presenid" : "C7-5",
     "name" : "高井 峰生",
-    "belongs" : "UCLA",
+    "affiliation" : "UCLA",
     "first" : 0
   }, {
     "presenid" : "C7-5",
     "name" : "小口 正人",
-    "belongs" : "お茶大",
+    "affiliation" : "お茶大",
     "first" : 0
   }, {
     "presenid" : "C7-6",
     "name" : "Nguyen Hoai Nam",
-    "belongs" : "東工大",
+    "affiliation" : "東工大",
     "first" : 1
   }, {
     "presenid" : "C7-6",
     "name" : "荒堀 喜貴",
-    "belongs" : "東工大",
+    "affiliation" : "東工大",
     "first" : 0
   }, {
     "presenid" : "C7-6",
     "name" : "横田 治夫",
-    "belongs" : "東工大",
+    "affiliation" : "東工大",
     "first" : 0
   }, {
     "presenid" : "C8-1",
     "name" : "岩佐 祐樹",
-    "belongs" : "静大",
+    "affiliation" : "静大",
     "first" : 1
   }, {
     "presenid" : "C8-1",
     "name" : "廣田 雅春",
-    "belongs" : "首都大",
+    "affiliation" : "首都大",
     "first" : 0
   }, {
     "presenid" : "C8-1",
     "name" : "石川 博",
-    "belongs" : "首都大",
+    "affiliation" : "首都大",
     "first" : 0
   }, {
     "presenid" : "C8-1",
     "name" : "横山 昌平",
-    "belongs" : "静大",
+    "affiliation" : "静大",
     "first" : 0
   }, {
     "presenid" : "C8-2",
     "name" : "三浦 惇貴",
-    "belongs" : "静大",
+    "affiliation" : "静大",
     "first" : 1
   }, {
     "presenid" : "C8-2",
     "name" : "廣田 雅春",
-    "belongs" : "首都大",
+    "affiliation" : "首都大",
     "first" : 0
   }, {
     "presenid" : "C8-2",
     "name" : "野澤 浩樹",
-    "belongs" : "シーポイント",
+    "affiliation" : "シーポイント",
     "first" : 0
   }, {
     "presenid" : "C8-2",
     "name" : "横山 昌平",
-    "belongs" : "静大",
+    "affiliation" : "静大",
     "first" : 0
   }, {
     "presenid" : "C8-3",
     "name" : "島田 諭",
-    "belongs" : "法政大学",
+    "affiliation" : "法政大学",
     "first" : 1
   }, {
     "presenid" : "C8-3",
     "name" : "大森 宏",
-    "belongs" : "東京大学",
+    "affiliation" : "東京大学",
     "first" : 0
   }, {
     "presenid" : "C8-3",
     "name" : "羽生 和紀",
-    "belongs" : "日本大学",
+    "affiliation" : "日本大学",
     "first" : 0
   }, {
     "presenid" : "C8-3",
     "name" : "山下 雅子",
-    "belongs" : "東京有明医療大学",
+    "affiliation" : "東京有明医療大学",
     "first" : 0
   }, {
     "presenid" : "C8-4",
     "name" : "高橋 正和",
-    "belongs" : "名大",
+    "affiliation" : "名大",
     "first" : 1
   }, {
     "presenid" : "C8-4",
     "name" : "簗井 美咲",
-    "belongs" : "名大",
+    "affiliation" : "名大",
     "first" : 0
   }, {
     "presenid" : "C8-4",
     "name" : "佐々木 勇和",
-    "belongs" : "名大",
+    "affiliation" : "名大",
     "first" : 0
   }, {
     "presenid" : "C8-4",
     "name" : "石川 佳治",
-    "belongs" : "名大",
+    "affiliation" : "名大",
     "first" : 0
   }, {
     "presenid" : "C8-5",
     "name" : "藤原 泰士",
-    "belongs" : "広市大",
+    "affiliation" : "広市大",
     "first" : 1
   }, {
     "presenid" : "C8-5",
     "name" : "難波 英嗣",
-    "belongs" : "広市大",
+    "affiliation" : "広市大",
     "first" : 0
   }, {
     "presenid" : "C8-5",
     "name" : "竹澤 寿幸",
-    "belongs" : "広市大",
+    "affiliation" : "広市大",
     "first" : 0
   }, {
     "presenid" : "C8-5",
     "name" : "石野 亜耶",
-    "belongs" : "広経大",
+    "affiliation" : "広経大",
     "first" : 0
   }, {
     "presenid" : "P1-1",
     "name" : "桂井 孝明",
-    "belongs" : "京産大",
+    "affiliation" : "京産大",
     "first" : 1
   }, {
     "presenid" : "P1-1",
     "name" : "濱田 恵輔",
-    "belongs" : "京産大",
+    "affiliation" : "京産大",
     "first" : 0
   }, {
     "presenid" : "P1-1",
     "name" : "中島 伸介",
-    "belongs" : "京産大",
+    "affiliation" : "京産大",
     "first" : 0
   }, {
     "presenid" : "P1-1",
     "name" : " 角谷 和俊",
-    "belongs" : "兵庫県立大学",
+    "affiliation" : "兵庫県立大学",
     "first" : 0
   }, {
     "presenid" : "P1-2",
     "name" : "坂本 瞭",
-    "belongs" : "京産大",
+    "affiliation" : "京産大",
     "first" : 1
   }, {
     "presenid" : "P1-2",
     "name" : "朝永 聖也",
-    "belongs" : "京産大",
+    "affiliation" : "京産大",
     "first" : 0
   }, {
     "presenid" : "P1-2",
     "name" : "中島 伸介",
-    "belongs" : "京産大",
+    "affiliation" : "京産大",
     "first" : 0
   }, {
     "presenid" : "P1-3",
     "name" : "葛谷 栞",
-    "belongs" : "京産大",
+    "affiliation" : "京産大",
     "first" : 1
   }, {
     "presenid" : "P1-3",
     "name" : "山﨑 隼也",
-    "belongs" : "京産大",
+    "affiliation" : "京産大",
     "first" : 0
   }, {
     "presenid" : "P1-3",
     "name" : "濱田 恵輔",
-    "belongs" : "京産大",
+    "affiliation" : "京産大",
     "first" : 0
   }, {
     "presenid" : "P1-3",
     "name" : "中島 伸介",
-    "belongs" : "京産大",
+    "affiliation" : "京産大",
     "first" : 0
   }, {
     "presenid" : "P1-4",
     "name" : "山口 由莉子",
-    "belongs" : "京都産業大学",
+    "affiliation" : "京都産業大学",
     "first" : 1
   }, {
     "presenid" : "P1-4",
     "name" : "朝永 聖也",
-    "belongs" : "京都産業大学",
+    "affiliation" : "京都産業大学",
     "first" : 0
   }, {
     "presenid" : "P1-4",
     "name" : "中島 伸介",
-    "belongs" : "京都産業大学",
+    "affiliation" : "京都産業大学",
     "first" : 0
   }, {
     "presenid" : "P1-4",
     "name" : "稲垣 陽一",
-    "belongs" : "株式会社きざしカンパニー",
+    "affiliation" : "株式会社きざしカンパニー",
     "first" : 0
   }, {
     "presenid" : "P1-4",
     "name" : "中本 レン",
-    "belongs" : "株式会社きざしカンパニー",
+    "affiliation" : "株式会社きざしカンパニー",
     "first" : 0
   }, {
     "presenid" : "P1-4",
     "name" : "森下 民平",
-    "belongs" : "株式会社きざしカンパニー",
+    "affiliation" : "株式会社きざしカンパニー",
     "first" : 0
   }, {
     "presenid" : "P1-5",
     "name" : "百々 健人",
-    "belongs" : "慶大",
+    "affiliation" : "慶大",
     "first" : 1
   }, {
     "presenid" : "P1-5",
     "name" : "清木 康",
-    "belongs" : "慶大",
+    "affiliation" : "慶大",
     "first" : 0
   }, {
     "presenid" : "P2-1",
     "name" : "岩館 洸太",
-    "belongs" : "北大",
+    "affiliation" : "北大",
     "first" : 1
   }, {
     "presenid" : "P2-1",
     "name" : "和佐 州洋",
-    "belongs" : "北大",
+    "affiliation" : "北大",
     "first" : 0
   }, {
     "presenid" : "P2-1",
     "name" : "有村 博紀",
-    "belongs" : "北大",
+    "affiliation" : "北大",
     "first" : 0
   }, {
     "presenid" : "P2-2",
     "name" : "高木 拓也",
-    "belongs" : "北大",
+    "affiliation" : "北大",
     "first" : 1
   }, {
     "presenid" : "P2-2",
     "name" : "有村 博紀",
-    "belongs" : "北大",
+    "affiliation" : "北大",
     "first" : 0
   }, {
     "presenid" : "P2-3",
     "name" : "常山 敬壱",
-    "belongs" : "慶應",
+    "affiliation" : "慶應",
     "first" : 1
   }, {
     "presenid" : "P2-3",
     "name" : "清木 康",
-    "belongs" : "慶應",
+    "affiliation" : "慶應",
     "first" : 0
   }, {
     "presenid" : "P2-4",
     "name" : "松永 知也",
-    "belongs" : "高知大",
+    "affiliation" : "高知大",
     "first" : 1
   }, {
     "presenid" : "P2-4",
     "name" : "本田 理恵",
-    "belongs" : "高知大",
+    "affiliation" : "高知大",
     "first" : 0
   }, {
     "presenid" : "P2-5",
     "name" : "森 啓太",
-    "belongs" : "高知大",
+    "affiliation" : "高知大",
     "first" : 1
   }, {
     "presenid" : "P2-5",
     "name" : "本田 理恵",
-    "belongs" : "高知大",
+    "affiliation" : "高知大",
     "first" : 0
   }, {
     "presenid" : "P3-1",
     "name" : "松波 友稀",
-    "belongs" : "京産大",
+    "affiliation" : "京産大",
     "first" : 1
   }, {
     "presenid" : "P3-1",
     "name" : "上田 真由美",
-    "belongs" : "流科大",
+    "affiliation" : "流科大",
     "first" : 0
   }, {
     "presenid" : "P3-1",
     "name" : "中島 伸介",
-    "belongs" : "京産大",
+    "affiliation" : "京産大",
     "first" : 0
   }, {
     "presenid" : "P3-2",
     "name" : "田川 和幸",
-    "belongs" : "京都産業大学",
+    "affiliation" : "京都産業大学",
     "first" : 1
   }, {
     "presenid" : "P3-2",
     "name" : "朝永 聖也",
-    "belongs" : "京都産業大学",
+    "affiliation" : "京都産業大学",
     "first" : 0
   }, {
     "presenid" : "P3-2",
     "name" : "中島 伸介",
-    "belongs" : "京都産業大学",
+    "affiliation" : "京都産業大学",
     "first" : 0
   }, {
     "presenid" : "P3-2",
     "name" : "稲垣 陽一",
-    "belongs" : "株式会社きざしカンパニー",
+    "affiliation" : "株式会社きざしカンパニー",
     "first" : 0
   }, {
     "presenid" : "P3-2",
     "name" : "中本 レン",
-    "belongs" : "株式会社きざしカンパニー",
+    "affiliation" : "株式会社きざしカンパニー",
     "first" : 0
   }, {
     "presenid" : "P3-2",
     "name" : "張 建偉",
-    "belongs" : "筑波技術大学",
+    "affiliation" : "筑波技術大学",
     "first" : 0
   }, {
     "presenid" : "P3-3",
     "name" : "王 元元",
-    "belongs" : "京都産業大学",
+    "affiliation" : "京都産業大学",
     "first" : 1
   }, {
     "presenid" : "P3-3",
     "name" : "山下 涼介",
-    "belongs" : "京都産業大学",
+    "affiliation" : "京都産業大学",
     "first" : 0
   }, {
     "presenid" : "P3-3",
     "name" : "河合 由起子",
-    "belongs" : "京都産業大学",
+    "affiliation" : "京都産業大学",
     "first" : 0
   }, {
     "presenid" : "P3-3",
     "name" : "宮本 節子",
-    "belongs" : "兵庫県立大学",
+    "affiliation" : "兵庫県立大学",
     "first" : 0
   }, {
     "presenid" : "P3-3",
     "name" : "角谷 和俊",
-    "belongs" : "兵庫県立大学",
+    "affiliation" : "兵庫県立大学",
     "first" : 0
   }, {
     "presenid" : "P3-4",
     "name" : "森下 雄太",
-    "belongs" : "大阪教育大",
+    "affiliation" : "大阪教育大",
     "first" : 1
   }, {
     "presenid" : "P3-4",
     "name" : "佐藤 隆士",
-    "belongs" : "大阪教育大",
+    "affiliation" : "大阪教育大",
     "first" : 0
   }, {
     "presenid" : "P3-4",
     "name" : "青木 真吾",
-    "belongs" : "大阪教育大",
+    "affiliation" : "大阪教育大",
     "first" : 0
   }, {
     "presenid" : "P3-5",
     "name" : "川元 杏珠",
-    "belongs" : "慶應義塾大学",
+    "affiliation" : "慶應義塾大学",
     "first" : 1
   }, {
     "presenid" : "P3-5",
     "name" : "清木 康",
-    "belongs" : "慶應義塾大学",
+    "affiliation" : "慶應義塾大学",
     "first" : 0
   }, {
     "presenid" : "P3-6",
     "name" : "林 佑明",
-    "belongs" : "早大",
+    "affiliation" : "早大",
     "first" : 1
   }, {
     "presenid" : "P3-6",
     "name" : "酒井 哲也",
-    "belongs" : "早大",
+    "affiliation" : "早大",
     "first" : 0
   }, {
     "presenid" : "P4-1",
     "name" : "小島 光平",
-    "belongs" : "神奈川工科大学",
+    "affiliation" : "神奈川工科大学",
     "first" : 1
   }, {
     "presenid" : "P4-1",
     "name" : "井上 拓馬",
-    "belongs" : "神奈川工科大学",
+    "affiliation" : "神奈川工科大学",
     "first" : 0
   }, {
     "presenid" : "P4-1",
     "name" : "村瀬 哲平",
-    "belongs" : "神奈川工科大学",
+    "affiliation" : "神奈川工科大学",
     "first" : 0
   }, {
     "presenid" : "P4-1",
     "name" : "蒔田 圭佑",
-    "belongs" : "神奈川工科大学大学院",
+    "affiliation" : "神奈川工科大学大学院",
     "first" : 0
   }, {
     "presenid" : "P4-1",
     "name" : "大塚 真吾",
-    "belongs" : "神奈川工科大学",
+    "affiliation" : "神奈川工科大学",
     "first" : 0
   }, {
     "presenid" : "P4-2",
     "name" : "青木 孝文",
-    "belongs" : "神奈川工科大学",
+    "affiliation" : "神奈川工科大学",
     "first" : 1
   }, {
     "presenid" : "P4-2",
     "name" : "杉崎 洋祐",
-    "belongs" : "神奈川工科大学",
+    "affiliation" : "神奈川工科大学",
     "first" : 0
   }, {
     "presenid" : "P4-2",
     "name" : "山岸 佑多",
-    "belongs" : "神奈川工科大学",
+    "affiliation" : "神奈川工科大学",
     "first" : 0
   }, {
     "presenid" : "P4-2",
     "name" : "大塚 真吾",
-    "belongs" : "神奈川工科大学",
+    "affiliation" : "神奈川工科大学",
     "first" : 0
   }, {
     "presenid" : "P4-3",
     "name" : "田家 花純",
-    "belongs" : "工学院大学",
+    "affiliation" : "工学院大学",
     "first" : 1
   }, {
     "presenid" : "P4-3",
     "name" : "北山 大輔",
-    "belongs" : "工学院大学",
+    "affiliation" : "工学院大学",
     "first" : 0
   }, {
     "presenid" : "P4-4",
     "name" : "川嵜 雅央",
-    "belongs" : "京産大",
+    "affiliation" : "京産大",
     "first" : 1
   }, {
     "presenid" : "P4-4",
     "name" : "赤崎 孝文",
-    "belongs" : "京産大",
+    "affiliation" : "京産大",
     "first" : 0
   }, {
     "presenid" : "P4-4",
     "name" : "小川 剛史",
-    "belongs" : "ATR",
+    "affiliation" : "ATR",
     "first" : 0
   }, {
     "presenid" : "P4-4",
     "name" : "鹿内 学",
-    "belongs" : "ATR",
+    "affiliation" : "ATR",
     "first" : 0
   }, {
     "presenid" : "P4-5",
     "name" : "西脇 達也",
-    "belongs" : "工学院大学",
+    "affiliation" : "工学院大学",
     "first" : 1
   }, {
     "presenid" : "P4-5",
     "name" : "北山 大輔",
-    "belongs" : "工学院大学",
+    "affiliation" : "工学院大学",
     "first" : 0
   }, {
     "presenid" : "D1-1",
     "name" : "濱﨑 邦秀",
-    "belongs" : "法大",
+    "affiliation" : "法大",
     "first" : 1
   }, {
     "presenid" : "D1-1",
     "name" : "三浦 孝夫",
-    "belongs" : "法大",
+    "affiliation" : "法大",
     "first" : 0
   }, {
     "presenid" : "D1-2",
     "name" : "奥村 直也",
-    "belongs" : "法大",
+    "affiliation" : "法大",
     "first" : 1
   }, {
     "presenid" : "D1-2",
     "name" : "三浦 孝夫",
-    "belongs" : "法大",
+    "affiliation" : "法大",
     "first" : 0
   }, {
     "presenid" : "D1-3",
     "name" : "及川 将仁",
-    "belongs" : "産技高専",
+    "affiliation" : "産技高専",
     "first" : 1
   }, {
     "presenid" : "D1-3",
     "name" : "小早川 倫広",
-    "belongs" : "産技高専",
+    "affiliation" : "産技高専",
     "first" : 0
   }, {
     "presenid" : "D1-4",
     "name" : "堀内 佑城",
-    "belongs" : "理科大",
+    "affiliation" : "理科大",
     "first" : 1
   }, {
     "presenid" : "D1-4",
     "name" : "輪島 幸治",
-    "belongs" : "産業技術大学院大学",
+    "affiliation" : "産業技術大学院大学",
     "first" : 0
   }, {
     "presenid" : "D1-4",
     "name" : "古川 利博",
-    "belongs" : "東京理科大学",
+    "affiliation" : "東京理科大学",
     "first" : 0
   }, {
     "presenid" : "D1-5",
     "name" : "鈴木 愛加",
-    "belongs" : "筑波大",
+    "affiliation" : "筑波大",
     "first" : 1
   }, {
     "presenid" : "D1-5",
     "name" : "関 洋平",
-    "belongs" : "筑波大",
+    "affiliation" : "筑波大",
     "first" : 0
   }, {
     "presenid" : "D1-6",
     "name" : "加瀬 雄一朗",
-    "belongs" : "法大",
+    "affiliation" : "法大",
     "first" : 1
   }, {
     "presenid" : "D1-6",
     "name" : "三浦 孝夫",
-    "belongs" : "法大",
+    "affiliation" : "法大",
     "first" : 0
   }, {
     "presenid" : "D2-1",
     "name" : "渡辺 知恵美",
-    "belongs" : "筑波大",
+    "affiliation" : "筑波大",
     "first" : 1
   }, {
     "presenid" : "D2-1",
     "name" : "今川 裕士",
-    "belongs" : "筑波大",
+    "affiliation" : "筑波大",
     "first" : 0
   }, {
     "presenid" : "D2-1",
     "name" : "古谷 翔太",
-    "belongs" : "筑波大",
+    "affiliation" : "筑波大",
     "first" : 0
   }, {
     "presenid" : "D2-1",
     "name" : "鄒 一民",
-    "belongs" : "筑波大",
+    "affiliation" : "筑波大",
     "first" : 0
   }, {
     "presenid" : "D2-1",
     "name" : "万 姗姗",
-    "belongs" : "筑波大",
+    "affiliation" : "筑波大",
     "first" : 0
   }, {
     "presenid" : "D2-1",
     "name" : "天笠 俊之",
-    "belongs" : "筑波大",
+    "affiliation" : "筑波大",
     "first" : 0
   }, {
     "presenid" : "D2-1",
     "name" : "木塚 あゆみ",
-    "belongs" : "未来大",
+    "affiliation" : "未来大",
     "first" : 0
   }, {
     "presenid" : "D2-2",
     "name" : "片岡 えり",
-    "belongs" : "筑波大",
+    "affiliation" : "筑波大",
     "first" : 1
   }, {
     "presenid" : "D2-2",
     "name" : "天笠 俊之",
-    "belongs" : "筑波大",
+    "affiliation" : "筑波大",
     "first" : 0
   }, {
     "presenid" : "D2-2",
     "name" : "Gass Franck",
-    "belongs" : "筑波大",
+    "affiliation" : "筑波大",
     "first" : 0
   }, {
     "presenid" : "D2-2",
     "name" : "北川 博之",
-    "belongs" : "筑波大",
+    "affiliation" : "筑波大",
     "first" : 0
   }, {
     "presenid" : "D2-3",
     "name" : "横山 大作",
-    "belongs" : "東大",
+    "affiliation" : "東大",
     "first" : 1
   }, {
     "presenid" : "D2-3",
     "name" : "伊藤 正彦",
-    "belongs" : "東大",
+    "affiliation" : "東大",
     "first" : 0
   }, {
     "presenid" : "D2-3",
     "name" : "豊田 正史",
-    "belongs" : "東大",
+    "affiliation" : "東大",
     "first" : 0
   }, {
     "presenid" : "D2-4",
     "name" : "飯田 真也",
-    "belongs" : "nitech",
+    "affiliation" : "nitech",
     "first" : 1
   }, {
     "presenid" : "D2-4",
     "name" : "立岩 佑一郎",
-    "belongs" : "nitech",
+    "affiliation" : "nitech",
     "first" : 0
   }, {
     "presenid" : "D2-4",
     "name" : "山本 大介",
-    "belongs" : "nitech",
+    "affiliation" : "nitech",
     "first" : 0
   }, {
     "presenid" : "D2-4",
     "name" : "高橋 直久",
-    "belongs" : "nitech",
+    "affiliation" : "nitech",
     "first" : 0
   }, {
     "presenid" : "D2-5",
     "name" : "伊藤 正彦",
-    "belongs" : "東大",
+    "affiliation" : "東大",
     "first" : 1
   }, {
     "presenid" : "D2-5",
     "name" : "横山 大作",
-    "belongs" : "東大",
+    "affiliation" : "東大",
     "first" : 0
   }, {
     "presenid" : "D2-5",
     "name" : "豊田 正史",
-    "belongs" : "東大",
+    "affiliation" : "東大",
     "first" : 0
   }, {
     "presenid" : "D2-6",
     "name" : "三富　 恵佑",
-    "belongs" : "首都大",
+    "affiliation" : "首都大",
     "first" : 1
   }, {
     "presenid" : "D2-6",
     "name" : "遠藤 雅樹",
-    "belongs" : "首都大",
+    "affiliation" : "首都大",
     "first" : 0
   }, {
     "presenid" : "D2-6",
     "name" : "廣田 雅春",
-    "belongs" : "首都大学",
+    "affiliation" : "首都大学",
     "first" : 0
   }, {
     "presenid" : "D2-6",
     "name" : "倉田 陽平",
-    "belongs" : "首都大",
+    "affiliation" : "首都大",
     "first" : 0
   }, {
     "presenid" : "D2-6",
     "name" : "横山 昌平",
-    "belongs" : "静大",
+    "affiliation" : "静大",
     "first" : 0
   }, {
     "presenid" : "D2-6",
     "name" : "石川 博",
-    "belongs" : "首都大",
+    "affiliation" : "首都大",
     "first" : 0
   }, {
     "presenid" : "D3-1",
     "name" : "今田 貴和",
-    "belongs" : "筑波大",
+    "affiliation" : "筑波大",
     "first" : 1
   }, {
     "presenid" : "D3-1",
     "name" : "守谷 一朗",
-    "belongs" : "筑波大学",
+    "affiliation" : "筑波大学",
     "first" : 0
   }, {
     "presenid" : "D3-1",
     "name" : "井上 祐輔",
-    "belongs" : "筑波大",
+    "affiliation" : "筑波大",
     "first" : 0
   }, {
     "presenid" : "D3-1",
     "name" : "宇津呂 武仁",
-    "belongs" : "筑波大",
+    "affiliation" : "筑波大",
     "first" : 0
   }, {
     "presenid" : "D3-1",
     "name" : "河田 容英",
-    "belongs" : "ログワークス",
+    "affiliation" : "ログワークス",
     "first" : 0
   }, {
     "presenid" : "D3-1",
     "name" : "神門 典子",
-    "belongs" : "NII",
+    "affiliation" : "NII",
     "first" : 0
   }, {
     "presenid" : "D3-2",
     "name" : "廣田 洋平",
-    "belongs" : "京大",
+    "affiliation" : "京大",
     "first" : 1
   }, {
     "presenid" : "D3-2",
     "name" : "山本 岳洋",
-    "belongs" : "京大",
+    "affiliation" : "京大",
     "first" : 0
   }, {
     "presenid" : "D3-2",
     "name" : "田中 克己",
-    "belongs" : "京大",
+    "affiliation" : "京大",
     "first" : 0
   }, {
     "presenid" : "D3-3",
     "name" : "趙 耕弘",
-    "belongs" : "九大",
+    "affiliation" : "九大",
     "first" : 1
   }, {
     "presenid" : "D3-3",
     "name" : "角谷 和俊",
-    "belongs" : "兵庫県立大",
+    "affiliation" : "兵庫県立大",
     "first" : 0
   }, {
     "presenid" : "D3-3",
     "name" : "牛尼 剛聡",
-    "belongs" : "九大",
+    "affiliation" : "九大",
     "first" : 0
   }, {
     "presenid" : "D3-4",
     "name" : "木村 湧志",
-    "belongs" : "工学院大学",
+    "affiliation" : "工学院大学",
     "first" : 1
   }, {
     "presenid" : "D3-4",
     "name" : "北山 大輔",
-    "belongs" : "工学院大学",
+    "affiliation" : "工学院大学",
     "first" : 0
   }, {
     "presenid" : "D3-5",
     "name" : "内田 臣了",
-    "belongs" : "京大",
+    "affiliation" : "京大",
     "first" : 1
   }, {
     "presenid" : "D3-5",
     "name" : "山本 岳洋",
-    "belongs" : "京大",
+    "affiliation" : "京大",
     "first" : 0
   }, {
     "presenid" : "D3-5",
     "name" : "加藤 誠",
-    "belongs" : "京大",
+    "affiliation" : "京大",
     "first" : 0
   }, {
     "presenid" : "D3-5",
     "name" : "大島 裕明",
-    "belongs" : "京大",
+    "affiliation" : "京大",
     "first" : 0
   }, {
     "presenid" : "D3-5",
     "name" : "田中 克己",
-    "belongs" : "京大",
+    "affiliation" : "京大",
     "first" : 0
   }, {
     "presenid" : "D3-6",
     "name" : "川本 淳平",
-    "belongs" : "九大",
+    "affiliation" : "九大",
     "first" : 1
   }, {
     "presenid" : "D3-6",
     "name" : "俵本  一輝",
-    "belongs" : "京大",
+    "affiliation" : "京大",
     "first" : 0
   }, {
     "presenid" : "D3-6",
     "name" : "浅野  泰仁",
-    "belongs" : "京大",
+    "affiliation" : "京大",
     "first" : 0
   }, {
     "presenid" : "D3-6",
     "name" : "吉川 正俊",
-    "belongs" : "京大",
+    "affiliation" : "京大",
     "first" : 0
   }, {
     "presenid" : "D4-1",
     "name" : "伊藤 淳",
-    "belongs" : "NTT",
+    "affiliation" : "NTT",
     "first" : 1
   }, {
     "presenid" : "D4-1",
     "name" : "宋 静",
-    "belongs" : "北大",
+    "affiliation" : "北大",
     "first" : 0
   }, {
     "presenid" : "D4-1",
     "name" : "戸田 浩之",
-    "belongs" : "NTT",
+    "affiliation" : "NTT",
     "first" : 0
   }, {
     "presenid" : "D4-1",
     "name" : "小池 義昌",
-    "belongs" : "NTT",
+    "affiliation" : "NTT",
     "first" : 0
   }, {
     "presenid" : "D4-1",
     "name" : "小山 聡",
-    "belongs" : "北大",
+    "affiliation" : "北大",
     "first" : 0
   }, {
     "presenid" : "D4-2",
     "name" : "吉次 優",
-    "belongs" : "岡大",
+    "affiliation" : "岡大",
     "first" : 1
   }, {
     "presenid" : "D4-2",
     "name" : "新妻 弘崇",
-    "belongs" : "岡大",
+    "affiliation" : "岡大",
     "first" : 0
   }, {
     "presenid" : "D4-2",
     "name" : "太田 学",
-    "belongs" : "岡大",
+    "affiliation" : "岡大",
     "first" : 0
   }, {
     "presenid" : "D4-3",
     "name" : "中村 晃",
-    "belongs" : "名大",
+    "affiliation" : "名大",
     "first" : 1
   }, {
     "presenid" : "D4-3",
     "name" : "鈴木 優",
-    "belongs" : "NAIST",
+    "affiliation" : "NAIST",
     "first" : 0
   }, {
     "presenid" : "D4-3",
     "name" : "石川 佳治",
-    "belongs" : "名大",
+    "affiliation" : "名大",
     "first" : 0
   }, {
     "presenid" : "D4-4",
     "name" : "興梠 紗和",
-    "belongs" : "法政大",
+    "affiliation" : "法政大",
     "first" : 1
   }, {
     "presenid" : "D4-4",
     "name" : "木村 昭悟",
-    "belongs" : "NTT",
+    "affiliation" : "NTT",
     "first" : 0
   }, {
     "presenid" : "D4-4",
     "name" : "藤代 裕之",
-    "belongs" : "法政大",
+    "affiliation" : "法政大",
     "first" : 0
   }, {
     "presenid" : "D4-4",
     "name" : "西川 仁",
-    "belongs" : "NTT",
+    "affiliation" : "NTT",
     "first" : 0
   }, {
     "presenid" : "D4-5",
     "name" : "清水 翔太",
-    "belongs" : "東大",
+    "affiliation" : "東大",
     "first" : 1
   }, {
     "presenid" : "D4-5",
     "name" : "豊田 正史",
-    "belongs" : "東大",
+    "affiliation" : "東大",
     "first" : 0
   }, {
     "presenid" : "D4-6",
     "name" : "藤 一鶴",
-    "belongs" : "明大",
+    "affiliation" : "明大",
     "first" : 1
   }, {
     "presenid" : "D4-6",
     "name" : "疋田 輝雄",
-    "belongs" : "明大",
+    "affiliation" : "明大",
     "first" : 0
   }, {
     "presenid" : "D5-1",
     "name" : "郭 元鎮",
-    "belongs" : "早大",
+    "affiliation" : "早大",
     "first" : 1
   }, {
     "presenid" : "D5-1",
     "name" : "岩井原 瑞穂",
-    "belongs" : "早大",
+    "affiliation" : "早大",
     "first" : 0
   }, {
     "presenid" : "D5-2",
     "name" : "韓 笑琳",
-    "belongs" : "早大",
+    "affiliation" : "早大",
     "first" : 1
   }, {
     "presenid" : "D5-2",
     "name" : "王 任之",
-    "belongs" : "早大",
+    "affiliation" : "早大",
     "first" : 0
   }, {
     "presenid" : "D5-2",
     "name" : "岩井原 瑞穂",
-    "belongs" : "早大",
+    "affiliation" : "早大",
     "first" : 0
   }, {
     "presenid" : "D5-3",
     "name" : "生田 史織",
-    "belongs" : "慶大",
+    "affiliation" : "慶大",
     "first" : 1
   }, {
     "presenid" : "D5-3",
     "name" : "遠山 元道",
-    "belongs" : "慶大",
+    "affiliation" : "慶大",
     "first" : 0
   }, {
     "presenid" : "D5-4",
     "name" : "Li Jiyi",
-    "belongs" : "京大",
+    "affiliation" : "京大",
     "first" : 1
   }, {
     "presenid" : "D5-4",
     "name" : "Shimizu Toshiyuki",
-    "belongs" : "京大",
+    "affiliation" : "京大",
     "first" : 0
   }, {
     "presenid" : "D5-4",
     "name" : "Asano Yasuhito",
-    "belongs" : "京大",
+    "affiliation" : "京大",
     "first" : 0
   }, {
     "presenid" : "D5-4",
     "name" : "Yoshikawa Masatoshi",
-    "belongs" : "京大",
+    "affiliation" : "京大",
     "first" : 0
   }, {
     "presenid" : "D5-5",
     "name" : "河野 慎",
-    "belongs" : "東大",
+    "affiliation" : "東大",
     "first" : 1
   }, {
     "presenid" : "D5-5",
     "name" : "遠藤 結城",
-    "belongs" : "NTT",
+    "affiliation" : "NTT",
     "first" : 0
   }, {
     "presenid" : "D5-5",
     "name" : "戸田 浩之",
-    "belongs" : "NTT",
+    "affiliation" : "NTT",
     "first" : 0
   }, {
     "presenid" : "D5-5",
     "name" : "小池 義昌",
-    "belongs" : "NTT",
+    "affiliation" : "NTT",
     "first" : 0
   }, {
     "presenid" : "D5-5",
     "name" : "植田 一博",
-    "belongs" : "東大",
+    "affiliation" : "東大",
     "first" : 0
   }, {
     "presenid" : "D5-6",
     "name" : "古堂 和音",
-    "belongs" : "北大",
+    "affiliation" : "北大",
     "first" : 1
   }, {
     "presenid" : "D5-6",
     "name" : "佐藤 晴彦",
-    "belongs" : "北大",
+    "affiliation" : "北大",
     "first" : 0
   }, {
     "presenid" : "D5-6",
     "name" : "小山 聡",
-    "belongs" : "北大",
+    "affiliation" : "北大",
     "first" : 0
   }, {
     "presenid" : "D5-6",
     "name" : "栗原 正仁",
-    "belongs" : "北大",
+    "affiliation" : "北大",
     "first" : 0
   }, {
     "presenid" : "D6-1",
     "name" : "清水 祐弥",
-    "belongs" : "工学院大",
+    "affiliation" : "工学院大",
     "first" : 1
   }, {
     "presenid" : "D6-1",
     "name" : "小林 亜樹",
-    "belongs" : "工学院大",
+    "affiliation" : "工学院大",
     "first" : 0
   }, {
     "presenid" : "D6-2",
     "name" : "大西 洋",
-    "belongs" : "京大",
+    "affiliation" : "京大",
     "first" : 1
   }, {
     "presenid" : "D6-2",
     "name" : "田島 敬史",
-    "belongs" : "京大",
+    "affiliation" : "京大",
     "first" : 0
   }, {
     "presenid" : "D6-3",
     "name" : "柴田 秀哉",
-    "belongs" : "三菱電機",
+    "affiliation" : "三菱電機",
     "first" : 1
   }, {
     "presenid" : "D6-3",
     "name" : "高山 茂伸",
-    "belongs" : "三菱電機",
+    "affiliation" : "三菱電機",
     "first" : 0
   }, {
     "presenid" : "D6-4",
     "name" : "水野 陽平",
-    "belongs" : "阪大",
+    "affiliation" : "阪大",
     "first" : 1
   }, {
     "presenid" : "D6-4",
     "name" : "岸田 吉弘",
-    "belongs" : "阪大",
+    "affiliation" : "阪大",
     "first" : 0
   }, {
     "presenid" : "D6-4",
     "name" : "荒瀬 由紀",
-    "belongs" : "阪大",
+    "affiliation" : "阪大",
     "first" : 0
   }, {
     "presenid" : "D6-4",
     "name" : "本庄 利守",
-    "belongs" : "NTT",
+    "affiliation" : "NTT",
     "first" : 0
   }, {
     "presenid" : "D6-4",
     "name" : "鬼塚 真",
-    "belongs" : "阪大",
+    "affiliation" : "阪大",
     "first" : 0
   }, {
     "presenid" : "D6-5",
     "name" : "中挾 晃介",
-    "belongs" : "筑波大",
+    "affiliation" : "筑波大",
     "first" : 1
   }, {
     "presenid" : "D6-5",
     "name" : "北川 博之",
-    "belongs" : "筑波大",
+    "affiliation" : "筑波大",
     "first" : 0
   }, {
     "presenid" : "D6-5",
     "name" : "Salman Ahmed Shaikh",
-    "belongs" : "筑波大",
+    "affiliation" : "筑波大",
     "first" : 0
   }, {
     "presenid" : "D6-5",
     "name" : "天笠 俊之",
-    "belongs" : "筑波大",
+    "affiliation" : "筑波大",
     "first" : 0
   }, {
     "presenid" : "D7-1",
     "name" : "清野 悠希",
-    "belongs" : "筑波大",
+    "affiliation" : "筑波大",
     "first" : 1
   }, {
     "presenid" : "D7-1",
     "name" : "佐藤 哲司",
-    "belongs" : "筑波大",
+    "affiliation" : "筑波大",
     "first" : 0
   }, {
     "presenid" : "D7-2",
     "name" : "宮城 雄太",
-    "belongs" : "岡大",
+    "affiliation" : "岡大",
     "first" : 1
   }, {
     "presenid" : "D7-2",
     "name" : "新妻 弘崇",
-    "belongs" : "岡大",
+    "affiliation" : "岡大",
     "first" : 0
   }, {
     "presenid" : "D7-2",
     "name" : "太田 学",
-    "belongs" : "岡大",
+    "affiliation" : "岡大",
     "first" : 0
   }, {
     "presenid" : "D7-3",
     "name" : "藤森 雅人",
-    "belongs" : "静大",
+    "affiliation" : "静大",
     "first" : 1
   }, {
     "presenid" : "D7-3",
     "name" : "廣田 雅春",
-    "belongs" : "首都大",
+    "affiliation" : "首都大",
     "first" : 0
   }, {
     "presenid" : "D7-3",
     "name" : "石川 博",
-    "belongs" : "首都大",
+    "affiliation" : "首都大",
     "first" : 0
   }, {
     "presenid" : "D7-3",
     "name" : "横山 昌平",
-    "belongs" : "静大",
+    "affiliation" : "静大",
     "first" : 0
   }, {
     "presenid" : "D7-4",
     "name" : "安東 翔",
-    "belongs" : "慶應義塾大学",
+    "affiliation" : "慶應義塾大学",
     "first" : 1
   }, {
     "presenid" : "D7-4",
     "name" : "遠山 元道",
-    "belongs" : "慶應義塾大学",
+    "affiliation" : "慶應義塾大学",
     "first" : 0
   }, {
     "presenid" : "D7-5",
     "name" : "遠藤 雅樹",
-    "belongs" : "職業大、首都大",
+    "affiliation" : "職業大、首都大",
     "first" : 1
   }, {
     "presenid" : "D7-5",
     "name" : "廣田 雅春",
-    "belongs" : "首都大",
+    "affiliation" : "首都大",
     "first" : 0
   }, {
     "presenid" : "D7-5",
     "name" : "倉田 陽平",
-    "belongs" : "首都大",
+    "affiliation" : "首都大",
     "first" : 0
   }, {
     "presenid" : "D7-5",
     "name" : "横山 昌平",
-    "belongs" : "静岡大",
+    "affiliation" : "静岡大",
     "first" : 0
   }, {
     "presenid" : "D7-5",
     "name" : "大野 成義",
-    "belongs" : "職業大",
+    "affiliation" : "職業大",
     "first" : 0
   }, {
     "presenid" : "D7-5",
     "name" : "石川 博",
-    "belongs" : "首都大",
+    "affiliation" : "首都大",
     "first" : 0
   }, {
     "presenid" : "D7-6",
     "name" : "出口 萌子",
-    "belongs" : "慶應大学",
+    "affiliation" : "慶應大学",
     "first" : 1
   }, {
     "presenid" : "D7-6",
     "name" : "北 和人",
-    "belongs" : "慶應大学",
+    "affiliation" : "慶應大学",
     "first" : 0
   }, {
     "presenid" : "D7-6",
     "name" : "遠山 元道",
-    "belongs" : "慶應大学",
+    "affiliation" : "慶應大学",
     "first" : 0
   }, {
     "presenid" : "D8-1",
     "name" : "奥野 峻弥",
-    "belongs" : "早稲田大学",
+    "affiliation" : "早稲田大学",
     "first" : 1
   }, {
     "presenid" : "D8-1",
     "name" : "浅井 洋樹",
-    "belongs" : "早稲田大学",
+    "affiliation" : "早稲田大学",
     "first" : 0
   }, {
     "presenid" : "D8-1",
     "name" : "山名 早人",
-    "belongs" : "早稲田大学／国立情報学研究所",
+    "affiliation" : "早稲田大学／国立情報学研究所",
     "first" : 0
   }, {
     "presenid" : "D8-2",
     "name" : "藤井 聡佳",
-    "belongs" : "お茶大",
+    "affiliation" : "お茶大",
     "first" : 1
   }, {
     "presenid" : "D8-2",
     "name" : "村瀬 勉",
-    "belongs" : "NEC",
+    "affiliation" : "NEC",
     "first" : 0
   }, {
     "presenid" : "D8-2",
     "name" : "Lua Eng Keong",
-    "belongs" : "NECラボラトリーズシンガポール",
+    "affiliation" : "NECラボラトリーズシンガポール",
     "first" : 0
   }, {
     "presenid" : "D8-2",
     "name" : "小口 正人",
-    "belongs" : "お茶大",
+    "affiliation" : "お茶大",
     "first" : 0
   }, {
     "presenid" : "D8-3",
     "name" : "柘植 大",
-    "belongs" : "筑波大学",
+    "affiliation" : "筑波大学",
     "first" : 1
   }, {
     "presenid" : "D8-3",
     "name" : "佐藤 哲司",
-    "belongs" : "筑波大学",
+    "affiliation" : "筑波大学",
     "first" : 0
   }, {
     "presenid" : "D8-4",
     "name" : "鴨下 海人",
-    "belongs" : "工学院大学",
+    "affiliation" : "工学院大学",
     "first" : 1
   }, {
     "presenid" : "D8-4",
     "name" : "北山 大輔",
-    "belongs" : "工学院大学",
+    "affiliation" : "工学院大学",
     "first" : 0
   }, {
     "presenid" : "D8-5",
     "name" : "上里 和也",
-    "belongs" : "早稲田大学",
+    "affiliation" : "早稲田大学",
     "first" : 1
   }, {
     "presenid" : "D8-5",
     "name" : "浅井 洋樹",
-    "belongs" : "早稲田大学",
+    "affiliation" : "早稲田大学",
     "first" : 0
   }, {
     "presenid" : "D8-5",
     "name" : "奥野 峻弥",
-    "belongs" : "早稲田大学",
+    "affiliation" : "早稲田大学",
     "first" : 0
   }, {
     "presenid" : "D8-5",
     "name" : "山名 早人",
-    "belongs" : "早稲田大学,国立情報学研究所",
+    "affiliation" : "早稲田大学,国立情報学研究所",
     "first" : 0
   }, {
     "presenid" : "D8-6",
     "name" : "今森 大地",
-    "belongs" : "京大",
+    "affiliation" : "京大",
     "first" : 1
   }, {
     "presenid" : "D8-6",
     "name" : "田島 敬史",
-    "belongs" : "京大",
+    "affiliation" : "京大",
     "first" : 0
   }, {
     "presenid" : "X1-1",
     "name" : "No Data",
-    "belongs" : "-",
+    "affiliation" : "-",
     "first" : 1
   }, {
     "presenid" : "X1-2",
     "name" : "No Data",
-    "belongs" : "-",
+    "affiliation" : "-",
     "first" : 1
   }, {
     "presenid" : "X1-3",
     "name" : "No Data",
-    "belongs" : "-",
+    "affiliation" : "-",
     "first" : 1
   }, {
     "presenid" : "X1-4",
     "name" : "No Data",
-    "belongs" : "-",
+    "affiliation" : "-",
     "first" : 1
   }, {
     "presenid" : "X1-5",
     "name" : "No Data",
-    "belongs" : "-",
+    "affiliation" : "-",
     "first" : 1
   } ],
   "keyword" : [ {

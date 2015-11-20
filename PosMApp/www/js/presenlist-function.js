@@ -25,13 +25,13 @@ $.fn.showPresenList = function() {
 				var sessionId = session[sno].sessionid;
 				str += "<tr id='session"+sessionId+"'><th class='sessionTH' colspan='3'><font class='sessionTitle'>" + sessionId + ":<strong>";
 				str += session[sno].title + "</strong></font><br>";
-				str += "<font class='sessionPerson'>座長:" + session[sno].chairpersonname + "("+ session[sno].chairpersonbelongs +")</font><br>"
+				str += "<font class='sessionPerson'>座長:" + session[sno].chairpersonname + "("+ session[sno].chairpersonaffiliation +")</font><br>"
 				if(commentator != null){
 					str += "<font class='sessionPerson'>コメンテータ:";
 					//コメンテーターを探す
 					for(var commentatorNum = 0; commentatorNum < commentator.length ; commentatorNum++){
 						if(commentator[commentatorNum].sessionid === sessionId){
-							str += commentator[commentatorNum].name + "(" + commentator[commentatorNum].belongs + ") ";
+							str += commentator[commentatorNum].name + "(" + commentator[commentatorNum].affiliation + ") ";
 						}
 					}
 					str += "</font></th></tr>";
@@ -162,7 +162,7 @@ function listToDetail(presenid){
 			sessionStorage.setItem("authorname", getAuthorname(presenid));
 			sessionStorage.setItem("authors", getAuthors(presenid));
 			sessionStorage.setItem("keywords", getKeywords(presenid));
-			sessionStorage.setItem("authorbelongs", getAuthorbelongs(presenid));
+			sessionStorage.setItem("authoraffiliation", getAuthoraffiliation(presenid));
 		}
 	});
 

@@ -1,4 +1,4 @@
-id,sessionid,title,abstract,authorname,authorbelongs,bookmark,star
+id,sessionid,title,abstract,authorname,authoraffiliation,bookmark,star
 1,WDB-01,HistoryPaper:ユーザー個人のブラウザ履歴からの代表ページ選択とマガジンスタイルレイアウト,NO DATA,松枝 知香,お茶の水女子大学大学院,0,1
 2,WDB-02,電力使用時の多様な状況組み合わせが可能なDBを用いた状況別電力量の置き換え効果の提示,NO DATA,高橋 慶多,横浜国立大学,0,1
 3,WDB-03,更新内容を即時反映可能なWebアプリケーション向け結合ビューライブラリとその実装,NO DATA,畑谷 卓哉,神戸大学,0,1

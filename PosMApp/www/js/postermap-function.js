@@ -187,8 +187,8 @@ function changeLabel(column) {
 			var str;
 			if (column === "authorname") {
 				str = getAuthorname(poster[i-1].presenid);
-			} else if (column === "authorbelongs") {
-				str = getAuthorbelongs(poster[i-1].presenid);
+			} else if (column === "authoraffiliation") {
+				str = getAuthoraffiliation(poster[i-1].presenid);
 			} else {
 				var p;
 				presen.forEach(function(obj) {
@@ -430,7 +430,7 @@ function selectPoster(posterid) {
 
 			sessionStorage.setItem("authorname", getAuthorname(p.presenid));
 
-			sessionStorage.setItem("authorbelongs", getAuthorbelongs(p.presenid));
+			sessionStorage.setItem("authoraffiliation", getAuthoraffiliation(p.presenid));
 
 			sessionStorage.setItem("bookmark", p.bookmark);
 			sessionStorage.setItem("star", poster[posterid-1].star);
@@ -473,7 +473,7 @@ function removeAllPosterInfo() {
 	sessionStorage.removeItem("title");
 	sessionStorage.removeItem("abstract");
 	sessionStorage.removeItem("authorname");
-	sessionStorage.removeItem("authorbelongs");
+	sessionStorage.removeItem("authoraffiliation");
 	sessionStorage.removeItem("bookmark");
 	sessionStorage.removeItem("star");
 	sessionStorage.removeItem("authors");
@@ -623,7 +623,7 @@ function searchAll(word) {
 	});
 	author.forEach(function(a) {
 		if(a.name.toLowerCase().indexOf(lword) !== -1
-			|| a.belongs.toLowerCase().indexOf(lword) !== -1) {
+			|| a.affiliation.toLowerCase().indexOf(lword) !== -1) {
 			posterids.push(getPosterid(a.presenid));
 		}
 	});
@@ -665,7 +665,7 @@ function setDetails() {
 		? authors
 		: "NO DATA";
 	$("#detail-authors").html(authors);
-	$("#detail-authorbelongs").html(sessionStorage.getItem("authorbelongs"));
+	$("#detail-authoraffiliation").html(sessionStorage.getItem("authoraffiliation"));
 	$("#detail-authorname").html(sessionStorage.getItem("authorname"));
 	if(keyword != null){
 		var keywords = sessionStorage.getItem("keywords");
@@ -741,19 +741,19 @@ function getAuthorname(presenid) {
 		return a.presenid === presenid && a.first === 1;
 	}).map(function(a) {
 	    var author = a.name;
-	    if(a.belongs!=undefined){
-	      author += " ("+a.belongs+")";
+	    if(a.affiliation!=undefined){
+	      author += " ("+a.affiliation+")";
 	    }
 		return author;
 	})[0];
 }
 
 // 所属一覧を取得
-function getAuthorbelongs(presenid) {
+function getAuthoraffiliation(presenid) {
 	return author.filter(function(a) {
 		return a.presenid === presenid;
 	}).map(function(a) {
-		return a.belongs;
+		return a.affiliation;
 	}).filter(function(a, i, self) {
    		return self.indexOf(a) === i;
 	}).join(", ");
@@ -765,8 +765,8 @@ function getAuthors(presenid) {
 		return a.presenid === presenid;
 	}).map(function(a) {
 	    var author = a.name;
-	    if(a.belongs != undefined){
-	      author += " ("+a.belongs+")";
+	    if(a.affiliation != undefined){
+	      author += " ("+a.affiliation+")";
 	    }
 		return author;
 	}).join(", ");
