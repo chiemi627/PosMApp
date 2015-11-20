@@ -27,6 +27,10 @@ var posMAppDataVersionURL = "http://localhost:63342/PosMApp2/PosMApp/www/api/web
 //var posMAppDataURL = "http://app.webdbf.net/api/webdb2015.json";
 //var posMAppDataVersionURL = "http://app.webdbf.net/api/webdb2015_version.json";
 
+function ViewModel(){
+	this.forum = forum;
+}
+
 function initData() {
 
 	if(localStorage.getItem("downloadSuccess")){
@@ -56,6 +60,8 @@ function initData() {
 	STATIC_HEIGHT = 960;
 
 	setMapSize();
+
+	ko.applyBindings(new ViewModel());
 
 }
 

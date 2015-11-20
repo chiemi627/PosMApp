@@ -23,6 +23,10 @@
 	<script type="text/javascript" charset="utf-8" src="js/lib/jquery.hammer.js"></script>
 	<script type="text/javascript" charset="utf-8" src="js/lib/md5.min.js"></script>
 	<script type="text/javascript" charset="utf-8" src="js/lib/jquery.xpost.js"></script>
+	<script type="text/javascript" charset="utf-8" src="js/lib/knockout-3.4.0.js"></script>
+
+	<!-- WebDBF program -->
+	<script type="text/javascript" charset="utf-8" src="http://db-event.jpn.org/webdbf2015/data_forum.js"></script>
 
 	<!-- DB用発表データ -->
 	<script type="text/javascript" charset="utf-8" src="js/data.js"></script>
@@ -44,7 +48,7 @@
 	<meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1">
 </head>
 
-<body>
+<body data-bin="with:forum">
 
 <!-- ローディング画面 -->
 <div id="loading">
@@ -61,9 +65,9 @@
 		WebDB Forum 2015
 		</div>
 		<div id="topPageEventDescription">
-		  	第８回 Webとデータベースに関するフォーラム<br/>
-			2015年11月24日（火）〜25日（水）<br/>
-			芝浦工業大学・豊洲キャンパス
+		  	<span data-bind="text: forum.title.full"></span><br/>
+			<span data-bind="text: forum.date.long"></span><br/>
+			<span data-bind="text: forum.venue.name"></span>
 	</div>
 	</div>
 	<div id="topPageContent">
@@ -81,7 +85,7 @@
 		</div>
 		-->
 
-		<div align="center">  [ <a href="http://db-event.jpn.org/webdbf2015/"> WebDB Forum 2015 Webpage ]</a> </div>
+		<div align="center">  <a data-bind="attr: {href:forum.URL, title: forum.title.long}"> WebDB Forum 2015 Webpage </a> </div>
 
 		<div class="ui-grid-a">
 			<div class="ui-block-a">
