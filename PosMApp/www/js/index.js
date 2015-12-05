@@ -175,6 +175,7 @@ function init() {
 		}
 	});
 
+	$("#timeTable").showTimeTable();
 	$("#presenList").showPresenList();
 	$("#bookmarkList").showBookmarkList();
 

@@ -5,6 +5,7 @@ var poster 			= [],
 	presen 			= null,
 	presents 		= null,
 	session 		= null,
+	session_map     = {},
 	timetable		= null,
 	commentator 	= [],
 //	position_map 	= null,
@@ -21,11 +22,12 @@ var poster 			= [],
 	INIT_SCALE 		= null,
 	SCALE_BY 		= null;
 
+
 // json ファイルの置き場所（URL, 仮）
-//var posMAppDataURL = "http://localhost:63342/PosMApp2/PosMApp/www/api/webdb2015.json";
-//var posMAppDataVersionURL = "http://localhost:63342/PosMApp2/PosMApp/www/api/webdb2015_version.json";
-var posMAppDataURL = "http://app.webdbf.net/api/webdb2015.json";
-var posMAppDataVersionURL = "http://app.webdbf.net/api/webdb2015_version.json";
+var posMAppDataURL = "http://localhost:63342/PosMApp2/PosMApp/www/api/webdb2015.json";
+var posMAppDataVersionURL = "http://localhost:63342/PosMApp2/PosMApp/www/api/webdb2015_version.json";
+//var posMAppDataURL = "http://app.webdbf.net/api/webdb2015.json";
+//var posMAppDataVersionURL = "http://app.webdbf.net/api/webdb2015_version.json";
 
 function ViewModel(){
 	this.forum = forum;
@@ -53,6 +55,8 @@ function initData() {
 		timetable 		= JSON.parse(localStorage.getItem("timetable"));
 		venuemap		= JSON.parse(localStorage.getItem("venuemap"));
 
+		makeSessionMap();
+
 	}
 
 	// BlockFinderにかけた画像の幅
@@ -63,6 +67,12 @@ function initData() {
 
 	ko.applyBindings(new ViewModel());
 
+}
+
+function makeSessionMap(){
+	for(var s in session){
+		session_map[session[s].sessionid] = session[s];
+	}
 }
 
 // ポスターマップの大きさに関するデータを計算して格納

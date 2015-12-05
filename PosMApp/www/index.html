@@ -32,7 +32,7 @@
 	<script type="text/javascript" charset="utf-8" src="js/data.js"></script>
 
 	<script type="text/javascript" charset="utf-8" src="js/logdata-function.js"></script>
-	
+
 	<script type="text/javascript" charset="utf-8" src="js/toppage-function.js"></script>
 	<script type="text/javascript" charset="utf-8" src="js/postermap-function.js"></script>
 	<script type="text/javascript" charset="utf-8" src="js/postermap-function-download.js"></script>
@@ -42,13 +42,14 @@
 	<script type="text/javascript" charset="utf-8" src="js/detail-function.js"></script>
 	<script type="text/javascript" charset="utf-8" src="js/sessiontable-function.js"></script>
 	<script type="text/javascript" charset="utf-8" src="js/postermap-function-hammer.js"></script>
+	<script type="text/javascript" charset="utf-8" src="js/timetable-function.js"></script>
 
 	<script type="text/javascript" charset="utf-8" src="js/index.js"></script>
 
 	<meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1">
 </head>
 
-<body data-bin="with:forum">
+<body>
 
 <!-- ローディング画面 -->
 <div id="loading">
@@ -183,9 +184,9 @@
 				<div id="posterArea"></div>
 			</div>
 			<!-- 前の日 -->
-			<img id="prevDayButton" src="img/prevday.png"></img>
+			<img id="prevDayButton" src="img/prevday.png">
 			<!-- 次の日 -->
-			<img id="nextDayButton" src="img/nextday.png"></img>
+			<img id="nextDayButton" src="img/nextday.png">
 		</div>
 		<!-- 基本情報パネル -->
 		<div style="position: relative;">
@@ -193,9 +194,9 @@
 				<div id="basicinfo"></div>
 				<!-- ブックマークボタン -->
 				<!-- アイコンの切り替えはpostermap.jsで行う -->
-				<img id="bookmarkbutton"></img>
+				<img id="bookmarkbutton">
 				<!-- 詳細情報ボタン -->
-				<img id="detailinfobutton" src="img/detail.png"></img>
+				<img id="detailinfobutton" src="img/detail.png">
 			</div>
 		</div>
 	</div>
@@ -337,73 +338,11 @@
 </div>
 
 <!-- セッションテーブル -->
-<!-- DEIM2014のセッションテーブルの内容 -->
 <div data-role="page" id="informationPage">
   <div data-role="header" data-position="fixed">
     <h1 id="sessionHyou" style="text-align:center">プログラム</h1>
   </div>
-  <div data-role="content"> 
-    <!--date切替ボタン-->
-    <p id="changeDateButton" data-role="controlgroup" data-type="horizontal" align="center">
-        <a id="changeDate01" class="sessiontable1" href="#sessiontable1" data-role="button">11/24</a>
-        <a id="changeDate02" class="sessiontable2" href="#sessiontable2" data-role="button">11/25</a>
-        <a id="changeDate03" class="sessiontable3" href="#sessiontable3" data-role="button">11/26</a>
-      </p>
-    <h3 align="center" id="sessionDate"></h3>
-      <!-- セッションテーブル本体 -->
-      <div id="sessiontables">
-      <div id="sessiontable1" class="sessiontable">
-        <table class="session_table">
-          <tr><th>時間</th><th>会場</th><th>内容</th></tr>
-			<tr><th  class="showtime" bgcolor="blue">9:30</th><td><a class="jumpToVenue">402横</a></td><td>受付開始</td></tr>
-			<tr><th  class="showtime" bgcolor="blue">終日</th><td><a class="jumpToVenue">402前</a></td><td><a id="presenlinkEXH" class="jumpToPresen">常設展示</a></td></tr>
-			<tr><th  class="showtime" bgcolor="blue">9:50</th><td><a class="jumpToVenue">A</a></td><td>オープニング</td></tr>
-			<tr><th  class="showtime" bgcolor="blue">10:00</th><td><a class="jumpToVenue">A</a></td><td><a id="presenlinkA1" class="jumpToPresen">A-1: 特別セッション1<br/>産学官のデータセット</a></td></tr>
-			<tr><td class="rest" colspan="3"　bgcolor="red">昼休み<br>
-			<a class="jumpToVenue">[大会議室]</a> リクルートテクノロジーズ社 主催昼食会
-			</td></tr>
-          <tr><th  class="showtime" rowspan="3" bgcolor="blue">12:40<br />-<br />14:10</th><td><a class="jumpToVenue">A</a></td><td><a id="presenlinkA2" class="jumpToPresen">A2：情報推薦I</a></td></tr>
-          <tr><td><a class="jumpToVenue">B</a></td><td><a id="presenlinkB2" class="jumpToPresen">B2：時系列データマイニング</a></td></tr>
-          <tr><td><a class="jumpToVenue">C</a></td><td><a id="presenlinkC2" class="jumpToPresen">C2：技術報告セッション<br/>情報サービスのサイエンス</a></td></tr>
-          <tr><td class="rest" colspan="3"　bgcolor="red">休憩</td></tr>
-          <tr><th  class="showtime" bgcolor="blue">14:30<br />-<br />16:00</th><td><a class="jumpToVenue">A</a></td><td><a id="presenlinkA3" class="jumpToPresen">A-3：特別セッション：<br/>情報検索とビッグデータ分析</a></td></tr>
-          <tr><td class="rest" colspan="3"　>休憩</td></tr>
-          <tr><th  class="showtime" rowspan="3" bgcolor="blue">16:20<br />-<br />17:40</th><td><a class="jumpToVenue">A</a></td><td><a id="presenlinkA4" class="jumpToPresen">A-4:Webインタラクション</a></td></tr>
-          <tr><td><a class="jumpToVenue">B</a></td><td><a id="presenlinkB4" class="jumpToPresen">B4:データベース技術</a></td></tr>
-          <tr><td><a class="jumpToVenue">C</a></td><td><a id="presenlinkC4" class="jumpToPresen">C4:技術報告セッション<br/>大規模サービスを支えるアルゴリズム</a></td></tr>
-          <tr><td class="rest" colspan="3"　>休憩</td></tr>
-          <tr style="height:30px"><th class="showtime">18:10<br />-<br />20:00</th><td class="banquetRoom"><a class="jumpToVenue">食堂</a></td><td>ポスターレセプション<br />CS領域賞・WebDB論文賞</td></tr>
-        </table>
-      </div>
-      <!--二日目-->
-      <div id="sessiontable2" class="sessiontable">
-        <table class="session_table">
-          <tr><th>時間</th><th>会場</th><th>内容</th></tr>
-			<tr><th  class="showtime" bgcolor="blue">9:30</th><td colspan="2">開場</td></tr>
-
-			<tr><th  class="showtime" rowspan="3" >10:00<br />-<br />11:30</th><td><a class="jumpToVenue">A</a></td><td><a id="presenlinkA5" class="jumpToPresen">A-5:情報推薦II</a></td></tr>
-          <tr><td><a class="jumpToVenue">B</a></td><td><a id="presenlinkB5" class="jumpToPresen">B-5:時空間・バイオデータ</a></td></tr>
-          <tr><td><a class="jumpToVenue">C</a></td><td><a id="presenlinkC5" class="jumpToPresen">C-5:技術報告セッション：<br/>システム基盤技術</a></td></tr>
-          <tr><td class="rest" colspan="3"　bgcolor="red">昼休み<br/>
-		  <a class="jumpToVenue">[委員会会場 3F301] </a>DBS研＋DE研委員会
-		  </td></tr>
-          <tr><th  class="showtime" rowspan="3">12:30<br />-<br />14:00</th><td><a class="jumpToVenue">A</a></td><td><a id="presenlinkA6" class="jumpToPresen">A-6:マルチメディア</a></td></tr>
-          <tr><td><a class="jumpToVenue">B</a></td><td><a id="presenlinkB6" class="jumpToPresen">B-6:セマンティクス</a></td></tr>
-          <tr><td><a class="jumpToVenue">C</a></td><td><a id="presenlinkC6" class="jumpToPresen">C-6:技術報告セッション<br/>Web情報サービスの新展開</b></a></td></tr>
-			<tr><td class="rest" colspan="3"　>休憩</td></tr>
-          <tr><th  class="showtime">14:20<br />-<br />15:50</th><td><a class="jumpToVenue">A</a></td><td><a id="presenLinkA7" class="jumpToPresen">A-7:論文賞セッション</a></td></tr>
-          <tr><td class="rest" colspan="3"　>休憩</td></tr>
-			<tr><th  class="showtime">16:10<br />-<br />17:40</th><td><a class="jumpToVenue">A</a></td><td><a id="presenLinkA8" class="jumpToPresen">A-8:特別セッション3<br/>Deep Learningと自然言語処理</a></td></tr>
-          <tr><td class="rest" colspan="3"　>休憩</td></tr>
-          <tr><th class="showtime">17:50<br />-<br />18:20</th>
-          <td><a class="jumpToVenue">A</a></td><td>webDB表彰<br />クロージング</td></tr>
-        </table>
-      </div>
-      <!--三日目-->
-      <div id="sessiontable3" class="sessiontable">
-		  データベースシステム研究会<br>
-		  近日中にプログラムを作成します。
-      </div>
+  <div data-role="content" id="timeTable">
   </div>
   	<!-- タブバー -->
 	<!-- <div class="tabbar"></div> -->

@@ -1555,13 +1555,13 @@
     }
   ],
   "session" : [
-
     {
     "sessionid" : "A1",
     "title" : "特別セッション1：産学官のデータセット",
     "chairpersonname" : "松下 光範",
     "chairpersonaffiliation" : "関西大学"
-  },{
+    },
+    {
       "sessionid" : "A2",
       "title" : "情報推薦I",
       "chairpersonname" : "江口 浩二",
@@ -1644,6 +1644,273 @@
       "title" : "常設展示"
     }
   ],
-  "timetable": 1,
-  "venuemap":1
+  "venuemap":1,
+  "timetable" : [
+    {
+      "day_id": "1",
+      "day": "11/24",
+      "schedule": [
+        {
+          "start_time": "9:50",
+          "end_time": "10:00",
+          "slot_type" : "session",
+          "time_display" : "start_only",
+          "sessions": [
+            {
+              "room": "A",
+              "sessionid": "",
+              "session_name": "オープニング"
+            }
+          ]
+        },
+        {
+          "start_time": "10:00",
+          "end_time": "11:30",
+          "slot_type" : "session",
+          "time_display" : "all",
+          "sessions": [
+            {
+              "room": "A",
+              "sessionid": "A1",
+              "session_name": ""
+            }
+          ]
+        },
+        {
+          "start_time": "11:30",
+          "end_time": "12:40",
+          "slot_type" : "break",
+          "time_display" : "no",
+          "sessions": [
+            {
+              "room": "",
+              "sessionid": "",
+              "session_name": "昼休み"
+            },
+            {
+              "room": "大会議室",
+              "sessionid": "",
+              "session_name": "リクルートテクノロジーズ社主催昼食会"
+            }
+          ]
+        },
+        {
+          "start_time": "12:40",
+          "end_time": "14:10",
+          "slot_type" : "session",
+          "time_display" : "all",
+          "sessions": [
+            {
+              "room": "A",
+              "sessionid": "A2",
+              "session_name": ""
+            },
+            {
+              "room": "B",
+              "sessionid": "B2",
+              "session_name": ""
+            },
+            {
+              "room": "C",
+              "sessionid": "C2",
+              "session_name": ""
+            }
+          ]
+        },
+        {
+          "start_time": "14:10",
+          "end_time": "14:30",
+          "slot_type" : "break",
+          "time_display" : "no",
+          "sessions": [
+            {
+              "room": "",
+              "sessionid": "",
+              "session_name": "休み時間"
+            }
+          ]
+        },
+        {
+          "start_time": "14:30",
+          "end_time": "16:00",
+          "slot_type" : "session",
+          "time_display" : "all",
+          "sessions": [
+            {
+              "room": "A",
+              "sessionid": "A3",
+              "session_name": ""
+            }
+          ]
+        },
+        {
+          "start_time": "16:00",
+          "end_time": "16:20",
+          "slot_type" : "break",
+          "time_display" : "no",
+          "sessions": [
+            {
+              "room": "",
+              "sessionid": "",
+              "session_name": "休み時間"
+            }
+          ]
+        },
+        {
+          "start_time": "16:20",
+          "end_time": "17:50",
+          "slot_type" : "session",
+          "time_display" : "all",
+          "sessions": [
+            {
+              "room": "A",
+              "sessionid": "A4",
+              "session_name": ""
+            },
+            {
+              "room": "B",
+              "sessionid": "B4",
+              "session_name": ""
+            },
+            {
+              "room": "C",
+              "sessionid": "C4",
+              "session_name": ""
+            }
+          ]
+        },
+        {
+          "start_time": "17:40",
+          "end_time": "18:10",
+          "slot_type" : "break",
+          "time_display" : "no",
+          "sessions": [
+            {
+              "room": "",
+              "sessionid": "",
+              "session_name": "休み時間"
+            }
+          ]
+        },
+        {
+          "start_time": "18:10",
+          "end_time": "20:00",
+          "slot_type" : "session",
+          "time_display" : "all",
+          "sessions": [
+            {
+              "room": "食堂",
+              "sessionid": "",
+              "session_name": "ポスターレセプションCS領域賞・WebDB論文賞"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day_id" : "2",
+      "day": "11/25",
+      "schedule": [
+        {
+          "start_time" : "10:00",
+          "end_time" : "11:30",
+          "slot_type" : "session",
+          "time_display" : "all",
+          "sessions" : [
+            {
+              "room" : "A",
+              "sessionid" : "A5",
+              "session_name" : ""
+            },
+            {
+              "room" : "B",
+              "sessionid" : "B5",
+              "session_name" : ""
+            },
+            {
+              "room" : "C",
+              "sessionid" : "C5",
+              "session_name" : ""
+            }
+          ]
+        },
+        {
+          "start_time" : "11:30",
+          "end_time" : "12:30",
+          "slot_type" : "break",
+          "time_display" : "no",
+          "sessions" : [
+            {
+              "room" : "",
+              "sessionid" : "",
+              "session_name" : "昼休み"
+            },
+            {
+              "room" : "委員会",
+              "sessionid" : "",
+              "session_name" : "DBS研＋DE研委員会"
+            }
+          ]
+        },
+        {
+          "start_time" : "12:30",
+          "end_time" : "14:00",
+          "slot_type" : "session",
+          "time_display" : "all",
+          "sessions" : [
+            {
+              "room" : "A",
+              "sessionid" : "A6",
+              "session_name" : ""
+            },
+            {
+              "room" : "B",
+              "sessionid" : "B6",
+              "session_name" : ""
+            }
+          ]
+        },
+        {
+          "start_time" : "14:00",
+          "end_time" : "14:20",
+          "slot_type" : "session",
+          "time_display" : "all",
+          "sessions" : [
+            {
+              "room" : "",
+              "sessionid" : "",
+              "session_name" : "休み時間"
+            }
+          ]
+        },
+        {
+          "start_time" : "14:20",
+          "end_time" : "15:50",
+          "slot_type" : "break",
+          "time_display" : "no",
+          "sessions" : [
+            {
+              "room" : "A",
+              "sessionid" : "A7",
+              "session_name" : ""
+            }
+          ]
+        },
+        {
+          "start_time" : "15:50",
+          "end_time" : "18:20",
+          "slot_type" : "session",
+          "time_display" : "all",
+          "sessions" : [
+            {
+              "room" : "A",
+              "sessionid" : "",
+              "session_name" : "WebDB表彰/クロージング"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
+
