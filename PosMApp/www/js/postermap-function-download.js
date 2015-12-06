@@ -53,6 +53,7 @@ function ajaxdownload(pageName){
 					console.log("Download Success");
 
 					// データを格納
+					basic_info      = data.basic_info;
 					poster 			= data.poster;
 					author 			= data.author;
 					keyword 		= data.keyword;
@@ -69,6 +70,9 @@ function ajaxdownload(pageName){
 					STATIC_WIDTH 	= data.STATIC_WIDTH;
 					STATIC_HEIGHT 	= data.STATIC_HEIGHT;
 
+                    if(basic_info != null){
+                        localStorage.setItem("basic_info",JSON.stringify(data.basic_info));
+                    }
 					localStorage.setItem("poster",JSON.stringify(data.poster));
 					localStorage.setItem("author",JSON.stringify(data.author));
 					if(keyword != null){

@@ -1,5 +1,6 @@
 // 共通のデータを格納するグローバル変数
 var poster 			= [],
+    basic_info      = null,
 	author 			= null,
 	keyword 		= null,
 	presen 			= null,
@@ -54,6 +55,7 @@ function initData() {
 		poster_days		= posmapp_bg.length;
 		timetable 		= JSON.parse(localStorage.getItem("timetable"));
 		venuemap		= JSON.parse(localStorage.getItem("venuemap"));
+	    basic_info      = JSON.parse(localStorage.getItem("basic_info"));
 
 		makeSessionMap();
 

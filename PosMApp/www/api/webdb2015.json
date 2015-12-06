@@ -1,4 +1,12 @@
 {
+  "basic_info" : {
+    "event_name_full" : "第8回 Webとデータベースに関するフォーラム",
+    "event_name_short" : "WebDB Forum 2015",
+    "start_date" : "2015/11/24",
+    "end_date" : "2015/11/25",
+    "venue" : "芝浦工業大学・豊洲キャンパス",
+    "webpage" : "http://db-event.jpn.org/webdbf2015/"
+  },
   "toppage_img" : "img/toppage.gif",
   "posmapp_bg" : [ "img/poster_floor.gif", "img/exhibit.gif" ],
   "STATIC_WIDTH" : 720,

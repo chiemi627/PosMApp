@@ -27,7 +27,7 @@ function init() {
 
 	//　ポスターデータのダウンロード
 	//　各mapに関する変数に値を与える
-    	checkDataVersion();
+    checkDataVersion();
 	downloadPoster();
 
 	// データ格納変数に据え置きの初期データを格納する
@@ -51,6 +51,10 @@ function init() {
 		$(".ReDownloadBtn").hide();
 	}
 
+    $("#eventBasicInfo").showBasicInfo();
+    setTopPageProperties();
+
+
 	initPosterMap();
 
 	// 会場の画像を1日目に変更
@@ -66,7 +70,7 @@ function init() {
 	setPosterIcons();
 
 	// Hammer on stage
-		initHammer();
+	initHammer();
 
 	$("#resetScaleButtonFrame").css("zoom", window.innerWidth/1200);
 
@@ -229,9 +233,10 @@ function init() {
 	$(".jumpToPresen").jumpToPresen();
 
 
-	$("#changeDate01").changeDate('sessiontable1');
-	$("#changeDate02").changeDate('sessiontable2');
-	$("#changeDate03").changeDate('sessiontable3');
+	for (var d in timetable){
+	    var dno = Number(d)+1;
+	    $("#changeDate0"+dno).changeDate('sessiontable'+dno);
+	}
 
 	// 1日目のセッションを表示しておく
 

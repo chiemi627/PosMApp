@@ -61,16 +61,7 @@
 	<!-- 背景画像 -->
 	<img id="topPageBackground" src="img/toppage.gif"/>
 	<!-- コンテンツ -->
-	<div id="topPageTitle">
-		<div id="topPageEventName">
-		WebDB Forum 2015
-		</div>
-		<div id="topPageEventDescription">
-		  	<span data-bind="text: forum.title.full"></span><br/>
-			<span data-bind="text: forum.date.long"></span><br/>
-			<span data-bind="text: forum.venue.name"></span>
-	</div>
-	</div>
+	<div id="eventBasicInfo"></div>
 	<div id="topPageContent">
 		<!--
 		<div id="reDownloadDIV" class="reDownloadDIV" align="center">
@@ -86,7 +77,7 @@
 		</div>
 		-->
 
-		<div align="center">  <a data-bind="attr: {href:forum.URL, title: forum.title.long}"> WebDB Forum 2015 Webpage </a> </div>
+		<div id="event-webpage" align="center"></div>
 
 		<div class="ui-grid-a">
 			<div class="ui-block-a">
@@ -219,7 +210,7 @@
 <!-- 詳細情報画面 -->
 <div data-role="page" id="detailPage">
 	<div data-role="header">
-		<h1 style="text-align:center"　>詳細情報</h1>
+		<h1 style="text-align:center">詳細情報</h1>
 		<a href="#" class="ui-btn-left"  data-icon="carat-l" id="detailBackButton" >戻る</a>
 	</div>
 	<div data-role="content">
